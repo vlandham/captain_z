@@ -61,4 +61,14 @@ What a commotion those pirates make when they are sleeping!
 
 There was enough snoring down here to make you believe that someone really was sawing through lumber - as the expression goes. 
 
-Captain Z crept past the loud open bed rooms and shuffled into the cluttered and crowded map room. There were maps everywhere. They covered the tables and were rolled up and scattered on the floor. Maps stuck out of vases and pots and pans. They hung on every inch of the walls.
+Captain Z crept past the loud open bed rooms and shuffled into the cluttered and crowded map room. There were maps everywhere. They covered the tables and were rolled up and scattered on the floor. Maps stuck out of vases and pots and pans. They hung on every inch of the walls. But none of the maps laying out was the map Captain Z was here for. 
+
+Over in the corner of the room was a small wooden chest, not taller then your knee. And in that chest, Sophia knew, was the lost map of the treasure buried on Castle Island.
+
+The chest was locked. Captain Z knew that it would be. Such an important map wouldn't be just lying around. And she also knew that the only key was right now strung around Dread Captain Soots neck. But there is always more then one way to steal a map, and lucky for Captain Z, some pirates never think about these other ways. But she does.
+
+Instead of trying to unlock the chest to get the map, Captain Z just grabbed the whole chest - with the map still inside!
+
+Out of the map room and back down the hall went Captain Z and her new chest. The chest was heavy, but not too heavy to be carried for a few minutes, which is all it would take her to get back down to her ship. Yes, it would only take a few minutes and she would be safely away to the island to find the treasure, while the rest of this silly crew is still fast asleep in their pajamas.
+
+But while Captain Z was smiling to herself and thinking of how smart she was, she forgot to watch where she was going. She reached the steps to the deck but missed the first one. BAM! She tripped on that first step and the chest came crashing down, with her behind it. 
