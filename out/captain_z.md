@@ -25,6 +25,9 @@ Let's look, listen, and find out.
 
 ## 2
 
+![Castle Island](img/castle_island.png)
+
+
 Captain Z rests on an especially large rock next to the steep path she's been following to check the map in her hand. She makes sure she is still on the right path, and then continues trudging up the mountain. 
 
 The map is a treasure map, showing the route up these rocky cliffs of Castle Island. 
