@@ -19,6 +19,16 @@
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
 
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\sffamily\Large\bfseries\centering}
+  {\chaptertitlename\ \thechapter}{0pt}{\Huge}
+\titleformat{\section}
+  {\normalfont\sffamily\large\bfseries\centering}
+  {\thesection}{1em}{}
+\titlespacing*{\chapter}{0pt}{30pt}{20pt}
+\newcommand{\sectionbreak}{\clearpage}
+
 
 % Page
 
