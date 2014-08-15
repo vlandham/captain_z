@@ -352,7 +352,43 @@ On the map, there was a little arrow that pointed at the base of the cliffs. Nex
 
 Captain Z looked up again and walked further away from the beach. The trees and bushes here kept her lantern hidden.
 
-She walked along the rocky steep side of the cliffs. It was slow going, the bushes and trees blocked her way, making her go around. Large rocks and boulders were everywhere. More then a few times, the way was blocked by one of these big rocks and she had to backtrack to find another way around. 
+She walked along the rocky steep side of the cliffs. It was slow going. 
 
-She was tired and scratched up when she finally something that made her heart skip a beat. 
+The bushes and trees blocked her way, making her go around. Large rocks and boulders were everywhere. More then a few times, the way was blocked by one of these big rocks and she had to backtrack to find another way around.
 
+She was walking alongside one of these boulders when a root caught her foot and sent her sprawling to the ground. 
+
+She crawled to her knees and sat down. Her leg hurt now from the fall and her arms were sore from the rowing and scratched from the bushes and trees. She had the feeling of wanting to give up and row away. Maybe the treasure wasn't even here anymore. Maybe it was all just a made up story. 
+
+Sitting on the ground with these thoughts in her head, she finally looked up as the clouds parted for a few minutes to let the moon shine down. She saw something that made her heart skip a beat. 
+
+In fact it was three somethings. Three big rocks broke out of the ground, bent and pointed like claws. That was the spot on the map that she had been looking for.
+
+She jumped up and ran as fast as she could in the dark to the three big stones. 
+
+At first, it didn't look like any path was around. But then she squeezed her head behind the claw closest to the cliffs and saw a crack in the rocks. You wouldn't see it if you didn't know where to look, but that was the start to the path to the treasure. 
+
+Captain Z squeezed her arms in past the rock and then pulled the rest of herself into the crack.
+
+She could see the path heading up the cliffs, zig-zagging right up the side.
+
+Captain Z started walking quickly up the path, excited to be so close now, but on the look out for more roots and more pirates. 
+
+# 16
+
+
+Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where's and the whys of what she is doing. 
+
+Captain Spears and his men are rowing fast to reach the island and start the search for the thief pirate. 
+
+Captain Z is well on her way to finding out what secrets castle island really hold. 
+
+And now there is this mysterious note with its mysterious letters. It was belonging to Captain Spears. Now it is the pocket of Captain Zephyr. But as to what it says or who it's from, that we have no idea. 
+
+Will captain spears find our hero, captain z?
+
+Will she find the treasure and escape somehow? 
+
+I don't know. All we can do is keep reading and hope against hope that everything will turn out alright. 
+
+# 17
