@@ -1,10 +1,14 @@
-\documentclass[12pt]{book}
+\documentclass[14pt]{book}
+
+\usepackage[paperwidth=5.5in, paperheight=8.5in]{geometry}
 
 % Fonts and typography
 
 %% Typography
 \usepackage[no-math]{fontspec}
 \defaultfontfeatures{Mapping = tex-text, Scale = MatchLowercase}
+
+\usepackage{csquotes}
 
 %% Fonts
 \setmainfont{Adobe Garamond Pro}
@@ -21,12 +25,17 @@
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
-  {\normalfont\sffamily\Large\bfseries\centering}
-  {\chaptertitlename\ \thechapter}{0pt}{\Huge}
+  {\normalfont\sffamily\huge\bfseries\centering}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
 \titleformat{\section}
-  {\normalfont\sffamily\large\bfseries\centering}
-  {\thesection}{1em}{}
+  {\normalfont\sffamily\huge\bfseries\centering}
+  {\thesection}{1em}{\Huge}
 \titlespacing*{\chapter}{0pt}{30pt}{20pt}
+
+% \usepackage{titlesec}
+% \titleformat{\chapter}[display]
+% {\normalfont\huge\bfseries}{\centering\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
 
 % new page for every chapter
 % \newcommand{\sectionbreak}{\clearpage}
