@@ -3,21 +3,23 @@
 
 Our story begins, as most pirate stories do, in the dark. 
 
-The low glow of a lamp, running out of oil, is the only light about. The stars and moon covered by the angry clouds of a dark and stormy sky. 
+The low glow of a lamp, running out of oil, was nearly the only light about. The stars and moon up above helped a bit, but its darkest, as they say, just before the dawn.
 
-This lamp shines its light on a little dirt path between the rocks. The path goes up through the cliffs of a forlorn and bare little rock of an island. The cliffs, the rocks, the path, and a few palm trees are about the only things on this island - apart from the treasure, that is.
+This lamp shined its light on a little dirt path between the rocks. The path went up through the cliffs of a forlorn and bare little rock of an island. The cliffs, the rocks, the path, and some palm trees were about the only things on this island, apart from the treasure.
 
-And it is because of this treasure that our pirate friend is here on this little island tonight as well. Though friend might not be the word to use for such a terrible figure as this one.
+And it was because of this treasure that our pirate friend was here on this little island that night. Though, friend might not be the word to use for such a mean figure as this one.
 
-The little lamp she holds gives us a glimpse at her face. A jagged scar runs across it - starting at the left ear and painting a crooked Z through the nose, before ending at the other side of her chin. 
+The little lamp she held gave a glimpse of her face. A jagged scar ran across it, starting at the left ear it painted a crooked Z across her eye, and ended at her nose. She held up a map and looked closely at the markings on it.
 
-Her mouth is turned down in a deep frown. Her eyes, look like two pieces of coal - black and smoldering - as they stare out into the darkness. 
+Her mouth was turned down in a deep frown of concentration. Her eyes, looked like two pieces of coal, black and smoldering, as they stared down at the scrap of paper that might get her to that treasure she was so keen on finding. 
 
-And of course, her grand feathered captains hat covers her matted brown hair - dirty and braided into knots and hooks. 
+The feathered captains hat on her head casted a shadow on the map as she leaned in. The hat covered her matted hair, dirty and braided into hooks and knots.
 
-This is our hero, as it were: Captain Sophia Zephyr.
+She made a decision about which way to go, rolled up the map, and started back up the trail.
 
-Though Captain Z doesn't start this tale as a hero. She starts it, as you might expect from such a story, as a pirate! An especially mean and especially terrible, no-good villain of a pirate. 
+This is our hero, as it were, Captain Sophia Zephyr.
+
+Though Captain Z doesn't start this tale as a hero. She starts it, as you might expect from such a story, as a pirate! An especially crafty no-good villain of a pirate. 
 
 But, there is a chance she might not stay that way. 
 
@@ -25,17 +27,17 @@ Let's look, listen, and find out.
 
 # 2
 
-Captain Z rests for a bit on one of the large rocks along the steep path she's been following and checks the map in her hand. She makes sure she is still on the right path, and then continues trudging up the mountain. 
+Captain Z rested for a bit on one of the large rocks along the steep path shed been following and checked the map again. She made sure she was still on the right path, and then continued to trudge up the mountain. 
 
-The map is a treasure map, showing the route up these rocky cliffs of Castle Island. 
+The map in her hand was a treasure map of the very island she was on. The pirates called this place Castle Island.
 
-The path she is taking leads to an X on the map, and you know that X marks the spot. The spot of the treasure that Captain Z is hoping to find and escape with before she is found out herself. 
+The path she was taking ended at an X on the map, and you know that an X always marks the spot. The spot of the treasure that Captain Z was hoping to find and escape with before she was found out herself. 
 
-You see, Captain Z is not the only pirate walking about on this island in the middle of a dark and stormy night. The Dread Captain Spears and his crew of scoundrels are searching and scouting on on that island too. Except they don't have the treasure map, you see, as Captain Z has stolen it from them, so they can't be searching for treasure. Instead, they are searching for her!
+You see, Captain Z was not the only pirate walking about on this island at the end of a dark night. The Dread Captain Spears and his crew of scoundrel pirates were searching and scouting on on that island as well. Except they didn't have the treasure map, you see, as Captain Z had stolen it from them. Instead, they were searching for her!
 
 # 3
 
-Earlier, this same night, things were a different story altogether. 
+Earlier, that same night, things were a different story altogether. 
 
 The Dread Captain Spears had the treasure map of Castle Island all locked up and safe on his ship The Sea Breaker. At least he thought it was locked up safe.
 
@@ -383,21 +385,27 @@ Will captain spears find our hero, captain z?
 
 Will she find the treasure and escape somehow? 
 
-I don't know. All we can do is keep reading and hope against hope that everything will turn out alright. 
+I don't know. All we can do is keep reading, and hope against hope that everything will turn out alright. 
 
 # 17
 
-She finds her way to the cave
+Captain Z was halfway up the monster of a hill by the time dawn started to break in the East. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
+
+Day light would make finding the treasure easier. It would make Captain Spears's job of finding her easier too. Captain Z pressed onward and upward.
+
+The map showed the way to go at the fork in the path was left. Then it should curve back to the right before more zig-zagging up a steeper part near the top. Captain Z had already run into a few dead-ends and made some wrong turns. It is hard work to read a treasure map, especially in the dark. But she was determined not to quit now. She was close to that treasure, she knew it.
+
+Captain Spears and his scoundrels were still nowhere to be seen. She figured they were close to the island now, perhaps even on shore. She hoped that there was not another way up the cliffs that wasn't shown on the map. It would be a terrible surprise to reach the X on the map and have Spears and his crew waiting there for her.
+
+With the pink light over the hill above her, she picked up the pace and started to jog up the path. _Even if he is there waiting,_ she thought, _I'll still be the one leaving this island with the treasure. Someway, somehow, I will be the one._
 
 # 18
 
-The pirates track after her
+The pirates tracked after her
 
 # 19
 
-She finds the feathers and the note
-
-She hears the pirates coming
+At the top of the cliffs, Captain Z opened the map one last time. 
 
 # 20
 
