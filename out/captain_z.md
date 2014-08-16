@@ -140,7 +140,7 @@ She crept out from under the tarp with the chest and headed for the side of the 
 
 As she turned back around to check that no one was watching her, she smacked face-to-face with that nastiest of cats, Hissy!
 
-Hissy had jumped up on the railing next to her and stuck its face out to scare her. Hissy started up a terrible fit of hissing and meowing. This startled Caption Z such that she stepped backward, tripped over the railing, and went falling head first over the side of the boat. 
+Hissy had jumped up on the railing next to her and stuck its face out to scare her. Hissy started up a terrible fit of hissing and meowing. This startled Captain Z such that she stepped backward, tripped over the railing, and went falling head first over the side of the boat. 
 
 # 8
 
@@ -371,7 +371,6 @@ Captain Z started walking quickly up the path, excited to be so close now, but o
 
 # 16
 
-
 Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where's and the whys of what she is doing. 
 
 Captain Spears and his men are rowing fast to reach the island and start the search for the thief pirate. 
@@ -387,3 +386,85 @@ Will she find the treasure and escape somehow?
 I don't know. All we can do is keep reading and hope against hope that everything will turn out alright. 
 
 # 17
+
+She finds her way to the cave
+
+# 18
+
+The pirates track after her
+
+# 19
+
+She finds the feathers and the note
+
+She hears the pirates coming
+
+# 20
+
+Not thinking, Captain Z shoved the feathers into one of the many pockets on her vest, out of habit. 
+
+It turns out that this thoughtless action was in fact a very good thought indeed, as we shall find out.
+
+The pirates came into the cave. Smiling with mean smiles and waving their cutlasses about. With the leather bag in her hands, Captain Z backed up further and further till she was right in front of the little opening in the cave wall that looked out to the sea.
+
+If she stayed in the cave, the treasure would be lost, and maybe worse. She decided to try her luck out of the cave. Perhaps there was a way down.
+
+She turned to the little window and before any of the other pirates could grab her she was out on a ledge outside the cave. The wind was blowing a gale, and there was just a few spots in the rocks to hold on to.
+
+Captain Z looked down to see the ocean crashing into the rocks below. Those rocks looked big and sharp, even from up there. One slip, and she was a goner. Perhaps this wasn't such a good idea, she thought to herself.
+
+She tried to shimmy away from the window to the cave, but didn't get far. The ledge stopped short a little ways past the hole. There didn't seem like there was anything other place to put her feet. She was stuck.
+
+Captain Spears and Hissy ducked into the cave last after his crew. He saw Captain Zephyr's legs as she went through the hole. 
+
+His eyes went from cool confidence to wild panic, all in one second.
+
+"She's escaping you fools! Grab her!" He shouted. The pirates closest to the hole looked out, but didn't move. They weren't eager about following Captain Z out the window. Instead, they just stood where they were looking back and forth between the fearful Captain Spears and the fearful cliff wall. 
+
+Captain Spears pushed past them. "Ya good-for-nothings," he muttered.
+
+He himself pushed his head and shoulders through the hole to look out on to the other side. 
+
+# 21
+
+There was Sophia Zephyr, stuck on the edge of the ledge, just out of reach. She was trying to find a way down the cliff side, but without any luck. 
+
+Captain Spears considered going out on the ledge himself to get the treasure bag. Then he looked down at the rocks below and thought better of the idea. Maybe he could talk her back inside.
+
+"Tis over, lassie," he said with a smirk. "Give me the bag, and we'll get you back to solid ground."
+
+"Walking the plank doesn't seem so solid to me," Captain Z shot back. Her arms were aching. She wouldn't be able to hold on much longer. 
+
+"On my mother's own watery grave," said Spears, trying hard to look honest, "not a hair on your pretty head need be harmed if you give up the booty now." Then he looked down with a grin. "Unlikely, I'd say, to get such a promise from those rocks down there though."
+
+Captain Z didn't trust Spears one bit, but what other choice did she have? The game was up. 
+
+Slowly, Captain Z shuffled back toward the window to the cave. 
+
+Captain Spears stepped back and watched as she got closer, so as not to scare her. They could deal with her once the treasure was out of her hands and into his. 
+
+Outside the window, Captain Z tossed in the treasure bag that had caused all the trouble. The pirates were on the bag in a flash, pushing and pulling, each one wanting to be the first to see the treasure first. Not one of those scoundrels suspected the treasure to be elsewhere.
+
+But Hissy knew something was amiss. As Captain Zephyr reached for the window to pull herself in, that meanest of cats ran up to her with a growl. It bit at Captain Z's vest pocket, pulling out one of the feathers she had hidden there.
+
+Captain Z grabbed for the feather and snatched it out of Hissy's mouth. Her other hand slipped from the rock.
+
+She didn't even have time to scream before fell backwards, down to the rocks and the sea below.
+
+# 22
+
+The captain's eyes were shut tight while she braced for the crash. She expected the end to be terrible. 
+
+But the end never came. 
+
+After what seemed like a long while, Captain Z bravely opened one eye, just a peak. Then she opened it a bit wider. Then both eyes. Then both eyes wide.
+
+She wasn't falling down. She was floating down!
+
+She drifted down the cliff side, the way a dandelion seed might on the breeze.
+
+By the time she made it to the crashing waves and the rocks, her legs were beneath her. She touched down gently as you please, her feet resting on the top of a mossy rock.
+
+Looking all around for an explanation, she saw none. She looked up high at the hole from which she fell. It looked tiny from down here. She looked down at the ocean and the waves rolling and crashing around her. Then she looked at the feather in her hand. 
+
+She stared at it, unbelieving. She put it in her pocket. Immediately when she took her hand out, all her weight came back. Her body felt heavy and her legs felt weak. Quickly, she hopped onto another rock for better balance.  
