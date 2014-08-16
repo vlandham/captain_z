@@ -405,7 +405,11 @@ The pirates tracked after her
 
 # 19
 
-At the top of the cliffs, Captain Z opened the map one last time. 
+At the top of the cliffs, Captain Z opened the map one last time. According to the map, there should be a hole up here. A hole that lead down into a little cave. And on the map, in that cave, the X was placed. The spot where the treasure was at. But this hole that lead to the cave was covered and hidden. Captain Z looked at the map to find out what landmark she should be looking for to uncover the hole. 
+
+The map showed a scrawny, spindly pine tree, next to a wide rock. Under that rock was the hole. She hoped that the tree was still alive and hadn't been knocked down by a storm. The winds could blow a gale out here in the ocean. 
+
+Captain Z scouted around along the top of the cliffs, being careful with her feet along the edge. Looking down, it was a long drop to the ocean below. One wrong step and... well she rather not ponder the drop.
 
 # 20
 
