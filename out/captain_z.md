@@ -27,28 +27,28 @@ I don't know. All we can do is watch and listen together to find out.
 
 #
 
-Captain Z rested for a bit on one of the large rocks along the steep path shed been following and checked the map again. She made sure she was still on the right path, and then continued to trudge up the mountain. 
+Captain Z stopped for a bit to rest on one of the large rocks along the steep path shed been following and checked the map again. She made sure she was still on the right path, and then continued to trudge up the mountain. 
 
 The map in her hand was a treasure map of the very island she was on. The pirates called this place Castle Island.
 
-The path she was taking ended at an X on the map, and you know that an X always marks the spot. The spot of the treasure that Captain Z was hoping to find and escape with before she was found out herself. 
+The path she was taking ended at an X on the map, and you know that an X always marks the spot. And this was the spot of treasure that Captain Z was hoping to find and escape with before she was discovered.
 
-You see, Captain Z was not the only pirate walking about on this island at the end of a dark night. The Dread Captain Spears and his crew of scoundrel pirates were searching and scouting on on that island as well. Except they didn't have the treasure map, you see, as Captain Z had stolen it from them. Instead, they were searching for her!
+You see, Captain Z was not the only pirate creeping about on this island at the end of a dark night. The Dread Captain Spears and his crew of scoundrel pirates were searching and scouting on the island as well. Except they didn't have the treasure map, you see, as Captain Z had stolen it from them. Instead, they were searching for her!
 
 #
 
 Earlier, that same night, things were a different story altogether. 
 
-The Dread Captain Spears had the treasure map of Castle Island all locked up and safe on his ship The Sea Breaker. At least he thought it was locked up safe.
+The Dread Captain Spears had the treasure map of Castle Island all locked up and safe on his ship The Sea Breaker. At least, he thought it was locked up safe.
 
-But he probably wouldn't have thought that if he knew Captain Zephyr was on her way to take it from him. 
+But he probably wouldn't have thought his map so secure if he knew Captain Zephyr was on her way to take it from him. 
 
 The Sea Breaker was moored up a stones throw from Castle Island. Captain Spears' plan was for he and his pirate crew to get a good night's sleep, and then have the whole next day to search for the treasure shown on his map. He had even made his crew go to bed early, much to their grumbling and complaining. 
 
 But as he and his crew were putting on their pajamas, a little boat slowly and quietly rowed its way toward their mighty pirate ship. 
 
 Captain Z was the only person in that little row boat, along with a hook and rope, her lamp, and of course her grand feathered captains hat. 
-As the sky darkened into night, Captain Z rowed right up to the side of that big pirate ship. Swinging her hook and rope around, she threw it up and snagged the hook around the rail. Then Captain Z was up on the top deck - quick as a wink and quiet as a mouse. 
+As the sky darkened into night, Captain Z rowed right up to the side of the big pirate ship. Swinging her hook and rope around, she threw it up and snagged the hook around the rail. Then Captain Z was up on the top deck - quick as a wink and quiet as a mouse. 
 
 She tiptoed across the deck, toward the door leading below deck. Carefully, she skipped over squeaky looking planks and tangles of rope that might trip her up. 
 
@@ -58,23 +58,29 @@ The door gave a little squeak as she opened it, but not one of those scoundrel p
 
 What a commotion those pirates make when they are sleeping!
 
-There was enough snoring down here to make you believe that someone really was sawing through lumber - as the expression goes. 
+There was enough snoring down there to make you believe that someone really was sawing through lumber, as the expression goes. 
 
-Captain Z crept past the loud open bed rooms and shuffled into the cluttered and crowded map room. There were maps everywhere. They covered the tables and were rolled up and scattered on the floor. Maps stuck out of vases and pots and pans. They hung on every inch of the walls. But none of the maps laying out was the map Captain Z was here for. 
+Captain Z crept past the loud open bed rooms and shuffled into the cluttered and crowded map room. Maps where everywhere. They covered the tables and were rolled up and scattered on the floor. Maps stuck out of vases and pots and pans. They hung on every inch of the walls. But none of the maps laying out was the map Captain Z was there for. 
 
-Over in the corner of the room was a small wooden chest, not taller then your knee. And in that chest, Sophia knew, was the lost map of the treasure buried on Castle Island.
+Over in the corner of the room lay a small wooden chest, not taller then your knee. And in that chest, Sophia knew, was the lost map of the treasure buried on Castle Island.
 
-The chest was locked. Captain Z knew that it would be. Such an important map wouldn't be just lying around. And she also knew that the only key was right now strung around Captain Spears' neck. But there is always more then one way to steal a map, and lucky for Captain Z, some pirates never think about these other ways. But she does.
+The chest was locked. Captain Z knew that it would be. Such an important map wouldn't be just lying around. And she also knew that the only key was strung around Captain Spears's neck. But there is more then one way to steal a map, and lucky for Captain Z, some pirates never think about these other ways. But she did.
 
-Instead of trying to unlock the chest to get the map, Captain Z just grabbed the whole chest - with the map still inside!
+Instead of trying to unlock the chest to get the map, Captain Z just grabbed the whole chest, with the map still inside!
 
-Out of the map room and back down the hall went Captain Z and her new chest. The chest was heavy, but not too heavy to be carried for a few minutes, which is all it would take her to get back down to her ship. Yes, it would only take a few minutes and she would be safely away to the island to find the treasure, while the rest of this silly crew is still fast asleep in their pajamas.
+Out of the map room and back down the hall went Captain Z and her new chest. The chest was heavy, but not too heavy to be carried for a few minutes, which is all it would take to get back down to the ship. Yes, it would only take a few minutes and she would be safely away to the island to find the treasure, while the rest of the crew were still fast asleep in their pajamas.
 
-But while Captain Z was smiling to herself and thinking of how smart she was, she forgot to watch where she was going. She reached the steps to the deck but missed the first one. BAM! She tripped on that first step and the chest came crashing down, with her behind it. 
+But while Captain Z was smiling to herself and thinking of how smart she was, she forgot to watch where she was going. She reached the steps to the deck but missed the first one. BAM! She tripped and the chest came crashing down, with her behind it. 
 
-All of a sudden all the snoring stopped. Instead, out of the bedrooms came a bunch of shouts of "Avast!" and "Arrrr" and "Who goes there?". 
+All of a sudden the snoring stopped. Instead, out of the bedrooms came shouts. 
 
-The frightened captain grabbed her stolen chest and flew out the door on to the main deck, slamming the door with a BANG!
+"Avast!" 
+
+"Arrrr" 
+
+"Who goes there?". 
+
+The frightened captain grabbed her stolen chest and flew out of the door and on to the main deck, slamming the door behind her.
 
 #
 
@@ -82,47 +88,46 @@ Captain Z scrambled as fast as she could toward the front of the boat.
 
 The back and forth of the waves and the jumbles of rope made her almost loose her balance again and again as she looked for a place to hide. She had to get out of sight before the pirates saw her and her stolen chest. 
 
-Towards the side of the boat she found a loose tarp covering a few creates and barrels. She ducked under the tarp and squeezed herself between two of the barrels. Then she held her breath. 
+Towards the side of the boat she found a loose tarp covering a few crates and barrels. She ducked under the tarp and squeezed herself between two of the barrels. Then she held her breath. 
 
 Almost immediately, a slew of pirates burst out of the doorway and onto the main deck. Still sleepy and confused, they stumbled about looking back and forth for whatever could have caused all the ruckus that woke them up.
 
-Peeking out of her hiding spot, Captain Z had to cover her mouth to stop herself from laughing out loud at the way those sleepy pirates were dressed. 
+Peeking out of her hiding spot, Captain Z had to cover her mouth to stop herself from laughing out loud at the way the sleepy pirates were dressed. 
 
-They were wearing footie pajamas, like a little boy or girl might wear. The feet on their pj's made them slip and slide around on the deck even more with each wave. The pajamas were all blue, or green, or even pink! And on each pirates head was a little sleeping cap with a long tail. 
+They were wearing footie pajamas, like babies! The feet on their pj's made them slip and slide around on the deck with each wave. The pajamas were blue, or green, or pink. And on each pirates head was a little sleeping cap with a long tail. 
 
 They looked more like baby dolls then terrible pirates!
 
-The biggest looking baby of them all, the Dread Captain Spears, finally appeared on the deck too, in bright red pajamas. He had ran from his captain's cabin in the back of the ship and was still holding one of his many cuddly stuffed animals. It was a little monkey, one of his favorites.
+The biggest of them all, the Dread Captain Spears, finally appeared on the deck too, in bright red pajamas. He had ran from his captain's cabin in the back of the ship and was still holding one of his cuddly stuffed animals. It was a little monkey, one of his favorites.
 
 Hissy, his cat, trotted along beside him.
 
 #
 
-Now, there are a pages and pages of stories I could tell of the terrible Captain Spears. Everyone and their grandmother knows the story of how Spears, in a rage, threw two of his own men overboard just for playing cards in his sight. When the were dragged back on board, still spitting and sputtering, Captain Spears just snarled and said "Ye can play when the workin's done."
+Now, there are a pages and pages of stories I could tell of the terrible Captain Spears. Everyone and their grandmother knows the story of how Spears, in a rage, threw two of his own men overboard just for playing cards. When the were dragged back on board, still spitting and sputtering, Captain Spears just snarled and said "Ye can play when the workin's done."
 
 Then there was the time he poked a hole in another pirates brand new hat, just because Spears thought the other pirate looked at him funny. 
-
 Or the time he captured ten dolphins and tied their tails together. Then he spent a whole day skiing behind them as they pulled him through the water, shouting "Look at me! King o' the fishes! King o' the sea!" Though I have to hope he knows dolphins aren't fish at all, some times pirates aren't the smartest when it comes to that sort of thing.
 
 Of course this is to say nothing of Captain Spears' evil red eye. Some people say its a magic eye, and can kill a man just from its stare. Others say that Spears was cursed by a mean witch, and the red eye is a sign of the curse. Others say that he can't see a wink out of it at all, and that its just for show. 
 
-I can't tell you who's right and who's wrong, concerning Captain Spears and his red eye. I can tell you that the eye seems to glow in the night, like a flame. And that the eye only adds to the fearfulness of Captain Spears.
+I can't tell you who's right and who's wrong, concerning Captain Spears and his red eye. I can tell you that the eye seems to glow in the night, like a flame. And it only added to the fearfulness of Captain Spears.
 
-For every terrible Captain Spears story, there's a just as terrible story about Hissy, that cat that sails about with Spears, like one of his own pirate crew.
+For every terrible Captain Spears story, there's a just as terrible story about Hissy, the cat that sailed about with Spears, like one of his own pirate crew.
 
-Its said that when Hissy catches mice, it makes them walk the plank and pushes them overboard one by one to watch them fall into the water. 
+It was said that when Hissy caught mice, it would make them walk the plank and push them overboard one by one to watch them fall into the water. 
 
-Hissy also likes to grab seagulls out of the air as they circle the ship. It rips out all the feathers from the heads of these poor seagulls, and then lets them go. As such, the only seagulls that still fly around The Sea Breaker are bald. 
+Hissy also liked to grab seagulls out of the air as they circled the ship. It would then rip out all the feathers from the heads of these poor birds, and then let them go. As such, the only seagulls that still flew around The Sea Breaker were completely bald. 
 
-The only person that can pet this mean old cat is Captain Spears himself. Anyone else who tries will get a scratch and a hiss.
+The only person that could pet this mean old cat was Captain Spears himself. Anyone else who tried would get a deep scratch and a hiss.
 
-Yes, there isn't a more terrible pirate on these seven seas then the Dread Captain Spears. And there isn't a more fearful cat aboard any ship on earth then Hissy. 
+There wasn't a more terrible pirate on the seven seas than the Dread Captain Spears. And there wasn't a more frightful cat aboard any ship on earth than Hissy his cat. 
 
 And both of these villains were looking for Captain Zephyr.
 
 #
 
-Captain Spears' eyes darted back and forth and all around his boat, looking for something out of place. He had just woken up out of a wonderful dream, and hadn't cleared his head yet. He certainly hadn't thought to check the map room to find out if anything was missing. 
+Captain Spears's eyes darted back and forth and all around his boat, looking for something out of place. He had just woken up out of a wonderful dream, and hadn't cleared his head yet. He certainly hadn't thought to check the map room to find out if anything was missing. 
 
 When Captain Z saw Spears and his cat, she scooted back under the tarp as far as she could go. It would be an awful thing to be caught on board The Sea Breaker with something belonging to Captain Spears. 
 
@@ -148,15 +153,15 @@ Hissy had jumped up on the railing next to her and stuck its face out to scare h
 
 Captain Z would be dead and drown, her stolen chest lost for certain, if it weren't for that great tangle of ropes aboard The Sea Breaker.
 
-The same ropes that had nearly tripped her on the deck and had nearly allowed her to escape by tangling up that sleepy pirate, had now narrowly saved her life. 
+The same ropes had nearly allowed her to escape by tangling up the sleepy pirate, had now narrowly saved her life. 
 
-As she fell off the side of the ship, some of that rope had wrapped around her left foot. Now Captain Z was dangling by her leg. Twenty feet below where she started on the deck and upside-down. But hanging right above her own little row boat.
+As she fell off the side of the ship, some of that rope had wrapped around her left foot. Now Captain Z was dangling by her leg twenty feet below where she started on the deck, and upside-down, but hanging right above her own little row boat.
 
 What luck!
 
 But time stays still for no man, or woman, as it were. She had to move fast to take advantage of that lucky tangle. 
 
-Captain Z dropped her stolen chest into the row boat, which landed with a THUD. She reached up and unloosed the rope coil around her ankle. With this, she dropped down and hit the row boat with a THUD herself. 
+Captain Z dropped her stolen chest into the row boat, which landed with a thud. She reached up and unloosed the rope coil around her ankle. Then, she dropped down and hit the row boat with a thud herself. 
 
 Sore, but with no bones broken, she put her oars in and started rowing fast. 
 
@@ -180,7 +185,7 @@ Smiling, Captain Z rowed straight for shore. There's more then one way to open a
 
 #
 
-Back on the deck of The Sea Breaker, Captain Spears and his men were running to their row boats, which were docked on the back of the ship.
+Back on the deck of The Sea Breaker, Captain Spears and his men were racing to their row boats, which were docked on the tail end of the ship.
 
 Three steps in and two of them had tripped and fallen over even more ropes. 
 
@@ -214,7 +219,7 @@ That last remark came from Barnacle Bill. He got an elbow and a shush from Sally
 
 Everyone looked at Captain Spears. He was getting mad alright, but not because of the mention of his cuddly animals. He was thinking about Captain Zephyr, and his eye went from purple to a bright hot red. 
 
-_Sophia Zephyr was there to steal something, alright_, he thought. But it wasn't food, nor gold, nor his cuddly monkey. _The what?_ The thought was almost in his head. 
+_Sophia Zephyr was there to steal something, alright_, he thought. But it wasn't food, nor gold, nor his cuddly monkey. But what?_ The thought was almost in his head. 
 
 "The map!" He cried, turning around with a twirl. He shot out like a bullet toward the map room. His scoundrel crew followed along at his heels to see if he was right.
 
@@ -222,7 +227,7 @@ _Sophia Zephyr was there to steal something, alright_, he thought. But it wasn't
 
 _The map is safe, I've got the key. The map is safe, I've got the key._ This is what Spears told himself as he hustled down the stairs towards the map room. 
 
-The only key to that chest that carried the map was indeed still around his neck. He could feel it swinging back and forth as he ran. 
+The only key to the chest where the map was stored was still wrapped around his neck. He could feel it swinging back and forth as he ran. 
 
 He burst into the map room. Looking at the corner where the chest should be, he let out a groan.
 
@@ -230,19 +235,19 @@ He burst into the map room. Looking at the corner where the chest should be, he 
 
 None of the pirates had thought of that as a possibility. 
 
-"But Captain. It's still locked," Golden George said. He was most likely right, but no one would steal a chest without an idea about how you would open it. Captain Spears knew that much. 
+"But Captain. It still be locked," Golden George said. He was most likely right, but no one would steal a chest without an idea about how to open it. Captain Spears knew that much. 
 
 "Blast that Zephyr," Spears sputtered. "Let's get to rowing. We'll track her down on the island."
 
 "In the dark?" Asked Barnacle Bill, looking a bit sheepish and scared. 
 
-"The dark matters not. What does matter is that map," Captain Spears replied. "Her with the map means none of the treasure for us, savvy?"
+"The dark matters not. What does matter is the map," Captain Spears replied. "Her with the map means none of the treasure for us, savvy?"
 
 Captain Spears was thinking about the map, but he was also thinking of the other piece of paper in that stolen chest. That letter that he was certainly a fool to keep. A fool for reading it, but read it he had. 
 
 There was a chance she would never crack the code, leaving the plan unknown. Yes, there was that chance, but knowing that wily Captain Zephyr, it was a pretty small chance indeed. 
 
-Captain Spears needed that letter and that map before everything was ruined. He couldn't bear to think of the trouble he'd be in if it was found out he let it all get stolen. Just the idea sent shivers down his back. 
+Captain Spears needed that letter and that map before everything was ruined. He couldn't bear to think of the trouble he'd be in if it was found he let it all get stolen. Just the idea sent shivers down his back. 
 
 #
 
@@ -293,7 +298,7 @@ Time to start the search, she thought to herself. Captain Z got up and dusted th
 
 Captain Z looked up at Muddle, then back down at the chest. There was something else inside.
 
-Bringing the lantern up close again, she looked in and pulled out a small yellow envelope with a piece of paper inside. 
+Bringing the lantern in close again, she looked inside and pulled out a small yellow envelope with a piece of paper inside. 
 
 She opened the envelope and unfolded the paper. 
 
@@ -313,19 +318,19 @@ The other pirates might be close now, so she needed to make sure to keep hidden 
 
 The cliffs loomed high above as she got closer. If you squinted, you could probably imagine why someone thought to name the place Castle Island. But to Captain Z, the cliffs looked more like the tallest fence in the world, covered with spikes and impossible to climb.
 
-And yet, there was a way up. There had to be. A hidden path through those sharp rocks. She just had to find it, and that is why she needed that map. For at the end of that path was a treasure more wonderful then you could ever imagine. 
+And yet, there was a way up. There had to be. A hidden path through those sharp rocks. She just had to find it, and that is why she needed the map. For, at the end of that path was a treasure more wonderful then you could ever imagine. 
 
-Well, at least that was what Captain Z hoped for. What she had heard, and what she had told herself.
+Well, at least that was what Captain Z hoped for, what she had heard, and what she had told herself.
 
 Truth be known, she didn't really know what was waiting at the end of that path to be found. In fact no one really knew the truth of the treasure of Castle Island.
 
 #
 
-Three years ago, almost to the day, Captain Z had first heard the tale of this mysterious island and its wondrous hidden treasure. 
+Three years ago, almost to the day, Captain Z had first heard the tale of the mysterious island and its wondrous hidden treasure. 
 
 The storyteller had been another pirate, the friendly Sammy Two Toes. Sammy had told the story of the treasure so well that Captain Z knew she would have to try to find it.
 
-Of course at that time, Captain Z was no captain, as she had no boat of her own to search with. But that didn't stop Sophia Zephyr from plotting and dreaming. All things change with the times and the tides, as they say.
+Of course at that time, Captain Z was no captain, as she had no boat of her own with which to search. But that didn't stop Sophia Zephyr from plotting and dreaming. All things change with the times and the tides, as they say.
 
 And by the time Sophia Zephyr became Captain Z, she had heard the story of Castle Island a hundred times or more. And each time, it ended with a different surprise. A different name to the treasure to be found.
 
@@ -333,7 +338,7 @@ Some, like Sammy Two Toes, said it to be a huge diamond. As large as your fist, 
 
 But other folks had different ideas about what was hidden there. Some said gold or jewels. Others said magical bells, wands, or books. One old man even thought there to be a room full of the tastiest meats and pies ever to be found. Never mind how such a room could be kept stocked with such treats, or why this food would be on an island with no one on it.
 
-Captain Z didn't know which of the stories to believe, but she believed Castle Island to hold something worth searching for. And that's why she kept on searching for a way to find this island and a way to find the treasure hidden here. 
+Captain Z didn't know which of the stories to believe, but she knew Castle Island held something worth searching for. And that's why she kept searching for a way to find the island and a way to find the treasure hidden here. 
 
 #
 
@@ -375,21 +380,21 @@ Captain Z started walking quickly up the path, excited to be so close now, but o
 
 Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where's and the whys of what she is doing. 
 
-Captain Spears and his men are rowing fast to reach the island and start the search for the thief pirate. 
+Captain Spears and his men are rowing fast to reach the island and start the search for the pirate theif. 
 
-Captain Z is well on her way to finding out what secrets castle island really hold. 
+Captain Z is well on her way to finding out what secrets Castle Island really hold. 
 
-And now there is this mysterious note with its mysterious letters. It was belonging to Captain Spears. Now it is the pocket of Captain Zephyr. But as to what it says or who it's from, that we have no idea. 
+And now there is this mysterious note with its mysterious letters. It belonged to Captain Spears. Now it is in the pocket of Captain Zephyr. But as to what it says, or who it's from, we have no idea. 
 
-Will captain spears find our hero, captain z?
+Will Captain Spears find our hero, Captain Z?
 
-Will she find the treasure and escape somehow? 
+Will Captain Z find the treasure and escape? 
 
 I don't know. All we can do is keep reading, and hope against hope that everything will turn out alright. 
 
 #
 
-Captain Z was halfway up the monster of a hill by the time dawn started to break in the East. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
+Captain Z was halfway up the giant of a hill by the time dawn started to break in the East. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
 
 Day light would make finding the treasure easier. It would make Captain Spears's job of finding her easier too. Captain Z pressed onward and upward.
 
