@@ -401,7 +401,27 @@ With the pink light over the hill above her, she picked up the pace and started 
 
 #
 
-The pirates tracked after her
+Captain Spears peered out into the night as his men rowed them toward the shore. _At least this eye is good for something,_ he thought, looking out into the dark through his glowing red eye. Though it was night time, to Spears everything was brightened through that eye. The world looked as if the sun was still up, but perhaps hidden behind a cloud.
+
+The eye also allowed him to see things that were far away as if they were closer, like using a spy glass. Captain Spears scanned the island off in the distance, looking for signs of Zephyr. There on the beach he could see her row boat empty on the sand. That meant she was already on the island looking for that treasure. 
+
+His eye followed the beach up toward the cliffs at the North end of the island. He looked for her among the rocks and trees there, but saw nothing. 
+
+Then, high above the cliffs, Spears's red eye caught sight of a big black bird floating lazily on the updrafts. _That could only be Zephyr's crow,_ he thought. _That thing always gives her away._
+
+"We'll land up there," he said to his men while pointing. The spot would be up the beach, close to the cliffs. 
+
+Eventually, they made it and pulled their row boats up the beach. Then they set off creeping towards the cliffs. 
+
+Captain Spears was leading the group. That red eye of his guiding him through the dark. The eye brought the ground closer, as if he were down there on his hands and knees with his nose in the sand.
+
+With that view from his eye, Spears could see the little scuffs in the sand made by the footsteps of Captain Zephyr as she walked the beach not more than an hour ago. These scuffs a normal eye would miss. But the red eye saw this and many other things. Captain Spears tracked Sophia up the beach and around the cliffs. His men followed. 
+
+They reached the three jagged rocks, and Spears knew they were close. He had looked at the map for a bit while he had it. He remembered the drawings of the rocks and where the path was supposed to be. 
+
+The rest of the scoundrel pirates followed their captain down to these rocks. They were amazed when he showed them the secret path behind them. 
+
+"This way, ya mutts," he growled. "She'll be leading us to the treasure, by and by."
 
 #
 
@@ -547,7 +567,7 @@ Those pirates up in the cave will no doubt be angry when they find the leather b
 
 #
 
-the pirates note the treasure is missing. and missy is to blame for captain z's death
+      THE PIRATES NOTE THE TREASURE IS NOT IN THE BAG. THEY MOURN THE LOOSING OF CAPTAIN Z AND THE TREASURE
 
 #
 
@@ -615,7 +635,7 @@ All the children had to hear stories of Captain Z's latest adventures. She told 
 
 #
 
-Captain Z re-read the feather poem to Dr. Star.
+Captain Z reread the feather poem to Dr. Star.
 
 _Only one of true measure_
 _Can make use of this treasure_
@@ -732,6 +752,7 @@ _Those one-letter words are probably either the word "A" or the word "I",_ she t
 
     XRSP IRRETUJQ
 
+
     L IRRE ELC ZRS
     A       A
 
@@ -752,15 +773,95 @@ _That's a lot of a's in this message,_ she thought. Still it was good to have a 
 
     XRSP IRRETUJQ
        T
+
     L IRRE ELC ZRS
     A       A
 
     VLXPLMTQ LTE XMSLPUQ
-     A T     A      AT
+     A TA    A      AT
 
-It was a start, but it didn't help much.
+It was a start, but it didn't help much. _Well, on to the three letter words,_ she thought. One of the three letter words had an 'A' filled in for the starting letter. Another had a 'T'. 
 
-    CONTINUE CODE CRACKING
+The only three letter A words Sophia could think of was 'and', and 'ant'. _Let's try the first one,_ she thought, and filled in the rest of the word. The word 'the' fits nicely into a three letter word starting with 'T'. She filled that in too.
+
+
+    PAU JLS OUIMTQ
+    THE  A   E  N
+
+    ZSMELC LP ELJT
+       DA  AT DA N
+
+    L OLE ELC ZRS
+    A  AD DA
+
+    XRSP IRRETUJQ
+       T    D E
+
+    L IRRE ELC ZRS
+    A    D DA
+
+    VLXPLMTQ LTE XMSLPUQ
+     A TA N  AND    ATE
+
+It was starting to look a bit like actual words, but just barely. Many of the coded words ended in the same letter. _Perhaps that letter is 'S',_ she thought. Lots of words ended in 'S'. Perhaps more then most. She added it in.
+   
+    PAU JLS OUIMTQ
+    THE  A   E  NS
+
+    ZSMELC LP ELJT
+       DA  AT DA N
+
+    L OLE ELC ZRS
+    A  AD DA
+
+    XRSP IRRETUJQ
+       T    D E S
+
+    L IRRE ELC ZRS
+    A    D DA
+
+    VLXPLMTQ LTE XMSLPUQ
+     A TA NS AND    ATES
+  
+She stared at the words, frustrated she hadn't cracked it yet. The last word looked very familiar. Finally she had it: PIRATES. This made the last line "CAPTAINS AND PIRATES". She was excited to be making progress.
+
+    PAU JLS OUIMTQ
+    THE  AR  E INS
+
+    ZSMELC LP ELJT
+     RIDA  AT DA N
+
+    L OLE ELC ZRS
+    A  AD DA    R
+
+    XRSP IRRETUJQ
+    P RT    DNE S
+
+    L IRRE ELC ZRS
+    A    D DA    R
+
+    VLXPLMTQ LTE XMSLPUQ
+    CAPTAINS AND PIRATES
+
+And then she had it. The name "PORT GOODNEWS" came next. With a bit of guessing and a bit of luck she had worked the rest out. And what she found gave her butterflies in her stomach.
+
+    PAU JLS OUIMTQ
+    THE WAR BEGINS
+
+    ZSMELC LP ELJT
+    FRIDAY AT DAWN
+
+    L OLE ELC ZRS
+    A BAD DAY FOR
+
+    XRSP IRRETUJQ
+    PORT GOODNEWS
+
+    L IRRE ELC ZRS
+    A GOOD DAY FOR
+
+    VLXPLMTQ LTE XMSLPUQ
+    CAPTAINS AND PIRATES
 
 #
 
@@ -928,4 +1029,12 @@ Then, he saw Captain Zephyr running down the pier toward the boat.
 
 She was far off, but his red eye made sure it was her. The eye was glowing hot now, like an iron just out of the fire. 
 
-She should be dead, but wasn't. Which meant that perhaps the treasure wasn't gone too.
+She should be dead, but wasn't. Which meant that perhaps the lost treasure wasn't really lost either. 
+
+The flare caught his eye as it shot out from the leader's ship. Captain Spears watched it as it lit the sky red over the water. He saw the other captains dutifully follow their orders to start the attack. But Captain Spears now had another reason not to join in the battle. If he could block Wind Drinker from leaving the bay, perhaps he could get his hands on the treasure Captain Zephyr had stolen.
+
+He spoke in a whisper to his crew to explain the plan. Then he gave the order and The Sea Breaker started slowly making its way toward the entrance to the bay.
+
+If Captain Zephyr wanted out, she would have to get through Spears and his crew.
+
+#
