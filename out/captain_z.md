@@ -109,9 +109,11 @@ Now, there are a pages and pages of stories I could tell of the terrible Captain
 Then there was the time he poked a hole in another pirates brand new hat, just because Spears thought the other pirate looked at him funny. 
 Or the time he captured ten dolphins and tied their tails together. Then he spent a whole day skiing behind them as they pulled him through the water, shouting "Look at me! King o' the fishes! King o' the sea!" Though I have to hope he knows dolphins aren't fish at all, some times pirates aren't the smartest when it comes to that sort of thing.
 
-Of course this is to say nothing of Captain Spears' evil red eye. Some people say its a magic eye, and can kill a man just from its stare. Others say that Spears was cursed by a mean witch, and the red eye is a sign of the curse. Others say that he can't see a wink out of it at all, and that its just for show. 
+Of course this is to say nothing of Captain Spears' evil red eye. Some people said it was a magic eye, and could kill a man with only a glare. Others said that Spears was cursed by a foul witch, and the red eye was markings of the curse. Others said that he couldn't see a wink out of it at all, a blindness caused by a run in with a poisonous jellyfish when he was just a lad.
 
-I can't tell you who's right and who's wrong, concerning Captain Spears and his red eye. I can tell you that the eye seems to glow in the night, like a flame. And it only added to the fearfulness of Captain Spears.
+No one knew who was right or wrong about Captain Spears and his red eye. But it did seem to glow in the night, like the flame from a candle. 
+
+The eye only added to the fearfulness other pirates felt when they spoke of Captain Spears.
 
 For every terrible Captain Spears story, there's a just as terrible story about Hissy, the cat that sailed about with Spears, like one of his own pirate crew.
 
@@ -306,9 +308,9 @@ On it, was written a whole jumbled mess of letters. Captain Z couldn't make head
 
 And why would such a mess of letters be so important to Captain Spears that he would want it locked up?
 
-Such questions, that didn't concern the treasure on Castle Island were best held for another time. Captain Z folded the paper and put it back in the envelope. Then she put that envelope in a small pocket on the inside of her vest. That should keep it safe till there's more time, she thought. 
+Such questions, that didn't concern the treasure on Castle Island were best held for another time. Captain Z folded the paper and put it back in the envelope. Then she put that envelope in a small pocket on the inside of her vest. 
 
-Right now, I need to find that path.
+_That should keep it safe till there's more time,_ she thought. _Right now, I need to find that path._
 
 #
 
@@ -384,7 +386,7 @@ Captain Spears and his men are rowing fast to reach the island and start the sea
 
 Captain Z is well on her way to finding out what secrets Castle Island really hold. 
 
-And now there is this mysterious note with its mysterious letters. It belonged to Captain Spears. Now it is in the pocket of Captain Zephyr. But as to what it says, or who it's from, we have no idea. 
+And now there is this mysterious note with its mysterious letters. It belonged to Captain Spears. Now it is in the pocket of Captain Zephyr. But as to what it said, or who it was from, we have no idea. 
 
 Will Captain Spears find our hero, Captain Z?
 
@@ -468,9 +470,11 @@ Now treasure is is often kept in a chest. Sometimes, gold is found in big sacks.
 
 Still, she reached for it just the same. _Perhaps its a message telling where the real treasure is hidden,_ she thought. She tried to ignore the idea that someone before her had already grabbed the treasure, and this was what they left behind to brag.
 
-The bag felt empty. And when she opened it at first she didn't see anything. Her heart sank. But then she stuck her hand in, rummaged around, and pulled out four feathers and a scrap of paper with a few words written on it.
+The bag felt empty. And when she opened it at first she didn't see anything. Her heart sank. But then she stuck her hand in, rummaged around, and pulled out four feathers and a scrap of paper which looked to have something written on it.
 
-She looked over the feathers. They were bright white, but otherwise quite ordinary. Then she read the words on the paper. It looked to be a poem.
+She looked over the feathers. They were bright white, but otherwise quite ordinary. About the size of a crows feather, perhaps just a bit bigger. She didn't recognize the bird they came from, but they didn't seem particularly interesting.
+
+She then read the words on the paper. It looked to be a poem.
 
 _Only one of true measure_
 _Can make use of this treasure_
@@ -486,15 +490,19 @@ _The feathers of the Pegasus_
 
 Feathers?
 
-Feathers were really the treasure of Castle Island?
+Feathers were the only treasure on Castle Island? Captain Z's heart sank. Certainly this was some trick. Some terribly unfunny joke. 
 
-Captain Z's heart sank. Certainly this was some trick. Some terribly unfunny joke. _A joke that cost me dearly,_ she thought as she heard laughing and talking in the tunnel outside the cave. 
+The sounds of laughing and talking in the tunnel outside the cave made the hair on the back of her neck stand up.
+
+_A joke that has cost me dearly,_ she thought as she looked for a place to hide. 
+
+She didn't have more time to curse the feathers or even think about them anymore.
 
 Captain Spears and his crew had found her.
 
 #
 
-Not thinking, Captain Z shoved the feathers into one of the many pockets on her vest, out of habit. 
+Haphazardly, Captain Z shoved the feathers into one of the many pockets on her vest, out of habit. 
 
 It turns out that this thoughtless action was in fact a very good thought indeed, as we shall find out.
 
@@ -536,11 +544,11 @@ Slowly, Captain Z shuffled back toward the window to the cave.
 
 Captain Spears stepped back and watched as she got closer, so as not to scare her. They could deal with her once the treasure was out of her hands and into his. 
 
-Outside the window, Captain Z tossed in the treasure bag that had caused all the trouble. The pirates were on the bag in a flash, pushing and pulling, each one wanting to be the first to see the treasure first. Not one of those scoundrels suspected the treasure to be elsewhere.
+Outside the window, Captain Z tossed in the treasure bag that had caused all the trouble. The pirates were on the bag in a flash, pushing and pulling, each one wanting to be the first to see the treasure first. Not one of those scoundrels suspected the treasure, useless as it looked, to be elsewhere.
 
-But Hissy knew something was amiss. As Captain Zephyr reached for the window to pull herself in, that meanest of cats ran up to her with a growl. It bit at Captain Z's vest pocket, pulling out one of the feathers she had hidden there.
+But Hissy knew something was amiss. As Captain Zephyr reached for the window to pull herself in, that meanest of cats ran up to her with a growl. It bit into Captain Z's vest pocket, pulling out one of the feathers she had hidden there.
 
-Captain Z grabbed for the feather and snatched it out of Hissy's mouth. Her other hand slipped from the rock.
+Captain Z grabbed for the feather, snatching it out of Hissy's mouth. But as she did, her other hand slipped from the rock.
 
 She didn't even have time to scream before fell backwards, down to the rocks and the sea below.
 
@@ -572,7 +580,68 @@ Those pirates up in the cave will no doubt be angry when they find the leather b
 
 #
 
-      THE PIRATES NOTE THE TREASURE IS NOT IN THE BAG. THEY MOURN THE LOOSING OF CAPTAIN Z AND THE TREASURE
+Up in the little cave on the side of the cliff, the pirates were still fighting over who would open the satchel they expected to have the treasure inside it. 
+
+In fact it was such a fight that no one but Hissy and Barnacle Bill had noticed Captain Z's fall. 
+
+Bill had stayed out of the fight over the bag, as he didn't want to get hurt in the scuff. He was on the other side of the cave, near the doorway when he saw Hissy try for the feather and watched in horror as Captain Z slipped and dissapeared  from view. In fact it was such a terrible sight that he just stood there with his mouth open wide and his eyes opened wider as the others continued to fight. 
+
+
+Golden George had grabbed the bag away from Smelly Ned, who had pushed poor old Jon Thumb down to get at it. But now they were all wrestling on the floor again. 
+
+"Enough ya sea rats," their captain bellowed. "Hand me the booty."
+
+That was the end of the fight. Golden George reluctantly held out the bag for Captain Spears to snatch. 
+
+"Well it ain't foods," said old Jon Thumb, with a hint of sadness. He and Cinamon the cook had spun tales of the meals they would eat here on the island. 
+
+"Is it gold?" Asked Golden George. 
+
+"Nay," said Spears with a frown. "Not heavy enough a sack," he said, raising the bag up and down. 
+
+"Looks small," said Sally Snake Eye.
+
+_it does,_ thought Captain Spears. The thought that they had been bamboxalled crept into the back of his mind. Quickly, he opened the bag and looked in with his good eye. 
+
+He stood there peering into the bag for half a minute. He didn't believe what he saw. 
+
+"Well, captain," Sally Snake Eye finally spoke up. "What's in the bag?"
+
+Captain Spears turned the bag upside down. Only a bit of dust fell out and floated to the ground. 
+
+All eyes turned to the little hole that Captain Z had gone through. Now it dawned on them that she had never come back through it. 
+
+Spears ran to the hole and stuck his head through. He looked back and forth along the cliffs and saw nothing but stone. 
+
+He pulled his head back in and looked around at his crew. 
+
+"Where did she off to?" he said in a low voice. Not really a question to the crew, but this was the cue for Barnacle Bill to finally speak up. 
+
+"H H H Hissy!" He stammered. 
+
+"Hissy what?" Spears said, glancing at the cat. She was near the window cleaning her paws, as if nothing at all had happened. 
+
+"Hissy pushed her!" Bill responded. His wide eyes locked onto the cat as he pointed. "Down down down," he said sadly. 
+
+Captain Spears pushed his head through the hole again and looked down to the crashing waves below. He peered with his red eye hoping to see some sign of Zephyr in the ocean froth. Much as he hoped, he saw nothing. 
+
+He pulled back and swatted at the mean cat with his hat. She ran a few feet, hissing, then stopped again to clean another paw. Spears turned back to his crew with his eyes down to the ground. 
+
+"Escaped?" Asked Smelly Ned. Perhaps she had caught another part of the cliff. 
+
+Captain Spears shook his head no. 
+
+"I fear she took the long fall down," he said. 
+
+Even though she had stolen the map and the treasure from them, the whole crew was more sad then mad as they walked slowly down the trail. 
+
+It's a sad thing to loose a pirate. 
+
+They had looked through the rest of the rock pile and all through the cave for where the treasure might be hiding. Nothing but more dust was found. 
+
+They would search the rocks below the cliffs as well they could for the treasure. But, of course, they would find nothing. 
+
+Meanwhile Captain Z was on her way off the empty bit of land known as Cadtle Island. 
 
 #
 
@@ -810,24 +879,6 @@ The only three letter A words Sophia could think of was 'and', and 'ant'. _Let's
 
 It was starting to look a bit like actual words, but just barely. Many of the coded words ended in the same letter. _Perhaps that letter is 'S',_ she thought. Lots of words ended in 'S'. Perhaps more then most. She added it in.
    
-    PAU JLS OUIMTQ
-    THE  A   E  NS
-
-    ZSMELC LP ELJT
-       DA  AT DA N
-
-    L OLE ELC ZRS
-    A  AD DA
-
-    XRSP IRRETUJQ
-       T    D E S
-
-    L IRRE ELC ZRS
-    A    D DA
-
-    VLXPLMTQ LTE XMSLPUQ
-     A TA NS AND    ATES
-  
 She stared at the words, frustrated she hadn't cracked it yet. The last word looked very familiar. Finally she had it: PIRATES. This made the last line "CAPTAINS AND PIRATES". She was excited to be making progress.
 
     PAU JLS OUIMTQ
@@ -848,7 +899,7 @@ She stared at the words, frustrated she hadn't cracked it yet. The last word loo
     VLXPLMTQ LTE XMSLPUQ
     CAPTAINS AND PIRATES
 
-And then she had it. The name "PORT GOODNEWS" came next. With a bit of guessing and a bit of luck she had worked the rest out. And what she found gave her butterflies in her stomach.
+And then she had it. The name "PORT GOODNEWS" came next. With a bit of guesswork and a bit of luck she had worked the rest out. And what she found gave her butterflies in her stomach.
 
     PAU JLS OUIMTQ
     THE WAR BEGINS
@@ -870,7 +921,7 @@ And then she had it. The name "PORT GOODNEWS" came next. With a bit of guessing 
 
 #
 
-Captain Z starred at the decoded message, trying to grasp its full meaning. 
+Captain Z stared at the decoded message, trying to grasp its full meaning. 
 
 A war? A battle, with pirates? That couldn't be right. She must of made a mistake. 
 
