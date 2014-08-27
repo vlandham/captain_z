@@ -39,7 +39,7 @@ You see, Captain Z was not the only pirate creeping about on this island at the 
 
 Earlier, that same night, things were a different story altogether. 
 
-The Dread Captain Spears had the treasure map of Castle Island all locked up and safe on his ship The Sea Breaker. At least, he thought it was locked up safe.
+The Dread Captain Spears had the treasure map of Castle Island all locked up and safe on his ship the Sea Breaker. At least, he thought it was locked up safe.
 
 But he probably wouldn't have thought his map so secure if he knew Captain Zephyr was on her way to take it from him. 
 
@@ -119,7 +119,7 @@ For every terrible Captain Spears story, there's a just as terrible story about 
 
 It was said that when Hissy caught mice, it would make them walk the plank and push them overboard one by one to watch them fall into the water. 
 
-Hissy also liked to grab seagulls out of the air as they circled the ship. It would then rip out all the feathers from the heads of these poor birds, and then let them go. As such, the only seagulls that still flew around The Sea Breaker were completely bald. 
+Hissy also liked to grab seagulls out of the air as they circled the ship. It would then rip out all the feathers from the heads of these poor birds, and then let them go. As such, the only seagulls that still flew around the Sea Breaker were completely bald. 
 
 The only person that could pet this mean old cat was Captain Spears himself. Anyone else who tried would get a deep scratch and a hiss.
 
@@ -131,7 +131,7 @@ And both of these villains were looking for Captain Zephyr.
 
 Captain Spears's eyes darted back and forth and all around his boat, looking for something out of place. He had just woken up out of a wonderful dream, and hadn't cleared his head yet. He certainly hadn't thought to check the map room to find out if anything was missing. 
 
-When Captain Z saw Spears and his cat, she scooted back under the tarp as far as she could go. It would be an awful thing to be caught on board The Sea Breaker with something belonging to Captain Spears. 
+When Captain Z saw Spears and his cat, she scooted back under the tarp as far as she could go. It would be an awful thing to be caught on board the Sea Breaker with something belonging to Captain Spears. 
 
 She had to escape, but how?
 
@@ -153,7 +153,7 @@ Hissy had jumped up on the railing next to her and stuck its face out to scare h
 
 #
 
-Captain Z would be dead and drown, her stolen chest lost for certain, if it weren't for that great tangle of ropes aboard The Sea Breaker.
+Captain Z would be dead and drown, her stolen chest lost for certain, if it weren't for that great tangle of ropes aboard the Sea Breaker.
 
 The same ropes had nearly allowed her to escape by tangling up the sleepy pirate, had now narrowly saved her life. 
 
@@ -177,7 +177,7 @@ He stood there and scowled at her for a time, no doubt thinking and trying to fi
 
 Captain Z focused on her rowing. 
 
-The water was too shallow to allow that great giant of a boat, The Sea Breaker, to reach her. Instead, they would have to lower their own row boats if they wanted to chase her. And that is most certainly what Captain Spears wanted.
+The water was too shallow to allow that great giant of a boat, the Sea Breaker, to reach her. Instead, they would have to lower their own row boats if they wanted to chase her. And that is most certainly what Captain Spears wanted.
 
 Captain Z cursed her luck and her clumsy feet for such a disastrous get away. Still, she had the chest, which meant she had the map. 
 
@@ -187,7 +187,7 @@ Smiling, Captain Z rowed straight for shore. There's more then one way to open a
 
 #
 
-Back on the deck of The Sea Breaker, Captain Spears and his men were racing to their row boats, which were docked on the tail end of the ship.
+Back on the deck of the Sea Breaker, Captain Spears and his men were racing to their row boats, which were docked on the tail end of the ship.
 
 Three steps in and two of them had tripped and fallen over even more ropes. 
 
@@ -653,7 +653,7 @@ Captain Z had been rowing for the last hour and was getting close to a tiny cove
 
 Captain Spears and his crew hadn't seen the spot, as they came down from the North and stayed anchored in plain sight. They weren't looking for a place to hide, as they didn't expect to find anyone here. 
 
-Captain Z knew different. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant of a vessel, The Sea Breaker, probably wouldn't have fit anyways. 
+Captain Z knew different. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant of a vessel, the Sea Breaker, probably wouldn't have fit anyways. 
 
 Wind Drinker was different. Captain Z was actually the entire captain and crew of the whole ship. It was tricky, but with her riggings, and because of its size, the boat could managed by a one person crew if need be. And that is how Captain Z had made it all the way to Castle Island by herself. Besides, most of the extra space was taken up by this row boat. 
 
@@ -805,7 +805,7 @@ The night ended with a hug. Captain Z found a cozy couch and a warm blanket and 
 
 Captain Z woke up in a sweat, breathing heavy from a terrible nightmare. 
 
-In the dream, Captain Spears had pushed her off the cliffs himself. His bright red eye followed her down over the edge. She fell backwards, on and on through the darkness.
+In the dream, Captain Spears had pushed her off the cliff himself. His bright red eye followed her down over the edge. She fell backwards, on and on through the darkness.
 
 It was still dark outside. Everyone in the school was still asleep. 
 
@@ -813,7 +813,9 @@ Captain Z rubbed her eyes and lit a lamp to clear her head.
 
 Fiddling with her pockets, she happened to bring out the envelope with the secret message in it. She opened it up and looked at the jumbled letters again. 
 
-_No time like the present,_ she thought. That bad dream made her not want to try to sleep again right away. Besides, she was typically an early riser. She found some paper and a quill and ink to help her with the code. First she wrote out the code on her own paper, leaving plenty of room below each line.
+_No time like the present,_ she thought. The bad dream made her want to stay awake. Besides, she was typically an early riser. 
+
+She found some paper and a quill and ink to help her with the code. First she wrote out the code on her own paper, leaving plenty of room below each line.
 
     PAU JLS OUIMTQ
 
@@ -893,27 +895,9 @@ The only three letter A words Sophia could think of was 'and', and 'ant'. _Let's
 
 It was starting to look a bit like actual words, but just barely. Many of the coded words ended in the same letter. _Perhaps that letter is 'S',_ she thought. Lots of words ended in 'S'. Perhaps more then most. She added it in.
    
-She stared at the words, frustrated she hadn't cracked it yet. The last word looked very familiar. Finally she had it: PIRATES. This made the last line "CAPTAINS AND PIRATES". She was excited to be making progress.
+She stared at the words, frustrated she hadn't cracked the code yet. The last word looked very familiar. Finally she saw it: "PIRATES". This made the last line "CAPTAINS AND PIRATES". She was excited to be making progress.
 
-    PAU JLS OUIMTQ
-    THE  AR  E INS
-
-    ZSMELC LP ELJT
-     RIDA  AT DA N
-
-    L OLE ELC ZRS
-    A  AD DA    R
-
-    XRSP IRRETUJQ
-    P RT    DNE S
-
-    L IRRE ELC ZRS
-    A    D DA    R
-
-    VLXPLMTQ LTE XMSLPUQ
-    CAPTAINS AND PIRATES
-
-And then she had it. The name "PORT GOODNEWS" came next. With a bit of guesswork and a bit of luck she had worked the rest out. And what she found gave her butterflies in her stomach.
+She filled in the letters from these words and slowly worked out the rest of the message. The words "PORT GOODNEWS" came next. With a bit of guesswork and a bit of luck she filled in the rest of the gaps. What she saw when the code was all cracked gave her butterflies in her stomach.
 
     PAU JLS OUIMTQ
     THE WAR BEGINS
@@ -937,15 +921,15 @@ And then she had it. The name "PORT GOODNEWS" came next. With a bit of guesswork
 
 Captain Z stared at the decoded message, trying to grasp its full meaning. 
 
-A war? A battle, with pirates? That couldn't be right. She must of made a mistake. 
+A war? A battle, with pirates? That couldn't be right. She must have made a mistake. 
 
-The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the Eastern cities, but had more guards and galleys even then many of them. Certainly no pirate would be dumb enough to attack the city outright.
+The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the Eastern cities, but had more guards and galleys than many of them. Certainly no pirate would be dumb enough to attack the city outright.
 
 Still, the message filled Captain Z with dread. It was now Friday morning. In an hour or so, the sun would begin to rise on a new day.
 
 She listened for any strange sounds outside. If pirates were planning an attack, they would have been spotted by now. Guards would be running to their stations. Alarms would be going off. Captain Z listened, but heard none of that kind of commotion. Everything outside was quiet and peaceful, as you would expect from such an early hour.
 
-To appease her own worry, the captain decided just to make sure there was nothing strange going on. She needed to get a good look at the harbor from above.
+To appease her own worry, the captain decided to make sure there was nothing amiss. She needed to get a good look at the harbor from above.
 
 She crept out of the school and up the alley. She turned the corner and started up the bumpy hill to Lookout Point. Street after street, she looked down as she jogged past and saw nothing but dark homes. A few times she turned around to try to see the harbor, but trees and smaller hills blocked the view.
 
@@ -1011,13 +995,13 @@ Captain Z glared at the doctor for a few seconds before storming off into her ro
 
 Less then five minutes later, Captain Z and the three children were out of the house and down the block at the end of the alley.
 
-They went slow, peeking aroudn corners and crouching as they passed the homes and shops on the way down the long hill toward the port. The piers were situated near the center of town. There would be plenty of places to hide as they went, as long as they were careful.
+They went slow, peeking around corners and crouching as they passed the homes and shops on the way down the long hill toward the port. The piers were situated near the center of town. There would be plenty of places to hide as they went, as long as they were careful.
 
 Closer to the water, they started catching glimpses of groups of pirates heading this way and that. They all looked to be on a mission and not one was looking about to see Captain Z or her soon to be shipmates. 
 
 Once they made it to the center, they crept down toward the far end of the piers where Wind Drinker should still be docked. They kept behind buildings and dry docked ships, so that no one on the piers would see them. 
 
-As they moved through the buildings, they saw glimpses of the boats docked along the piers. Small bands of pirates were surrounding some of the larger ships. Captain Z couldn't tell what those pirates were up to, but she knew it was nothing good.
+As they moved through the buildings, they saw glimpses of the boats docked along the piers. Small bands of pirates were surrounding some of the larger ships. Captain Z couldn't tell what those pirates were up to, but she knew it couldn't be something good.
 
 Finally, they had made it to the far end of the pier. They were hidden behind a boat house in front of the docks. The sky was getting lighter. The captain was surprised that the pirates hadn't started their attack yet. _They must be waiting for some sort of signal,_ she thought. 
 
@@ -1049,7 +1033,7 @@ They were luckier still to have a steady wind blowing away from the town out tow
 
 With the main sail out, and the wind up, the ship shifted away from the dock at a good pace. 
 
-It was ten feet away from the dock when the pirates finally made it to the end of the pier. One of the first tried to jump aboard, but missed. It was further away then he expected and he splashed into the water to swim back to shore with the first two.
+It was ten feet away from the dock when the pirates finally made it to the end of the pier. One of the first tried to jump aboard, but missed. It was further away then he expected, and he splashed into the water. He started to swim back to shore, spitting up water as he went.
 
 Other pirates ran to the edge but could only watch as the ship drifted further out. They shouted a few choice words but could do nothing from the land.
 
@@ -1067,7 +1051,7 @@ _Perhaps they are afraid any noise might wake the town and spoil their surprise,
 
 Commotion or no, the town would be awake soon anyways. The sky was brighter now. The day was coming.
 
-Wind Drinker steered around two small pirate ships were floating close to the piers. The captain and the children stared into the faces of the pirates aboard the nearest one. They were all glaring at the runaway ship, but weren't moving to stop it. Every few seconds they would look back toward the entrance to the port, as if they were watching for a signal of some sort.
+Wind Drinker steered around two small pirate ships that were floating close to the piers. The captain and the children stared into the faces of the pirates aboard the nearest one. They were all glaring at the runaway ship, but weren't moving to stop it. Every few seconds they would look back toward the entrance to the port, as if they were watching for a signal of some sort.
 
 Wind Drinker was half way to freedom when that signal came. 
 
@@ -1081,7 +1065,7 @@ The sleeping townspeople didn't know it, but the war had begun.
 
 As Captain Zephyr was sneaking towards her boat, Captain Spears was already on his. Waiting for the signal like all the other pirates in that bay who had made a pact with the leader behind this sinister plan.
 
-He had put his boat, The Sea Breaker, far out in the waters, near the port's entrance. He hoped he would avoid most of the action. 
+He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped he would avoid most of the action. 
 
 Spears had agreed to join the battle against the Port of Goodnews but not because he wanted to capture the city, but because he feared what would happen to him if he refused. The whole ordeal left a sour taste in his mouth. _Waiting in the water like eels in the dark,_ he thought, _it doesn't seem right._
 
@@ -1095,7 +1079,7 @@ His eye lit up at the sight of the bird. _What is that thing doing in Goodnews?_
 
 Then, he saw Captain Zephyr running down the pier toward the boat. 
 
-"Well I'll be a talking gator," he muttered.
+"Well I'll be a talkin' gator," he muttered.
 
 She was far off, but his red eye made sure it was her. The eye was glowing hot now, like an iron just out of the fire. 
 
@@ -1103,7 +1087,7 @@ She should be dead, but wasn't. Which meant that perhaps the lost treasure wasn'
 
 The flare caught his eye as it shot out from the leader's ship. Captain Spears watched it as it lit the sky red over the water. He saw the other captains dutifully follow their orders to start the attack. But Captain Spears now had another reason not to join in the battle. If he could block Wind Drinker from leaving the bay, perhaps he could get his hands on the treasure Captain Zephyr had stolen.
 
-He spoke in a whisper to his crew to explain the plan. Then he gave the order and The Sea Breaker started slowly making its way toward the entrance to the bay.
+He spoke in a whisper to his crew to explain the plan. Then he gave the order and the Sea Breaker started slowly making its way toward the entrance to the bay.
 
 If Captain Zephyr wanted out, she would have to get through Spears and his crew.
 
