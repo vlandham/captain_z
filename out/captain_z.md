@@ -1092,3 +1092,13 @@ He spoke in a whisper to his crew to explain the plan. Then he gave the order an
 If Captain Zephyr wanted out, she would have to get through Spears and his crew.
 
 #
+
+Almost all of the attackers were focused on the town and didn't even notice Wind Drinker sprinting out of the port. But one of the two ships Captain Z had passed before the signal was given had started to give chase. They had pulled their sails about to turn around to follow Captain Z and her crew of children.
+
+It was Captain Pete Moss who gave the order to pursue Wind Drinker. Captain Z recognized him as they pulled in behind. Captain Moss had a slow ship and a slower crew. They were weighted down with a slew of cannons he was itching to use. And he would have used them on Wind Drinker if the port hadn't been so crowded with other pirate ships. One missed shot and he could sink a fellow attack boat. Even Captain Moss was bright enough to know the trouble he would be in if he was responsible for such a mishap.
+
+So Captain Moss trailed behind Captain Z's ship as it weaved to and fro between the other ships in the harbor. Captain Z took her ship wide around the pirate swarm to stay clear of their cannons firing into the city.
+
+Though even from their distance, the cannon blasts were loud and scary. Lucy hid at the back of the boat and covered her ears. Orion and Nova kept their heads up, but ducked down at every nearby blast. 
+
+Captain Moss was not a skilled sailor, nor was his crew accustom to taking orders. They all had spent the last year living the land lovers life in Bodega. Now out in the water again, the crew had lost their sea legs.
