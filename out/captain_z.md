@@ -47,7 +47,7 @@ The Sea Breaker was moored up a stones throw from Castle Island. Captain Spears'
 
 But as he and his crew were putting on their pajamas, a little boat slowly and quietly rowed its way toward their mighty pirate ship. 
 
-Captain Z was the only person in that little row boat, along with a hook and rope, her lamp, and of course her grand feathered captains hat. 
+Captain Z was the only person in that little rowboat, along with a hook and rope, her lamp, and of course her grand feathered captains hat. 
 As the sky darkened into night, Captain Z rowed right up to the side of the big pirate ship. Swinging her hook and rope around, she threw it up and snagged the hook around the rail. Then Captain Z was up on the top deck - quick as a wink and quiet as a mouse. 
 
 She tiptoed across the deck, toward the door leading below deck. Carefully, she skipped over squeaky looking planks and tangles of rope that might trip her up. 
@@ -145,7 +145,7 @@ When they found this screaming pirate was battling nothing more then a piece of 
 
 With all this tomfoolery going on, now was the chance for Captain Z to escape unnoticed.
 
-She crept out from under the tarp with the chest and headed for the side of the ship. Looking over the railing, she saw the little row boat that carried her here still where she left it down below.
+She crept out from under the tarp with the chest and headed for the side of the ship. Looking over the railing, she saw the little rowboat that carried her here still where she left it down below.
 
 As she turned back around to check that no one was watching her, she smacked face-to-face with that nastiest of cats, Hissy!
 
@@ -157,13 +157,13 @@ Captain Z would be dead and drown, her stolen chest lost for certain, if it were
 
 The same ropes had nearly allowed her to escape by tangling up the sleepy pirate, had now narrowly saved her life. 
 
-As she fell off the side of the ship, some of that rope had wrapped around her left foot. Now Captain Z was dangling by her leg twenty feet below where she started on the deck, and upside-down, but hanging right above her own little row boat.
+As she fell off the side of the ship, some of that rope had wrapped around her left foot. Now Captain Z was dangling by her leg twenty feet below where she started on the deck, and upside-down, but hanging right above her own little rowboat.
 
 What luck!
 
 But time stays still for no man, or woman, as it were. She had to move fast to take advantage of that lucky tangle. 
 
-Captain Z dropped her stolen chest into the row boat, which landed with a thud. She reached up and unloosed the rope coil around her ankle. Then, she dropped down and hit the row boat with a thud herself. 
+Captain Z dropped her stolen chest into the rowboat, which landed with a thud. She reached up and unloosed the rope coil around her ankle. Then, she dropped down and hit the rowboat with a thud herself. 
 
 Sore, but with no bones broken, she put her oars in and started rowing fast. 
 
@@ -177,7 +177,7 @@ He stood there and scowled at her for a time, no doubt thinking and trying to fi
 
 Captain Z focused on her rowing. 
 
-The water was too shallow to allow that great giant of a boat, the Sea Breaker, to reach her. Instead, they would have to lower their own row boats if they wanted to chase her. And that is most certainly what Captain Spears wanted.
+The water was too shallow to allow that great giant of a boat, the Sea Breaker, to reach her. Instead, they would have to lower their own rowboats if they wanted to chase her. And that is most certainly what Captain Spears wanted.
 
 Captain Z cursed her luck and her clumsy feet for such a disastrous get away. Still, she had the chest, which meant she had the map. 
 
@@ -187,7 +187,7 @@ Smiling, Captain Z rowed straight for shore. There's more then one way to open a
 
 #
 
-Back on the deck of the Sea Breaker, Captain Spears and his men were racing to their row boats, which were docked on the tail end of the ship.
+Back on the deck of the Sea Breaker, Captain Spears and his men were racing to their rowboats, which were docked on the tail end of the ship.
 
 Three steps in and two of them had tripped and fallen over even more ropes. 
 
@@ -253,7 +253,7 @@ Captain Spears needed that letter and that map before everything was ruined. He 
 
 #
 
-The row boat skidded into the shallow water near the beach. Jumping out into the shallows, Captain Z pulled the little boat up on the shore. 
+The rowboat skidded into the shallow water near the beach. Jumping out into the shallows, Captain Z pulled the little boat up on the shore. 
 Her arms were tired and sore from all that rowing. She grabbed the chest from the boat and walked up the beach.
 
 She made it to the first palm tree that was growing out on the beach, then she turned around and gave a little whistle and two clicks. 
@@ -410,7 +410,7 @@ With the pink light over the hill above her, she picked up the pace and started 
 
 Captain Spears peered out into the night as his men rowed them toward the shore. _At least this eye is good for something,_ he thought, looking out into the dark through his glowing red eye. Though it was night time, to Spears everything was brightened through that eye. The world looked as if the sun was still up, but perhaps hidden behind a cloud.
 
-The eye also allowed him to see things that were far away as if they were closer, like using a spy glass. Captain Spears scanned the island off in the distance, looking for signs of Zephyr. There on the beach he could see her row boat empty on the sand. That meant she was already on the island looking for that treasure. 
+The eye also allowed him to see things that were far away as if they were closer, like using a spy glass. Captain Spears scanned the island off in the distance, looking for signs of Zephyr. There on the beach he could see her rowboat empty on the sand. That meant she was already on the island looking for that treasure. 
 
 His eye followed the beach up toward the cliffs at the North end of the island. He looked for her among the rocks and trees there, but saw nothing. 
 
@@ -418,7 +418,7 @@ Then, high above the cliffs, Spears's red eye caught sight of a big black bird f
 
 "We'll land up there," he said to his men while pointing. The spot would be up the beach, close to the cliffs. 
 
-Eventually, they made it and pulled their row boats up the beach. Then they set off creeping towards the cliffs. 
+Eventually, they made it and pulled their rowboats up the beach. Then they set off creeping towards the cliffs. 
 
 Captain Spears was leading the group. That red eye of his guiding him through the dark. The eye brought the ground closer, as if he were down there on his hands and knees with his nose to the sand.
 
@@ -655,13 +655,13 @@ Captain Spears and his crew hadn't seen the spot, as they came down from the Nor
 
 Captain Z knew different. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant of a vessel, the Sea Breaker, probably wouldn't have fit anyways. 
 
-Wind Drinker was different. Captain Z was actually the entire captain and crew of the whole ship. It was tricky, but with her riggings, and because of its size, the boat could managed by a one person crew if need be. And that is how Captain Z had made it all the way to Castle Island by herself. Besides, most of the extra space was taken up by this row boat. 
+Wind Drinker was different. Captain Z was actually the entire captain and crew of the whole ship. It was tricky, but with her riggings, and because of its size, the boat could managed by a one person crew if need be. And that is how Captain Z had made it all the way to Castle Island by herself. Besides, most of the extra space was taken up by this rowboat. 
 
 Captain Z rowed around the bend at the southern tail of the island and was in the cove. The shade from the mountain felt good after all that rowing in the sun. Muddle cawed from above and landed on the ship's front mast.
 
-There was a rope ladder and a hook waiting for her at the back of Wind Drinker. She fixed the hook on the front of the row boat, then used the ladder to get on deck.
+There was a rope ladder and a hook waiting for her at the back of Wind Drinker. She fixed the hook on the front of the rowboat, then used the ladder to get on deck.
 
-On board, she started turning a crank that hoisted the row boat up out of the water and on to the back of the larger boat. It was a tight spot, but she knew it would all fit as it had in the past. 
+On board, she started turning a crank that hoisted the rowboat up out of the water and on to the back of the larger boat. It was a tight spot, but she knew it would all fit as it had in the past. 
 
 Next she prepared to launch.
 
@@ -1102,3 +1102,71 @@ So Captain Moss trailed behind Captain Z's ship as it weaved to and fro between 
 Though even from their distance, the cannon blasts were loud and scary. Lucy hid at the back of the boat and covered her ears. Orion and Nova kept their heads up, but ducked down at every nearby blast. 
 
 Captain Moss was not a skilled sailor, nor was his crew accustom to taking orders. They all had spent the last year living the land lovers life in Bodega. Now out in the water again, the crew had lost their sea legs.
+
+So when Zephyr cut sharply through the water around a big galley of a ship, Pete Moss didn't follow. He tried though, shouting to the crew to tack in the sails and turning the wheel as hard as he could. But the ropes on the sails were tangled and twisted up and his big boat couldn't turn sharp enough.
+
+The front side of his ship smashed into the back half of the galley with a deafening screech. Moss's ship took all the damage. It lurched to a stop, sending the Captain and his crew flying to the deck floor. Planks and other bits of wood were thrown across the water from where the boats hit. Moss got up to look at the front of his boat to find a huge gash where the sea water was already starting to flood in.
+
+Moss started shouting to abandon ship, and within seconds he and his crew were lowering their rowboats into the water. The pirates swung down to the rowboats and started rowing as fast as they could as their ship tipped sideways into the water. 
+
+The ship sank completely into the water a few minutes later. Captain Moss and his crew watched it go down, then sadly rowed for shore. 
+
+The crew on the galley that had been hit watched them from their deck, making sure to note all the pirates involved in the disaster. The leader would hear about this.
+
+Zephyr sailed on.
+
+With all the other pirates focused on the town, it looked like the way was clear for them to escape. 
+
+Captain Z pulled Wind Drinker around to point directly at the entrance to the bay. It was still open, and clear of any ships. Despite the cannon fire and the commotion all around, Captain Z smiled at her luck. _We made it,_ she thought.
+
+That's when she saw the Sea Breaker slowly maneuvering through the waters towards the entrance. Captain Z's hear was gripped with fear. Spears was going to cut them off before they made it out!
+
+#
+
+Captain Z panicked. The Sea Breaker was big enough to block much of their way out. Wind Drinker could probably dodge around the big ship, but then they would be in open water. Out there, with no other ships around, Captain Spears would be free to blast away with his cannons. Captain Z knew her ship couldn't stand up to that kind of fire power. They would be helpless if Spears attacked. The game would be up.
+
+If Spears and his crew boarded the ship, Captain Z would most likely be held captive. The children would be prisoners in the Port of Goodnews, with no one to protect them. And the feathers would certainly be stolen. 
+
+The feathers!
+
+Captain Z had forgotten her treasure, but now she wondered if they might work on her steed of a ship, Wind Drinker. There was only one way to find out. 
+
+She roped the wheel steady so that it stayed on course. They were still headed right for the entrance to the bay. But the Sea Breaker was reaching the entrance already. It slowed near the western edge of the entrance.
+
+Captain Z pulled the feathers out of her pocket and looked them over. Then she slowly touched them to the ship's wheel.
+
+Nothing happened.
+
+She didn't loose hope. Moving to the front deck, she tried the floor, the railing, and even the main mast. She touched the feather to each spot hoping for some magic to happen. But the feathers did nothing, and the ship remained in the water. 
+
+Lucy, Orion, and Nova watched Captain Z frantically move about the ship, jamming the feathers here and there. They could feel the fear rising in their bellies. Even Muddle above started to caw frantically. 
+
+Captain Spears had positioned his ship along the edge of the entrance. The crew started loading grape shot and mast breakers into the cannon. As Wind Drinker passed by, they would fire the shots and blast down the sails. Captain Z's ship would have no way to move and the treasure would be easy to get. 
+
+Captain Z, now desperate, ran around the whole ship from front to back with two of the feathers in each hand, trying to get her steed up in the air. Finally, she stopped and cried out in frustration.
+
+Lucy looked up and uncovered her ears. She had an idea. In her loudest voice, she shouted to Captain Z over the commotion in the bay.
+
+"Try it on the wings!"
+
+Captain Z was confused until she saw that Lucy was pointing up. Captain Z looked up as well to see the sails of her ship blowing in the wind. _The sails,_ she thought, _of course!_
+
+Filled out and full of air, the sails did look a bit like wings. Just like the Pegasus of legend, perhaps the feathers would only work on the wings of the steed.
+
+#
+
+It was their last chance to try. Wind Drinker was almost alongside the Sea Breaker as it neared the entrance. As soon as they were in firing range, Captain Spears would open fire on Sophia and the children. 
+
+Captain Z ran to the mast and started climbing up the rope ladder to the sail. As she held on with one hand, she took two of the feathers in the other hand and jammed them into the sail cloth. The quill of one of the feathers stuck.
+
+Instantly, the boat jolted. The hull creaked loudly as it lifted up partway out of the water. 
+
+They were starting to float, but it wasn't enough. 
+
+With the jolt, Captain Z was thrown back and swung wide on the ladder. She swung herself back to the sail and jabbed the second feather into the sail.
+
+The ship creaked again as it lifted up completely out of the water. Now they were skimming across the surface of the sea, and they were moving at a breakneck speed. 
+
+In two seconds, they would skim right in front of the Sea Breaker. Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up to jab them both into the sail.
+
+Wind Drinker lurched into the air like a wind powered rocket.
