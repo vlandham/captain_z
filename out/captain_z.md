@@ -1170,3 +1170,65 @@ The ship creaked again as it lifted up completely out of the water. Now they wer
 In two seconds, they would skim right in front of the Sea Breaker. Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up to jab them both into the sail.
 
 Wind Drinker lurched into the air like a wind powered rocket.
+
+Captain Spears and his crew stood slack-jawed and silent. Their necks craned up as Captain Z sailed her ship over their heads and out towards the sea. No one could speak. Spears's eye shone a brilliant yellow as he watched the flying vessel in awe and wonder.
+
+Wind Drinker flew steadily up and up until finally leveling off high in the sky. Muddle flew right along next to Captain Z and weaved back and forth among the masts deck as they went. The children realized they had escaped and were now flying and they began to cheer.
+
+Captain Z lashed the feathers to the sail with a bit of rope and jumped down to join in the celebration. 
+
+With no water to slow it down, the ship flew as fast as the wind. Captain Spears and his crew were soon just a small dot on the horizon. _But how do I steer?_ Captain Z wondered. Without water to push around, a rudder should be of no use. She decided to try the wheel anyways, just to be sure. She untied the ropes that were keeping the wheel from moving and slowly started to turn it. 
+
+Magically, the ship started to turn as well! The movement was faster than what you would expect in the water, but that was no problem for Captain Z. She would learn to fly this ship as good as she could sail it. 
+
+#
+
+The cheering stopped as the children turned to look back to see a glimpse of the destruction of the Port of Goodnews. It was far off in the distance now, but they could still make out smoke and fire coming from the buildings near the bay. The pirates were taking the city for themselves. 
+
+"The people need our help," Nova said. 
+
+"They need help, Aye," Captain Z said. "But one ship won't do a lick of good, even if it can fly." She turned to look at Nova and the other two children that she had sworn to protect. "We can't save Goodnews, least not by ourselves."
+
+Nova looked sad. "Then where do we go to get help?" She asked.
+
+Captain Z looked out over the water at the breathtaking sunrise. The sky glowed orange and red, and the clouds were fringed in purple. She turned the wheel and pointed the ship directly toward the great ball of light. 
+
+"East," the captain replied. 
+
+No one in the Western Waters was strong enough to fight back a pirate crew that could take Port Goodnews. And if what the note said was true, that this was a war and not just one fight, then this morning's attack was only the beginning of something much bigger.
+
+The Eastern Coast would be their only hope for finding help. The armies there could march down and put a quick end to the pirate war. _If they believe us,_ Captain Z thought, _and if they come._
+
+The Eastern Coast was a long trip by sea, but to fly there would be a different story. _As long as the wind blows strong, we might get there in time,_ Captain Z thought. It would still be a tough trek, and one Captain Z had never tried before, though she knew the way. They would have to make it over the Porter mountains and then through the desert of Casper.
+
+Orion, Nova, and Lucy walked over next to their captain to squint into the sunrise and look out. They would all need to learn quick and work together if the plan was to be a success.
+
+Lucy was thinking about something and frowned as she looked up at Captain Z. 
+
+"Are we pirates now too?" She asked. She knew Captain Z called herself a pirate, and that was fine, but otherwise, she wasn't very fond of any other that she knew of. She didn't want to have to be a pirate, if she didn't have to.
+
+"Not pirates," Captain Z said. "The name's a bad fit."
+
+_But then what are we?_ The captain thought.
+
+"Adventurers!" Nova shouted, as if reading her mind.
+
+Captain Z thought the name over in her head, then nodded her head yes. _Adventurer suits me well,_ she thought. She was tired of playing by pirate rules anyways. They would make up new rules as they went along. 
+
+"Captain Z and the Adventurers," Nova said again, and smiled.
+
+#
+
+As Captain Z returned to the ship's wheel, her mind turned to all those pirates in the Port of Goodnews, and who could be leading such a plan. _Who's cruel enough and powerful enough to make that many pirates fight together?_ She wondered. Certainly not Captain Spears. He was greedy, to be certain, but he would never want a whole town to call his own. And he certainly didn't have enough smarts to make a plan like that even work.
+
+No, someone far more mean and greedy was behind this war. Controlling the pirates like pieces on a chessboard. It made Sophia's skin crawl just to think about someone that terrible. 
+
+_Whoever it is, we'll make them pay,_ she decided. 
+
+#
+
+So our hero, no longer a pirate, but part of a crew of adventurers sailed through the blue skies of the Western Waters, headed east as fast as they could fly. 
+
+Over the mountains and through the desert, they would find an army to fight for the people of the Port of Goodnews and others in the Western Waters. At least that was the plan. 
+
+Port Goodnews would be captured no doubt by the pirates, probably even before the sun set on the day. And then they might turn their eyes on other places nearby. Captain Z hoped that few people would be hurt in the attacks. The quicker they could come back and fight the better. 
