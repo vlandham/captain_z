@@ -705,16 +705,27 @@ The two walked into the boarding school and closed the door behind them.
 
 #
 
-Sophia Zephyr still knew her way around all the odd twists and turns to get to the main room. Although it had been a year since she last visited, Sophia had grown up inside this school. Memories from her childhood flooded back as she went along.
+Sophia Zephyr still knew her way around all the odd twists and turns to get to the main room. Although it had been a year since she last visited, Sophia had grown up inside this school. 
+
+Memories from her childhood flooded back as she went along.
 
 Orion and Nova were both reading by lamp light. When they saw Sophia in the doorway they both sprang up to give her hugs at the same time. 
 
-Little Lucy had fallen asleep on the floor. With all the commotion she woke up, but stayed on the rug rubbing her eyes. She was five now, but was only four the last time Sophia had come back to the school. She didn't really remember her much. 
+Little Lucy had fallen asleep on the floor. With all the commotion she woke up, but stayed on the rug rubbing her eyes. She was five now, but had joined the school when she was only four when she had been rescued by Dr. Star. 
 
-All the children had to hear stories of Captain Z's latest adventures. She told them of her run ins with Captain Spears and the hunt on Castle Island. She skipped talking about the feathers and the floating for now. She wanted to talk to Dr. Star about it first.
+Lucy didn't recognize Sophia and she didn't trust anyone she didn't recognize. 
 
+Nova and Orion remembered her and had to hear stories of Captain Z's latest pirate adventures. So she told them of her run ins with Captain Spears and the hunt for treasure on Castle Island. She skipped over talking about the feathers and the falling from the cliffs for now. She wanted to talk to Dr. Star about that first.
 
-     !!!!!!!!!MORE TALKING!!!!!!!!!!
+By the end of the tales, Lucy was in Captain Z's lap listening with both ears. Sophia and Lucy were instant friends. They both had a wild streak and a love for danger. 
+
+But Lucy was also very tired and was carried off to bed by Dr. Star. Captain Z got a few more hugs and kisses from the other two children. Then, Nova put her arm around her younger brother Orion and the two walked back to their room to collapse in to their soft beds under their warm blankets. 
+
+The night was still early for Dr. Star and Captain Z. 
+
+"I've got something I want you to take a look at," Sophia said to her old mentor.
+
+"I'm all ears," Dr. Star responded.
 
 #
 
@@ -802,6 +813,38 @@ She was pretty good with words, when she wanted to be. Maybe she had enough smar
 The night ended with a hug. Captain Z found a cozy couch and a warm blanket and was soon deep asleep. Snoring, and dreaming of treasure.
 
 #
+
+The next morning, bright and early, Sophia was woken up by the banging of pots and pans in the kitchen. When she staggered in to see what was making all the commotion, she found Lucy. Lucy had decided she wanted to make everyone breakfast, and was trying her best to figure out how.
+
+Captain Z offered to help.
+
+By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries ready. Everyone thanked Lucy for a delicious way to start to the day.
+
+After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
+
+"Why don't you all go into town together," she said as she was packing up her things. "You can go see Walter and get some food at the market for supper tonight."
+
+While Captain Z wasn't too excited about taking three children around by herself, it would be nice to see her old classmate. She hadn't seen Walter since her last visit nearly two years ago when he helped her with rigging up Wind Drinker. So Captain Z agreed to watch the children while Dr. Star treated her patients. 
+
+It was a short walk down the hill and into the market. It was already crowded that morning. It seemed like everyone in town had come out to buy fish, fruit, and a new necklace or other such trinket. Captain Z pushed her way through the crowds, making sure that the children were not left behind. 
+
+Finally, they reached the quieter end of the market and ducked into a dark and smoky little building. There was Walter the blacksmith. Banging away on a piece of red hot metal. He was no doubt making a new sort or spear for the town guard as they were one of his best customers. 
+Sophia had grown up with Walter in Dr. Star's school. They had both been part of the very first class. There were two boys and two girls in that class, and Walter and Sophia were one of each. They had been like brother and sister, always playing jokes, but also always watching out for one another. They were still a bit like siblings, even now that they were all grown up.
+
+Walter didn't even have to look up to know who had come into his shop. He could tell it was Sophia just by her walk. 
+
+"Well, did you get another boat you need to rig with pulleys?" Walter asked. He looked up and smiled at Captain Z. 
+
+"I'm still enjoying the first one too much to be needing another," was Captain Z's response. 
+
+Walter put down his fired metal and gave Sophia a big bear of a hug. He was stronger than he realized, all that blacksmithing builds muscle. 
+
+"It's good to see you, Little Z," Walter said. That was the name he had given Sophia while they were in school together. She had always been shorter then him in school. Though after they left, she kept growing. Now she was taller then he, but the name still stuck. 
+
+"It's good to see you too Walter," Captain Z said. "What's new?"
+
+"Ah, everything's the same 'cept what's been changed," Walter said with a wink. He never had a straight answer to a question.
+
 
     !!!!!!!CHARACTER BUILDING WITH KIDS AND TOWN FOLK. PERHAPS MORE FLOATING.!!!!!!!
 
@@ -979,7 +1022,7 @@ Captain Z was definitely planning on leaving now, or as close to now as possible
 
 She was about to argue about the idea, when she remembered the poem that came with the Pegasus feathers. She remembered the part about a hero being born. Perhaps she could be a pirate and a hero at the same time.
 
-Before she could speak up again, there was a knock at the bedroom door. Orion, Nova, and Lucy shuffled in.
+Before she could speak up again, there was a knock at the bedroom door. Nova, Orion, and Lucy shuffled in.
 
 "What's going on?" Asked Nova.
 
@@ -1239,4 +1282,4 @@ Muddle swooped down to land on her perch near the captain's wheel. She kept her 
 
 Nova, Orion, and Lucy continued to stare out into the wide ocean they were travelling above. Soon enough they would need to get to work, learning the ins and outs of the ship and how to manage it. They would also need to chart the course they would take out to the Eastern Coast. But for now, Captain Z let them enjoy the view.
 
-More adventures were right around the corner. 
+This would be just the beginning of their adventures.
