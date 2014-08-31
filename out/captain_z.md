@@ -336,9 +336,9 @@ Three years ago, almost to the day, Captain Z had first heard the tale of the my
 
 The storyteller had been another pirate, the friendly Sammy Two Toes. Sammy had told the story of the treasure so well that Captain Z knew she would have to try to find it.
 
-Of course at that time, Captain Z was no captain, as she had no boat of her own with which to search. But that didn't stop Sophia Zephyr from plotting and dreaming. All things change with the times and the tides, as they say.
+Of course at that time, Captain Z was no captain, as she had no boat of her own with which to search. She was just one of the crew of the Wind Breaker, charged with swabbing decks and polishing brass. But that didn't stop Sophia Zephyr from plotting and dreaming. All things change with the times and the tides, as they say.
 
-And by the time Sophia Zephyr became Captain Z, she had heard the story of Castle Island a hundred times or more. And each time, it ended with a different surprise. A different name to the treasure to be found.
+And by the time Sophia Zephyr became Captain Z and took control of Wind Drinker, with is a tale for another time, she had heard the story of Castle Island a hundred times or more. And each time, it ended with a different surprise. A different name to the treasure to be found.
 
 Some, like Sammy Two Toes, said it to be a huge diamond. As large as your fist, and as heavy as your head. Sammy had said it shone like a star in the sun. 
 
@@ -788,7 +788,7 @@ Dr. Star thought for a bit. "That's what the word steed usually means," she said
 
 It was now very late in the evening. Both women were very tired. It had been a long day.
 
-"Let's get some shuteye," Dr. Star sighed. "We can tour the town tomorrow. See all the friendly faces."
+"Let's get some shuteye" Dr. Star sighed. "We can tour the town tomorrow. See all the friendly faces."
 
 "Probably not many of them left," Captain Z grumbled. Then she pulled out an envelope from her vest. 
 
@@ -866,7 +866,7 @@ Walter and Captain Z talked for a bit longer, retelling stories from their child
 
 #
 
-The plan was to get a quick lunch at the market, then head over to the university to say hello to Irene before coming back to the school for dinner with Dr. Star. 
+The plan was to get a quick lunch at the market, then head over to the university to say hello to Irene before coming back to the school for dinner with Dr. Star.
 
 * lucy picks up an apple
 * guards say she was trying to steal it
