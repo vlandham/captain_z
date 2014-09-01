@@ -891,81 +891,87 @@ _No time like the present,_ she thought. The bad dream made her want to stay awa
 
 She found some paper and a quill and ink to help her with the code. First she wrote out the code on her own paper, leaving plenty of room below each line.
 
-    PAU JLS OUIMTQ
+```CODER
+PAU JLS OUIMTQ
 
-    ZSMELC LP ELJT
+ZSMELC LP ELJT
 
-    L OLE ELC ZRS
+L OLE ELC ZRS
 
-    XRSP IRRETUJQ
+XRSP IRRETUJQ
 
-    L IRRE ELC ZRS
+L IRRE ELC ZRS
 
-    VLXPLMTQ LTE XMSLPUQ
+VLXPLMTQ LTE XMSLPUQ
+```
 
 _Those one-letter words are probably either the word "A" or the word "I",_ she thought. Needing to make some sort of guess to get things started, she guessed "A". She filled in the guess under the letters
 
-    PAU JLS OUIMTQ
-         A
+```CODER
+PAU JLS OUIMTQ
+     A
 
-    ZSMELC LP ELJT
-        A  A   A
-
-    L OLE ELC ZRS
+ZSMELC LP ELJT
     A  A   A
 
-    XRSP IRRETUJQ
+L OLE ELC ZRS
+A  A   A
+
+XRSP IRRETUJQ
 
 
-    L IRRE ELC ZRS
-    A       A
+L IRRE ELC ZRS
+A       A
 
-    VLXPLMTQ LTE XMSLPUQ
-     A       A      A
+VLXPLMTQ LTE XMSLPUQ
+ A       A      A
+```
 
 _That's a lot of a's in this message,_ she thought. Still it was good to have a start, even if it turned out wrong. And this start lead to another guess. _What's a two-letter word that starts with "A"?_ Captain Z pondered. _Well, how about "AT"?_ It seemed logical, so she wrote in all the T's
 
+```CODER
+PAU JLS OUIMTQ
+T    A
 
-    PAU JLS OUIMTQ
-    T    A
+ZSMELC LP ELJT
+    A  AT  A
 
-    ZSMELC LP ELJT
-        A  AT  A
+L OLE ELC ZRS
+A  A   A
 
-    L OLE ELC ZRS
-    A  A   A
+XRSP IRRETUJQ
+   T
 
-    XRSP IRRETUJQ
-       T
+L IRRE ELC ZRS
+A       A
 
-    L IRRE ELC ZRS
-    A       A
-
-    VLXPLMTQ LTE XMSLPUQ
-     A TA    A      AT
+VLXPLMTQ LTE XMSLPUQ
+ A TA    A      AT
+```
 
 It was a start, but it didn't help much. _Well, on to the three letter words,_ she thought. One of the three letter words had an 'A' filled in for the starting letter. Another had a 'T'. 
 
 The only three letter A words Sophia could think of was 'and', and 'ant'. _Let's try the first one,_ she thought, and filled in the rest of the word. The word 'the' fits nicely into a three letter word starting with 'T'. She filled that in too.
 
+```CODER
+PAU JLS OUIMTQ
+THE  A   E  N
 
-    PAU JLS OUIMTQ
-    THE  A   E  N
+ZSMELC LP ELJT
+   DA  AT DA N
 
-    ZSMELC LP ELJT
-       DA  AT DA N
+L OLE ELC ZRS
+A  AD DA
 
-    L OLE ELC ZRS
-    A  AD DA
+XRSP IRRETUJQ
+   T    D E
 
-    XRSP IRRETUJQ
-       T    D E
+L IRRE ELC ZRS
+A    D DA
 
-    L IRRE ELC ZRS
-    A    D DA
-
-    VLXPLMTQ LTE XMSLPUQ
-     A TA N  AND    ATE
+VLXPLMTQ LTE XMSLPUQ
+ A TA N  AND    ATE
+```
 
 It was starting to look a bit like actual words, but just barely. Many of the coded words ended in the same letter. _Perhaps that letter is 'S',_ she thought. Lots of words ended in 'S'. Perhaps more then most. She added it in.
    
@@ -973,23 +979,25 @@ She stared at the words, frustrated she hadn't cracked the code yet. The last wo
 
 She filled in the letters from these words and slowly worked out the rest of the message. The words "PORT GOODNEWS" came next. With a bit of guesswork and a bit of luck she filled in the rest of the gaps. What she saw when the code was all cracked gave her butterflies in her stomach.
 
-    PAU JLS OUIMTQ
-    THE WAR BEGINS
+```CODER
+PAU JLS OUIMTQ
+THE WAR BEGINS
 
-    ZSMELC LP ELJT
-    FRIDAY AT DAWN
+ZSMELC LP ELJT
+FRIDAY AT DAWN
 
-    L OLE ELC ZRS
-    A BAD DAY FOR
+L OLE ELC ZRS
+A BAD DAY FOR
 
-    XRSP IRRETUJQ
-    PORT GOODNEWS
+XRSP IRRETUJQ
+PORT GOODNEWS
 
-    L IRRE ELC ZRS
-    A GOOD DAY FOR
+L IRRE ELC ZRS
+A GOOD DAY FOR
 
-    VLXPLMTQ LTE XMSLPUQ
-    CAPTAINS AND PIRATES
+VLXPLMTQ LTE XMSLPUQ
+CAPTAINS AND PIRATES
+```
 
 #
 

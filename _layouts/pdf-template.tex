@@ -18,6 +18,8 @@
 \setsansfont{Adobe Garamond Pro}
 \setmonofont[Mapping=tex-ansi]{Menlo}
 
+\newfontfamily\coder[Mapping=tex-ansi]{Menlo}
+
 %% Set Sans font in headings
 % \usepackage{sectsty}
 % \allsectionsfont{\sffamily}
@@ -103,12 +105,13 @@
 
 \definecolor{Black}{HTML}{000000}
 
+\definecolor{Grayr}{HTML}{777777}
+
 
 \usepackage{listings}
 
-\lstdefinelanguage{JavaScript}{
-  keywords = {typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
-  % keywordstyle = \color{SkyBlue}\bfseries,
+\lstdefinelanguage{CODER}{%
+  morekeywords = {PAU, JLS, OUIMTQ, ZSMELC, LP, ELJT, L, OLE, ELC, ZRS, XRSP, IRRETUJQ, IRRE, VLXPLMTQ, LTE, XMSLPUQ},
   ndkeywords = {class, export, boolean, throw, implements, import, this},
   % ndkeywordstyle = \color{Aluminium6}\bfseries,
   % identifierstyle = \color{Black},
@@ -122,7 +125,7 @@
 }
 
 \lstset{
-  language = JavaScript,
+  language = CODER,
   % backgroundcolor = \color{Aluminium1},
   extendedchars = true,
   basicstyle = \normalsize\ttfamily,
@@ -130,6 +133,7 @@
   showspaces = false,
   tabsize = 1,
   breaklines = true,
+  keywordstyle=\color{Grayr},
   showtabs = false
 }
 
