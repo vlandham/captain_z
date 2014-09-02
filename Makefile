@@ -29,9 +29,9 @@ tex: combine
 pdf: combine
 	cd $(TEMP_DIR) && $(PDF_BUILDER) $(PDF_BUILDER_FLAGS) $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).pdf
 
-epub: combine
-	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/title.png $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).epub
-	# cd $(TEMP_DIR) && $(EPUB_BUILDER) $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).epub
+epub: tex
+	# cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/title.png $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).epub
+	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(BOOK_FILE_NAME).tex -o $(BOOK_FILE_NAME).epub
 
 mobi: epub
 	cd $(TEMP_DIR) && $(MOBI_BUILDER) $(BOOK_FILE_NAME).epub
