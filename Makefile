@@ -17,11 +17,14 @@ EPUB_BUILDER_FLAGS = \
 
 MOBI_BUILDER = kindlegen
 
-
 combine:
 	mkdir -p $(TEMP_DIR)
 	cat _posts/*.md | tools/remove_header.rb > $(TEMP_DIR)/$(BOOK_FILE_NAME).md
 	cp -r img/ ${TEMP_DIR}/img
+	cp _layouts/metadata.xml $(TEMP_DIR)/
+
+add_titles: combine
+	cat $(TEMP_DIR)/$(BOOK_FILE_NAME).md | tools/add_titles.rb > $(TEMP_DIR)/$(BOOK_FILE_NAME).ebook.md
 
 tex: combine
 	cd $(TEMP_DIR) && $(PDF_BUILDER) $(PDF_BUILDER_FLAGS) $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).tex
@@ -29,9 +32,9 @@ tex: combine
 pdf: combine
 	cd $(TEMP_DIR) && $(PDF_BUILDER) $(PDF_BUILDER_FLAGS) $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).pdf
 
-epub: tex
-	# cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/title.png $(BOOK_FILE_NAME).md -o $(BOOK_FILE_NAME).epub
-	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(BOOK_FILE_NAME).tex -o $(BOOK_FILE_NAME).epub
+epub: add_titles
+	# --epub-stylesheet=stylesheet.css --toc --toc-depth=1
+	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/title.png  --epub-metadata=metadata.xml  $(BOOK_FILE_NAME).ebook.md -o $(BOOK_FILE_NAME).epub
 
 mobi: epub
 	cd $(TEMP_DIR) && $(MOBI_BUILDER) $(BOOK_FILE_NAME).epub

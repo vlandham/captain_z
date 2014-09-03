@@ -1,10 +1,7 @@
----
-layout: default
-title: Captain Z and the Treasure of Castle Island
-count: 01
----
 
-#
+# 1
+
+![](img/head.png)
 
 Our story begins, as most pirate stories do, in the dark. 
 
@@ -30,7 +27,7 @@ Will she really turn the corner from villain to hero? Does she have it in her?
 
 I don't know. All we can do is watch and listen together to find out. 
 
-#
+# 2
 
 Captain Z stopped for a bit to rest on one of the large rocks along the steep path shed been following and checked the map again. She made sure she was still on the right path, and then continued to trudge up the mountain. 
 
@@ -40,7 +37,7 @@ The path she was taking ended at an X on the map, and you know that an X always 
 
 You see, Captain Z was not the only pirate creeping about on this island at the end of a dark night. The Dread Captain Spears and his crew of scoundrel pirates were searching and scouting on the island as well. Except they didn't have the treasure map, you see, as Captain Z had stolen it from them. Instead, they were searching for her!
 
-#
+# 3
 
 Earlier, that same night, things were a different story altogether. 
 
@@ -59,7 +56,9 @@ She tiptoed across the deck, toward the door leading below deck. Carefully, she 
 
 The door gave a little squeak as she opened it, but not one of those scoundrel pirates stirred as Sophia slipped below deck. 
 
-#
+![](img/rowing.png)
+
+# 4
 
 What a commotion those pirates make when they are sleeping!
 
@@ -87,7 +86,7 @@ All of a sudden the snoring stopped. Instead, out of the bedrooms came shouts.
 
 The frightened captain grabbed her stolen chest and flew out of the door and on to the main deck, slamming the door behind her.
 
-#
+# 5
 
 Captain Z scrambled as fast as she could toward the front of the boat. 
 
@@ -107,7 +106,7 @@ The biggest of them all, the Dread Captain Spears, finally appeared on the deck 
 
 Hissy, his cat, trotted along beside him.
 
-#
+# 6
 
 Now, there are a pages and pages of stories I could tell of the terrible Captain Spears. Everyone and their grandmother knows the story of how Spears, in a rage, threw two of his own men overboard just for playing cards. When the were dragged back on board, still spitting and sputtering, Captain Spears just snarled and said "Ye can play when the workin's done."
 
@@ -132,7 +131,7 @@ There wasn't a more terrible pirate on the seven seas than the Dread Captain Spe
 
 And both of these villains were looking for Captain Zephyr.
 
-#
+# 7
 
 Captain Spears's eyes darted back and forth and all around his boat, looking for something out of place. He had just woken up out of a wonderful dream, and hadn't cleared his head yet. He certainly hadn't thought to check the map room to find out if anything was missing. 
 
@@ -156,7 +155,7 @@ As she turned back around to check that no one was watching her, she smacked fac
 
 Hissy had jumped up on the railing next to her and stuck its face out to scare her. Hissy started up a terrible fit of hissing and meowing. This startled Captain Z such that she stepped backward, tripped over the railing, and went falling head first over the side of the boat. 
 
-#
+# 8
 
 Captain Z would be dead and drown, her stolen chest lost for certain, if it weren't for that great tangle of ropes aboard the Sea Breaker.
 
@@ -190,7 +189,7 @@ She had the map, once she got the chest open, that is.
 
 Smiling, Captain Z rowed straight for shore. There's more then one way to open a chest, she thought again, and she had the perfect sort of key to do just that.
 
-#
+# 9
 
 Back on the deck of the Sea Breaker, Captain Spears and his men were racing to their rowboats, which were docked on the tail end of the ship.
 
@@ -230,7 +229,7 @@ _Sophia Zephyr was there to steal something, alright_, he thought. But it wasn't
 
 "The map!" He cried, turning around with a twirl. He shot out like a bullet toward the map room. His scoundrel crew followed along at his heels to see if he was right.
 
-#
+# 10
 
 _The map is safe, I've got the key. The map is safe, I've got the key._ This is what Spears told himself as he hustled down the stairs towards the map room. 
 
@@ -256,7 +255,7 @@ There was a chance she would never crack the code, leaving the plan unknown. Yes
 
 Captain Spears needed that letter and that map before everything was ruined. He couldn't bear to think of the trouble he'd be in if it was found he let it all get stolen. Just the idea sent shivers down his back. 
 
-#
+# 11
 
 The rowboat skidded into the shallow water near the beach. Jumping out into the shallows, Captain Z pulled the little boat up on the shore. 
 Her arms were tired and sore from all that rowing. She grabbed the chest from the boat and walked up the beach.
@@ -287,7 +286,7 @@ Up she flapped to perch on the top of the little chest, holding the stick in her
 
 In the dark, it was hard to see what was going on, but after a moment or two there was a soft click noise. Muddle had unlocked the chest. 
 
-#
+# 12
 
 Smiling, Captain Z brought out a piece of clam from her pocket. "Good work my pretty bird," she said as she threw her the clam. Muddle flew up to perch on a palm tree to enjoy her treat. 
 
@@ -317,7 +316,7 @@ Such questions, that didn't concern the treasure on Castle Island were best held
 
 _That should keep it safe till there's more time,_ she thought. _Right now, I need to find that path._
 
-#
+# 13
 
 She blew out the flame in her lantern and headed up the beach toward the cliffs. Muddle followed, silently flying above.
 
@@ -331,7 +330,7 @@ Well, at least that was what Captain Z hoped for, what she had heard, and what s
 
 Truth be known, she didn't really know what was waiting at the end of that path to be found. In fact no one really knew the truth of the treasure of Castle Island.
 
-#
+# 14
 
 Three years ago, almost to the day, Captain Z had first heard the tale of the mysterious island and its wondrous hidden treasure. 
 
@@ -347,7 +346,7 @@ But other folks had different ideas about what was hidden there. Some said gold 
 
 Captain Z didn't know which of the stories to believe, but she knew Castle Island held something worth searching for. And that's why she kept searching for a way to find the island and a way to find the treasure hidden here. 
 
-#
+# 15
 
 Captain Z was at the base of the cliffs, looking back and forth for a path. The cliffs were so steep at the bottom that no one would be able to climb them. 
 
@@ -383,7 +382,7 @@ She could see the path heading up the cliffs, zig-zagging right up the side.
 
 Captain Z started walking quickly up the path, excited to be so close now, but on the look out for more roots and more pirates. 
 
-#
+# 16
 
 Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where's and the whys of what she is doing. 
 
@@ -399,7 +398,7 @@ Will Captain Z find the treasure and escape?
 
 I don't know. All we can do is keep reading, and hope against hope that everything will turn out alright. 
 
-#
+# 17
 
 Captain Z was halfway up the giant of a hill by the time dawn started to break in the East. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
 
@@ -411,7 +410,7 @@ Captain Spears and his scoundrels were still nowhere to be seen. She figured the
 
 With the pink light over the hill above her, she picked up the pace and started to jog up the path. _Even if he is there waiting,_ she thought, _I'll still be the one leaving this island with the treasure. Someway, somehow, I will be the one._
 
-#
+# 18
 
 Captain Spears peered out into the night as his men rowed them toward the shore. _At least this eye is good for something,_ he thought, looking out into the dark through his glowing red eye. Though it was night time, to Spears everything was brightened through that eye. The world looked as if the sun was still up, but perhaps hidden behind a cloud.
 
@@ -435,7 +434,7 @@ The rest of the scoundrel pirates followed their captain down to these rocks. Th
 
 "This way, ya mutts," he growled. "She'll be leading us to the treasure, by and by."
 
-#
+# 19
 
 At the top of the cliffs, Captain Z opened the map one last time. According to the map, there should be a hole up here. A hole that lead down into a little cave. And on the map, in that cave, the X was placed. The spot where the treasure was at. But this hole that lead to the cave was covered and hidden. Captain Z looked at the map to find out what landmark she should be looking for to uncover the hole. 
 
@@ -457,7 +456,7 @@ Now frustrated, Captain Z found another rock. One that was heavy, but she could 
 
 The stone covering the hole shattered, breaking into a dozen pieces. There was the hole underneath, dark, but big enough for a pirate to squeeze through. Captain Z pried out the smaller pieces of the rock, until the opening was cleared. Then, holding her breath, she jumped in.
 
-#
+# 20
 
 The hole lead to a narrow passageway that ran along the edge of the cliffs. The rock had been carved away to make this tunnel that was just big enough to walk through with your back bent low. Dirt and sand covered the floor. Captain Z could see a light coming from the doorway at its far end.
 
@@ -509,7 +508,7 @@ She didn't have more time to curse the feathers or even think about them anymore
 
 Captain Spears and his crew had found her.
 
-#
+# 21
 
 Haphazardly, Captain Z shoved the feathers into one of the many pockets on her vest, out of habit. 
 
@@ -535,7 +534,7 @@ Captain Spears pushed past them. "Ya good-for-nothings," he muttered.
 
 He himself pushed his head and shoulders through the hole to look out on to the other side. 
 
-#
+# 22
 
 There was Sophia Zephyr, stuck on the edge of the ledge, just out of reach. She was trying to find a way down the cliff side, but without any luck. 
 
@@ -561,7 +560,7 @@ Captain Z grabbed for the feather, snatching it out of Hissy's mouth. But as she
 
 She didn't even have time to scream before fell backwards, down to the rocks and the sea below.
 
-#
+# 23
 
 The captain's eyes were shut tight while she braced for the crash. She expected the end to be terrible. 
 
@@ -587,7 +586,7 @@ Captain Z picked her way among the rocks, making her way as fast as she could ba
 
 Those pirates up in the cave will no doubt be angry when they find the leather bag empty. If they thought her gone, then all the better for her. They wouldn't be chasing her now to reclaim the treasure. They would be looking for it between the rocks where she fell, which is to say the wrong place.
 
-#
+# 24
 
 Up in the little cave on the side of the cliff, the pirates were still fighting over who would open the satchel they expected to have the treasure inside it. 
 
@@ -652,7 +651,7 @@ They would search the rocks below the cliffs as well they could for the treasure
 
 Meanwhile Captain Z was on her way off the empty bit of land known as Castle Island. 
 
-#
+# 25
 
 Captain Z had been rowing for the last hour and was getting close to a tiny cove behind a jagged little mountain, on the south end of the island. The place she had hidden her boat, Wind Drinker.
 
@@ -684,7 +683,7 @@ She wanted a second set of eyes to read these words, to see if more information 
 
 Captain Z set course for the Port of Goodnews, the biggest town in the West Waters, and the home of her good friend, Dr. Nora Star. 
 
-#
+# 26
 
 Wind Drinker was docked in Port Goodnews that night. The harbor master was paid extra to keep his mouth shut about who was docked there that night, but Captain Z knew it hardly mattered. If someone wanted to find out she was there, it would happen. Getting out of town fast was a good idea anyways. Goodnews wasn't the kind of town she liked to stay in long. 
 
@@ -704,7 +703,7 @@ It was well past closing time, but Captain Z knocked just the same. After a few 
 
 The two walked into the boarding school and closed the door behind them. 
 
-#
+# 27
 
 Sophia Zephyr still knew her way around all the odd twists and turns to get to the main room. Although it had been a year since she last visited, Sophia had grown up inside this school. 
 
@@ -728,7 +727,7 @@ The night was still early for Dr. Star and Captain Z.
 
 "I'm all ears," Dr. Star responded.
 
-#
+# 28
 
 Captain Z reread the feather poem to Dr. Star.
 
@@ -785,7 +784,7 @@ Dr. Star thought for a bit. "That's what the word steed usually means," she said
 
 "Who does?" Captain Z asked without expecting an answer. _If that were true,_ she thought, _my steed would be Wind Drinker._ Now that was exciting. A flying ship would be a whole lot more useful then a flying horse, at least to a pirate. 
 
-#
+# 29
 
 It was now very late in the evening. Both women were very tired. It had been a long day.
 
@@ -813,7 +812,7 @@ She was pretty good with words, when she wanted to be. Maybe she had enough smar
 
 The night ended with a hug. Captain Z found a cozy couch and a warm blanket and was soon deep asleep. Snoring, and dreaming of treasure.
 
-#
+# 30
 
 The next morning, bright and early, Sophia was woken up by the banging of pots and pans in the kitchen. When she staggered in to see what was making all the commotion, she found Lucy. Lucy had decided she wanted to make everyone breakfast, and was trying her best to figure out how.
 
@@ -867,7 +866,7 @@ Walter grunted. He didn't think she was right about that, but there was nothing 
 
 Walter and Captain Z talked for a bit longer, retelling stories from their childhood. Then it was time for Walter to get back to his metalwork. They hugged again and said their goodbyes. Captain Z promised to come back for a longer chat in a few days. Then she and the children went out the door.
 
-#
+# 31
 
 They walked back out on to the street and down towards the market.
 
@@ -891,7 +890,7 @@ Lucy reached into one of the barrels and pulled out the biggest apple she had ev
 
 Captain Z saw Lucy holding the apple and smiled. But her smile faded as two big guards came up behind Lucy with anger in their eyes. 
 
-#
+# 32
 
 One of the guards grabbed Lucy's wrist. The apple was thrown down and bounced on the ground, rolling under the stand. 
 
@@ -929,7 +928,7 @@ He tossed the apple to Captain Z who caught it with one hand.
 
 "Ya, pirate," he finished. 
 
-#
+# 33
 
 Hearing that word made all other people around them in the market stop and stare at the captain. Pirates were forbidden to enter Port Goodnews. Any pirate caught in town could be locked up for a very long time.
 
@@ -965,7 +964,7 @@ She hurried over to the ladder with the children following close behind. Captain
 
 She heard shouts from the alley. The guards had seen them. Quickly, she jumped up and grabbed the ladder. She pulled herself up and followed the children on to the roof. 
 
-#
+# 34
 
 The wind was strong up there above the buildings. It whipped around the children's hair as they waited for their captain to reach them. The first guard was already on the ladder by the time Captain Z made it all the way up.
 
@@ -1001,7 +1000,7 @@ Hurriedly, Captain Z shoved a feather into each of the children's hands, keeping
 
 The children looked on in confusion as Captain Z paced a few steps back. Then, taking a deep breath, she ran full steam toward the side of the roof, jumping right as she reached the edge.
 
-#
+# 35
 
 "No!" Lucy cried as Captain Z leaped. 
 
@@ -1017,7 +1016,7 @@ She looked back, just as surprised as the rest of them, then motioned for the ch
 
 It was one thing to watch someone else make an impossible jump, and quite another thing to try the jump themselves.
 
-#
+# 36
 
 Captain Z woke up in a sweat, breathing heavy from a terrible nightmare. 
 
@@ -1141,7 +1140,7 @@ VLXPLMTQ LTE XMSLPUQ
 CAPTAINS AND PIRATES
 ```
 
-#
+# 37
 
 Captain Z stared at the decoded message, trying to grasp its full meaning. 
 
@@ -1173,7 +1172,7 @@ She couldn't tell if Muddle was still on the ship or not.
 
 Captain Z started running as fast as she could back down the hill. She had to warn Dr. Star. And after that, she had to escape from Port Goodnews before the pirates started attacking. She loved a good fight, but was in no mood for a battle that she couldn't win. A pirate army against a sleeping town didn't sound like a fun time to her.
 
-#
+# 38
 
 She made it back down to the school and busted through the door. Captain Z ran through the hallway, pounding on the children's door to get them moving, before knocking on the door to Dr. Star's room.
 
@@ -1215,7 +1214,7 @@ _Lucy might need a bit of help from Nova,_ Captain Z thought. _But they'll be re
 
 Captain Z glared at the doctor for a few seconds before storming off into her room to get ready. She knew she couldn't refuse such a request from Dr. Star, but that didn't make it any easier.
 
-#
+# 39
 
 Less then five minutes later, Captain Z and the three children were out of the house and down the block at the end of the alley.
 
@@ -1249,7 +1248,7 @@ She motioned for the children to join her on the boat. They ran up the pier and 
 
 The captain pushed hard to get the boat away from the dock and then jumped aboard herself. She was loosing the main sail as the pirates neared. 
 
-#
+# 40
 
 They were lucky to have a small boat. And lucky Captain Z had the riggings on cranks and pulleys. 
 
@@ -1285,7 +1284,7 @@ The pirates sprang into action. Captains on all the ships started barking orders
 
 The sleeping townspeople didn't know it, but the war had begun.
 
-#
+# 41
 
 As Captain Zephyr was sneaking towards her boat, Captain Spears was already on his. Waiting for the signal like all the other pirates in that bay who had made a pact with the leader behind this sinister plan.
 
@@ -1315,7 +1314,7 @@ He spoke in a whisper to his crew to explain the plan. Then he gave the order an
 
 If Captain Zephyr wanted out, she would have to get through Spears and his crew.
 
-#
+# 42
 
 Almost all of the attackers were focused on the town and didn't even notice Wind Drinker sprinting out of the port. But one of the two ships Captain Z had passed before the signal was given had started to give chase. They had pulled their sails about to turn around to follow Captain Z and her crew of children.
 
@@ -1345,7 +1344,7 @@ Captain Z pulled Wind Drinker around to point directly at the entrance to the ba
 
 That's when she saw the Sea Breaker slowly maneuvering through the waters towards the entrance. Captain Z's hear was gripped with fear. Spears was going to cut them off before they made it out!
 
-#
+# 43
 
 Captain Z panicked. The Sea Breaker was big enough to block much of their way out. Wind Drinker could probably dodge around the big ship, but then they would be in open water. Out there, with no other ships around, Captain Spears would be free to blast away with his cannons. Captain Z knew her ship couldn't stand up to that kind of fire power. They would be helpless if Spears attacked. The game would be up.
 
@@ -1377,7 +1376,7 @@ Captain Z was confused until she saw that Lucy was pointing up. Captain Z looked
 
 Filled out and full of air, the sails did look a bit like wings. Just like the Pegasus of legend, perhaps the feathers would only work on the wings of the steed.
 
-#
+# 44
 
 It was their last chance to try. Wind Drinker was almost alongside the Sea Breaker as it neared the entrance. As soon as they were in firing range, Captain Spears would open fire on Sophia and the children. 
 
@@ -1405,7 +1404,7 @@ With no water to slow it down, the ship flew as fast as the wind. Captain Spears
 
 Magically, the ship started to turn as well! The movement was faster than what you would expect in the water, but that was no problem for Captain Z. She would learn to fly this ship as good as she could sail it. 
 
-#
+# 45
 
 The cheering stopped as the children turned to look back to see a glimpse of the destruction of the Port of Goodnews. It was far off in the distance now, but they could still make out smoke and fire coming from the buildings near the bay. The pirates were taking the city for themselves. 
 
@@ -1447,7 +1446,7 @@ No, someone far more mean and greedy was behind this war. Controlling the pirate
 
 _Whoever it is, we'll make them pay,_ she decided. 
 
-#
+# 46
 
 So our hero, no longer a pirate, but part of a crew of adventurers sailed through the blue skies of the Western Waters, headed east as fast as they could fly. 
 

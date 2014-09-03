@@ -1,8 +1,6 @@
 
 #
 
-![](img/head.png)
-
 Our story begins, as most pirate stories do, in the dark. 
 
 The low glow of a lamp, running out of oil, was nearly the only light about. The stars and moon up above helped a bit, but its always darkest, as they say, just before the dawn. And this night was particularly dark.
@@ -55,8 +53,6 @@ As the sky darkened into night, Captain Z rowed right up to the side of the big 
 She tiptoed across the deck, toward the door leading below deck. Carefully, she skipped over squeaky looking planks and tangles of rope that might trip her up. 
 
 The door gave a little squeak as she opened it, but not one of those scoundrel pirates stirred as Sophia slipped below deck. 
-
-![](img/rowing.png)
 
 #
 
@@ -916,21 +912,105 @@ Captain Z interrupted before the guards could respond.
 
 "In any case, it's not stealing if you get paid. Here's the two coppers for that apple, and one more for your troubles." She plunked three coins down on the table and turned around. She grabbed Lucy's hand and started to walk back to the other children who were standing in the road looking very afraid.
 
-"Say now!" Called out one of the guards. "You've forgotten your apple."
+"Say now!" Called out one of the guards. "Don't you want your apple?"
 
-Captain Z turned around, the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily.
+Captain Z turned around. One of the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily.
 
-"Though I suppose one little apple doesn't mean much, with all that stolen gold you must have hidden away, pirate!" The guard had shouted that last word. People around them stopped talking and looked up from the stands. Pirates were feared by the townspeople. Anyone labelled a pirate could be thrown into prison, whether the person really was one or not.
+The other picked up a mushy looking apple off the ground and gave it a look. 
 
-Captain Z knew that 
+"Though that money bag of yours looks full of coppers and silvers. Maybe even a bit of gold," he said. "One little apple must not mean much to you."
 
-* lucy picks up an apple
-* guards say she was trying to steal it
-* captain z pays for it
-* guards try to capture them
-* captain z and children run
-* go to rooftops - deadend
-* fly off
+He tossed the apple to Captain Z who caught it with one hand.
+
+"Ya, pirate," he finished. 
+
+#
+
+Hearing that word made all other people around them in the market stop and stare at the captain. Pirates were forbidden to enter Port Goodnews. Any pirate caught in town could be locked up for a very long time.
+
+Even if you weren't really a pirate, just being called one could get you into a lot of trouble. Captain Z had learned these lessons the hard way.
+
+_He would have branded me a pirate no matter what I did,_ Captain Z realized. _They're just unlucky that it happens to be true._
+
+The guards inched closer.
+
+Captain Z felt the apple in her hand. She threw it underhanded from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head. 
+
+Captain Z took off.
+
+Grabbing Lucy's hand again, she started running away from the fruit stand.
+
+"Let's go!" She ordered the other two children. Nova and Orion followed, running as fast as they could.
+
+People in the crowd watching the ordeal jumped back as the guards pulled out their swords and started following. The first guard was still rubbing the spot where the apple hit him.
+
+The apple had slowed the guards a bit, but not by much. Captain Z tried to loose them in the crowds by running zip-zag through the stalls and people. Still the guards followed. They were closing in. 
+
+Captain Z lead the children out of the market and into a little alleyway between the nearby stores. They ducked under low hanging wires crowded with drying clothes. They sped left, then right, down through a maze of alleys and side streets, hoping to loose the guards.
+
+She hoped to find a way back out to the main street where they could try to get lost in the crowds. Instead, she found a dead end. 
+
+The shops buildings all crowded around the little road. There was no way to squeeze through. She tried a few back doors to find them locked. The guards were coming. She could here their grunts and calls getting closer and closer. They would be caught if they tried to go back down the alley. They would be caught anyways in a few seconds if they stayed in the dead end. 
+
+Sophia looked up for a way out. There, halfway up the last building at the end of the alley was a little metal ladder that led to the rooftop. 
+
+_Maybe we will be able to loose them up there,_ she thought. It was at least a chance. 
+
+She hurried over to the ladder with the children following close behind. Captain Z lifted Lucy to the first rung and watched her start to climb. Then she helped Nova and Orion up.
+
+She heard shouts from the alley. The guards had seen them. Quickly, she jumped up and grabbed the ladder. She pulled herself up and followed the children on to the roof. 
+
+#
+
+The wind was strong up there above the buildings. It whipped around the children's hair as they waited for their captain to reach them. The first guard was already on the ladder by the time Captain Z made it all the way up.
+
+The group jogged down the length of the building, looking for a way down or a place to hide. The rooftop of the building next door to the one they were on was close enough to reach. Orion and Nova stepped across the gap between the two buildings. They grabbed Lucy's hands to help her across. 
+
+Captain Z jumped the gap and kept running. 
+
+They made it to the end of the roof and looked around. The next building was fifteen feet away, too far for any of them to jump and make it. They looked down to the alley below. The fall would hurt. 
+
+Captain Z peered down along the sides of the building, hoping to find another ladder they could use to climb down. There weren't any on this building, from what she could see. 
+
+There was nothing to hide behind, only a few stubby chimneys sticking up. It was another dead end.
+
+The captain was about to lead them back to the other side of the building, when they heard a harsh, nasty laugh. 
+
+The first guard was standing at the edge between the two roofs, watching them. After a few seconds, his partner caught up. 
+
+"End of the line," the guard sneered.
+
+He twirled a length of rope as he crossed over to the roof Captain Z and the children were now trapped on, still smiling a mean looking smile.
+
+Frantically, Captain Z patted her pockets to find something she could use to defend herself with. 
+
+All she pulled out were the four feathers. 
+
+_Well, here is my chance to see if they really work,_ she thought. 
+
+The guard slowly stepped towards them, making sure there was no room to run around him and escape.
+
+Hurriedly, Captain Z shoved a feather into each of the children's hands, keeping one for herself. 
+
+"If I make it over, then follow me. It's our only chance," she whispered. 
+
+The children looked on in confusion as Captain Z paced a few steps back. Then, taking a deep breath, she ran full steam toward the side of the roof, jumping right as she reached the edge.
+
+#
+
+"No!" Lucy cried as Captain Z leaped. 
+
+The guards were frozen as they watched. Everyone expected her to disappear over the side of the building. 
+
+But that is not what happened. 
+
+They all watched in awe as the captain floated gracefully through the air like a cloud in the breeze. 
+
+She landed gently on the next rooftop, grabbing a stovepipe to slow her down. 
+
+She looked back, just as surprised as the rest of them, then motioned for the children to follow. They looked even more confused and frightened.
+
+It was one thing to watch someone else make an impossible jump, and quite another thing to try the jump themselves.
 
 #
 
@@ -948,7 +1028,7 @@ _No time like the present,_ she thought. The bad dream made her want to stay awa
 
 She found some paper and a quill and ink to help her with the code. First she wrote out the code on her own paper, leaving plenty of room below each line.
 
-```CODER
+```
 PAU JLS OUIMTQ
 
 ZSMELC LP ELJT
@@ -964,7 +1044,7 @@ VLXPLMTQ LTE XMSLPUQ
 
 _Those one-letter words are probably either the word "A" or the word "I",_ she thought. Needing to make some sort of guess to get things started, she guessed "A". She filled in the guess under the letters
 
-```CODER
+```
 PAU JLS OUIMTQ
      A
 
@@ -986,7 +1066,7 @@ VLXPLMTQ LTE XMSLPUQ
 
 _That's a lot of a's in this message,_ she thought. Still it was good to have a start, even if it turned out wrong. And this start lead to another guess. _What's a two-letter word that starts with "A"?_ Captain Z pondered. _Well, how about "AT"?_ It seemed logical, so she wrote in all the T's
 
-```CODER
+```
 PAU JLS OUIMTQ
 T    A
 
@@ -1010,7 +1090,7 @@ It was a start, but it didn't help much. _Well, on to the three letter words,_ s
 
 The only three letter A words Sophia could think of was 'and', and 'ant'. _Let's try the first one,_ she thought, and filled in the rest of the word. The word 'the' fits nicely into a three letter word starting with 'T'. She filled that in too.
 
-```CODER
+```
 PAU JLS OUIMTQ
 THE  A   E  N
 
@@ -1036,7 +1116,7 @@ She stared at the words, frustrated she hadn't cracked the code yet. The last wo
 
 She filled in the letters from these words and slowly worked out the rest of the message. The words "PORT GOODNEWS" came next. With a bit of guesswork and a bit of luck she filled in the rest of the gaps. What she saw when the code was all cracked gave her butterflies in her stomach.
 
-```CODER
+```
 PAU JLS OUIMTQ
 THE WAR BEGINS
 
