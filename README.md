@@ -1,6 +1,20 @@
 # Captain Z and the Treasure of Castle Island
 
-An example of using pandoc and markdown to create pdf's ready to publish on Amazon's CreateSpace
+An example of using pandoc and markdown to create pdf's ready to publish on Amazon's CreateSpace.
+
+This framework is currently built around the creation of a pdf that will stay within the required margins presented by CreateSpace here:
+
+https://www.createspace.com/Products/Book/InteriorPDF.jsp
+
+Another way to say this is that I haven't experimented with 'full bleed' books using this latex based approach (Zia in the Woods was a full bleed book - but it was built in InDesign, and took a lot of manual work).
+
+Practically, the main issue this poses is that if you have images in your book - those images cannot extend to the edges of the page. Instead, the images need to live within the minimum margins presented on the CreateSpace page. 
+
+I don't think this a huge deal with the Captain Z book - as I was expecting to make 1/2 to 1/3 page sized B/W images (see below on image size). If this is a deal breaker, then you will want to experiment with another tool or another technology.
+
+I did see a conversation about how you could copy in an entire pdf page into your latex document. So theoretically, you could create a pdf with the same width and height as one of your book pages - then you could put a full page image in that pdf that extended out of your documents margins.
+
+I haven't figure a way to do that automatically, so I expect it would be a manual process that occurs after the latex file is created.
 
 ## Requirements
 
@@ -34,6 +48,10 @@ Posts are expected to be named in the traditional Jekyll style: year-month-day-t
 
 You could try another format supported by Pandoc and Jekyll that isn't Markdown - but I wouldn't recommend it.
 
+### Note on Chapter Titles
+
+Captain Z has no chapter titles. Instead, I used a single '#' to denote a header - and the latex template is setup to automatically number the headers. So, I just get a big number for a chapter title in the final pdf (which is what I wanted cause of how many chapters there are). 
+
 ## Running
 
 To create the pdf, simple call:
@@ -56,8 +74,14 @@ Here you can customize to your heart's content. The size of the book and the mar
 
 I'm using Adobe Garamond Pro - which you may or may not have installed. If not, try changing lines 17 and 18 to just Garamond... Or try a different cooler font!
 
+
 ## Images
 
 Right now, to get images to work in the website and the book, there are a few scripts that run. Just put your images in the img/ directory - and they should get copied over.
 
+### Image Size
+
+It seems best to think of the size of your images in terms of inches - rather then pixels - as that is what the final format will be in...
+
+For this size book, I liked the look of half-page: 3.5" x 3.5" images - and a somewhat smaller format: 3.5"w x 2.5"h . I haven't seen these in print yet - but in the pdf they look good...
 
