@@ -913,9 +913,7 @@ The guard was looking right at the fruit seller for a reply. The seller was an o
 
 "The thief is the one in trouble here not you," the first guard said with a mean looking smile. "She was trying to take that apple from you, right?"
 
-The old man's eyes flicked back and forth even faster. His breaths were short and close together.
-
-"Well, well, well... I wasn't paying much attention," he said finally. "I'll trust your word officers."
+The old man's eyes flicked back and forth even faster. His breaths were short and close together. "Well, well, well... I wasn't paying much attention," he said finally. "I'll trust your word officers."
 
 Captain Z interrupted before the guards could respond.
 
@@ -923,9 +921,7 @@ Captain Z interrupted before the guards could respond.
 
 "Say now!" Called out one of the guards. "Don't you want your apple?"
 
-Captain Z turned around. One of the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily.
-
-The other picked up a mushy looking apple off the ground and gave it a look.
+Captain Z turned around. One of the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily. The other picked up a mushy looking apple off the ground and gave it a look.
 
 "Though that money bag of yours looks full of coppers and silvers. Maybe even a bit of gold," he said. "One little apple must not mean much to you."
 
