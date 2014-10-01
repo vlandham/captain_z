@@ -441,17 +441,17 @@ They reached the three jagged rocks, and Spears knew they were close. He had loo
 
 The rest of the scoundrel pirates followed their captain down to these rocks. They were amazed when he showed them the secret path behind them.
 
-"This way, ya mutts," he growled. "She'll be leading us to the treasure, by and by."
+"This way, ya mutts," he growled as he smiled. "She'll be leading us to the treasure, by and by."
 
 #
 
-At the top of the cliffs, Captain Z opened the map one last time. According to the map, there should be a hole up here. A hole that lead down into a little cave. And on the map, in that cave, the X was placed. The spot where the treasure was at. But this hole that lead to the cave was covered and hidden. Captain Z looked at the map to find out what landmark she should be looking for to uncover the hole.
+At the top of the cliffs, Captain Z opened the map again. According to the map, there should be a hole among the rocks. A hole that lead down into a little cave. And in that cave, the X was marked, the spot where the treasure lay. But the hole leading to the cave was covered and hidden.
 
 The map showed a scrawny, spindly pine tree, next to a wide rock. Under that rock was the hole. She hoped that the tree was still alive and hadn't been knocked down by a storm. The winds could blow a gale out here in the ocean.
 
 Captain Z scouted around along the top of the cliffs, being careful with her feet along the edge. Looking down, it was a long drop to the ocean below. One wrong step and… well she rather not ponder the result.
 
-Finally, after almost an hour atop the cliffs looking for the tree and the rock, she found them. The tree was down at the bottom of a little hill, right at the edge of the cliffs. It looked just a scrawny and spindly as it was drawn on the map.
+Finally, after almost an hour atop the cliffs looking for the tree and the rock, she found them. The tree was down at the bottom of a little hill, right at the edge of the cliffs. It looked just as scrawny and spindly as it was drawn on the map.
 
 The wide rock next to it was covered with dirt, a bit of grass, and pine needles. She ran down to it and knelt to brush it off. Finding the edge of the rock, she bent down, put her fingers under it, and pulled with all her might.
 
@@ -461,15 +461,15 @@ Undeterred, Captain Z carefully swept off every bit of dirt and debris on top of
 
 Nothing happened. The rock still didn't budge.
 
-Now frustrated, Captain Z found another rock. One that was heavy, but she could still lift. She dragged this rock over, got down on her knees, and smashed it down on the flat stone that wouldn't budge.
+Now frustrated, Captain Z found another rock. One that was heavy, but that she could lift. She dragged this rock over, got down on her knees, and smashed it down on the flat stone that wouldn't budge.
 
 The stone covering the hole shattered, breaking into a dozen pieces. There was the hole underneath, dark, but big enough for a pirate to squeeze through. Captain Z pried out the smaller pieces of the rock, until the opening was cleared. Then, holding her breath, she jumped in.
 
 #
 
-The hole lead to a narrow passageway that ran along the edge of the cliffs. The rock had been carved away to make this tunnel that was just big enough to walk through with your back bent low. Dirt and sand covered the floor. Captain Z could see a light coming from the doorway at its far end.
+The hole lead to a narrow passageway that ran along the edge of the cliffs. The rock had been carved away to make a tunnel just big enough to walk through with your back bent low. Dirt and sand covered the floor. Captain Z could see a light coming from the doorway at the far end.
 
-At the same time, she thought she heard a voice above her. Someone shouting. Captain Spears was close. Somehow he and his crew had found the path up the cliffs. But the voice was faint, its owner still a ways away. Captain Z kept going. Crouching, she walked to the end of the passage, and the little cave it opened in to.
+At the same time, she thought she heard a voice above her. Someone shouting. Captain Spears was close. Somehow he and his crew had found the path up the cliffs. But the voice was faint, its owner still far away. Captain Z kept going. Crouching, she walked to the end of the passage, and the little cave it opened in to.
 
 The cave was bright. A hole along the side of the far wall acted like a window. The window opened up to the cliff side, and the sun and sounds of the waves below and the gulls above were coming in.
 
@@ -519,11 +519,11 @@ Captain Spears and his crew had found her.
 
 #
 
-Haphazardly, Captain Z shoved the feathers into one of the many pockets on her vest, out of habit.
+Haphazardly and out of habit, Captain Z shoved the feathers into one of the many pockets on her vest.
 
 It turns out that this thoughtless action was in fact a very good thought indeed, as we shall find out.
 
-The pirates came into the cave. Smiling cruelly smiles and waving their cutlasses about. With the leather bag in her hands, Captain Z backed up further and further till she was right in front of the little opening in the cave wall that looked out to the sea.
+The pirates came into the cave. Smiling cruel smiles and waving their cutlasses about. With the leather bag in her hands, Captain Z backed up further and further till she was right in front of the little opening in the cave wall that looked out to the sea.
 
 If she stayed in the cave, the treasure would be lost, and maybe worse. She decided to try her luck out of the cave. Perhaps there was a way down.
 
@@ -531,13 +531,13 @@ She turned to the little window and before any of the other pirates could grab h
 
 Captain Z looked down to see the ocean crashing into the rocks below. Those rocks looked big and sharp, even from up there. One slip, and she was a goner. Perhaps this wasn't such a good idea, she thought to herself.
 
-She tried to shimmy away from the window to the cave, but didn't get far. The ledge stopped short a little ways past the hole. There didn't seem like there was anything other place to put her feet. She was stuck.
+She tried to shimmy away from the window to the cave, but didn't get far. The ledge stopped short a little ways past the hole. There didn't seem like there was any other place to put her feet. She was stuck.
 
 Captain Spears and Hissy ducked into the cave last after his crew. He saw Captain Zephyr's legs as she went through the hole.
 
 His eyes went from cool confidence to wild panic, all in one second.
 
-"She's escaping you fools! Grab her!" He shouted. The pirates closest to the hole looked out, but didn't move. They weren't eager about following Captain Z out the window. Instead, they just stood where they were looking back and forth between the frightful Captain Spears and the terrifying cliff wall.
+"She's escaping you fools! Grab her!" He shouted. The pirates closest to the hole looked out, but didn't move. They weren't eager about following Captain Z out the window. Instead, they just stood where they were, looking back and forth between the frightful Captain Spears and the terrifying cliff wall.
 
 Captain Spears pushed past them. "Ya good-for-nothings," he muttered.
 
@@ -545,7 +545,7 @@ He himself pushed his head and shoulders through the hole to look out on to the 
 
 #
 
-There was Sophia Zephyr, stuck on the edge of the ledge, just out of reach. She was trying to find a way down the cliff side, but without any luck.
+There was Sophia Zephyr, stuck on the edge of the ledge, just out of reach. She was trying to find a way down the cliff side, without any luck.
 
 Captain Spears considered going out on the ledge himself to get the treasure bag. Then he looked down at the rocks below and thought better of the idea. Maybe he could talk her back inside.
 
@@ -597,13 +597,13 @@ Those pirates up in the cave will no doubt be angry when they find the leather b
 
 #
 
-Up in the little cave on the side of the cliff, the pirates were still fighting over who would open the satchel they expected to have the treasure inside it.
+Up in the little cave on the side of the cliff, the pirates were still fighting over who would open the satchel of treasure.
 
-In fact it was such a fight that no one but Hissy and Barnacle Bill had noticed Captain Z's fall.
+In fact, it was such a fight that no one but Hissy and Barnacle Bill had noticed Captain Z's fall.
 
-Bill had stayed out of the fight over the bag, as he didn't want to get hurt in the scuffle. He was on the other side of the cave, near the doorway when he saw Hissy try for the feather and watched in horror as Captain Z slipped and disappeared  from view. In fact it was such a terrible sight that he just stood there with his mouth open wide and his eyes opened wider as the others continued to fight.
+Bill had stayed out of the fight over the bag, as he didn't want to get hurt in the scuffle. He was on the other side of the cave, near the doorway when he saw Hissy try for the feather and watched in horror as Captain Z slipped and disappeared  from view. In fact it was such a terrible sight that he just stood there with his mouth open wide and his eyes opened wider, as the others continued to fight.
 
-Golden George had grabbed the bag away from Smelly Ned, who had pushed poor old Jon Thumb down to get at it. But now they were all wrestling on the floor again.
+Golden George had grabbed the bag away from Smelly Ned, who had pushed poor old Jon Thumb down to get it. But now they were all wrestling on the floor again.
 
 "Enough ya sea rats," their captain bellowed. "Hand me the booty."
 
@@ -619,13 +619,13 @@ That was the end of the fight. Golden George reluctantly held out the bag for Ca
 
 _it does,_ thought Captain Spears. The thought that they had been bamboozled crept into the back of his mind. Quickly, he opened the bag and looked in with his good eye.
 
-He stood there peering into the bag for half a minute. He didn't believe what he saw.
+He stood there peering into the bag for a full minute. He didn't believe what he saw.
 
 "Well, captain," Sally Snake Eye finally spoke up. "What's in the bag?"
 
 Captain Spears turned the bag upside down. Only a bit of dust fell out and floated to the ground.
 
-All eyes turned to the little hole that Captain Z had gone through. Now it dawned on them that she had never come back through it.
+All eyes turned to the little hole that Captain Z had gone through. Now it dawned on them that she hadn't come back through it.
 
 Spears ran to the hole and stuck his head through. He looked back and forth along the cliffs and saw nothing but stone.
 
@@ -633,7 +633,7 @@ He pulled his head back in and looked around at his crew.
 
 "Where did she off to?" he said in a low voice. Not really a question to the crew, but this was the cue for Barnacle Bill to finally speak up.
 
-"H H H Hissy!" He stammered.
+"H- H- H- Hissy!" He stammered.
 
 "Hissy what?" Spears said, glancing at the cat. She was near the window cleaning her paws, as if nothing at all had happened.
 
@@ -661,13 +661,13 @@ Meanwhile Captain Z was on her way off the empty bit of land known as Castle Isl
 
 #
 
-Captain Z had been rowing for the last hour and was getting close to a tiny cove behind a jagged little mountain, on the south end of the island. The place she had hidden her boat, Wind Drinker.
+Captain Z had been rowing for an hour and was getting close to a tiny cove behind a jagged little mountain, on the south end of the island. This was the place she had hidden her boat, Wind Drinker.
 
 Captain Spears and his crew hadn't seen the spot, as they came down from the North and stayed anchored in plain sight. They weren't looking for a place to hide, as they didn't expect to find anyone here.
 
-Captain Z knew different. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant of a vessel, the Sea Breaker, probably wouldn't have fit anyways.
+Captain Z knew different. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant of a vessel, the Sea Breaker, probably wouldn't have fit anyway.
 
-Wind Drinker was different. Captain Z was actually the entire captain and crew of the whole ship. It was tricky, but with her riggings, and because of its size, the boat could managed by a one person crew if need be. And that is how Captain Z had made it all the way to Castle Island by herself. Besides, most of the extra space was taken up by this rowboat.
+Wind Drinker was different. Captain Z was the entire captain and crew of the whole ship. It was tricky, but with her riggings, and because of its size, the boat could be managed by a one person crew if need be. And that is how Captain Z had made it all the way to Castle Island by herself.
 
 Captain Z rowed around the bend at the southern tail of the island and was in the cove. The shade from the mountain felt good after all that rowing in the sun. Muddle cawed from above and landed on the ship's front mast.
 
@@ -675,19 +675,19 @@ There was a rope ladder and a hook waiting for her at the back of Wind Drinker. 
 
 On board, she started turning a crank that hoisted the rowboat up out of the water and on to the back of the larger boat. It was a tight spot, but she knew it would all fit as it had in the past.
 
-Next she prepared to launch.
+Next, she prepared to launch.
 
-Cranks clanked and spinners spun as all the sails of Wind Drinker were raised by one cunning pirate. The anchor was pulled and then before you could say "Jolly Rodger", the ship had set sail.
+Cranks clanked and spinners spun as all the sails of Wind Drinker were raised by one cunning pirate. The anchor was pulled and then before you could say "Jolly Roger", the ship had set sail.
 
-Captain Z was still confused and a bit sour about the treasure. Feathers weren't on the top of her list of valuable booty. She wanted gold, she wanted jewels. She wanted a diamond the size of your fist!
+Captain Z was still confused, and a bit sour, about the treasure. Feathers weren't on the top of her list of valuable booty. She wanted gold. She wanted jewels. She wanted a diamond the size of her fist!
 
-Still, floating down that cliff and making it to the bottom without a scratch must be worth something. She pulled out the poem and read it again, trying to figure out what it meant.
+Still, floating down that cliff and making it to the bottom without a scratch, must be worth something. She pulled out the poem and read it again, trying to figure out what it meant.
 
 She had heard the name Pegasus, but didn't quite remember from where. How or why these feathers made anyone a hero was a mystery.
 
-Also in her hands was the jumbled letter from Captain Spears's chest. This thing was valuable to Spears, perhaps it was worth something to her.
+Also, in her hands was the jumbled letter from Captain Spears's chest. This thing was valuable to Spears, perhaps it was worth something to her.
 
-She wanted a second set of eyes to read these words, to see if more information could be squeezed out of them. And she knew just the person that was the best at squeezing out information.
+She wanted a second set of eyes to read these words, to see if more information could be squeezed out of them. And she knew just the person who was best at squeezing out information.
 
 Captain Z set course for the Port of Goodnews, the biggest town in the West Waters, and the home of her good friend, Dr. Nora Star.
 
@@ -1186,7 +1186,7 @@ The sky was starting to light up just a bit when she found the path to the viewi
 
 What she saw took her breath away.
 
-There wasn't just one ship out in the water, so early in the morning. There was an entire fleet of ships, and they were all flying the black flag of the Jolly Rodger. Pirates had come into the port.
+There wasn't just one ship out in the water, so early in the morning. There was an entire fleet of ships, and they were all flying the black flag of the Jolly Roger. Pirates had come into the port.
 
 Most were floating out in the open waters, in a loose formation. A few were docking near the center of town. From where she stood, high up on the hill, Captain Z could barely make out pirate crews coming off these docked ships. They were coming into the city, and looked to be carrying swords, knives, and guns with them.
 
