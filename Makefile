@@ -34,7 +34,7 @@ pdf: combine
 
 epub: add_titles
 	# --epub-stylesheet=stylesheet.css --toc --toc-depth=1
-	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/title.png  --epub-metadata=metadata.xml  $(BOOK_FILE_NAME).ebook.md -o $(BOOK_FILE_NAME).epub
+	cd $(TEMP_DIR) && $(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) img/epub_title.png  --epub-metadata=metadata.xml  $(BOOK_FILE_NAME).ebook.md -o $(BOOK_FILE_NAME).epub
 
 mobi: epub
 	cd $(TEMP_DIR) && $(MOBI_BUILDER) $(BOOK_FILE_NAME).epub
