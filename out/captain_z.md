@@ -337,63 +337,65 @@ Truth be known, she didn't really know what was waiting at the end of that path 
 
 Three years ago, almost to the day, Captain Z had first heard the tale of the mysterious island and its wondrous hidden treasure.
 
-The storyteller had been another pirate, the friendly Sammy Two Toes. Sammy had told the story of the treasure so well that Captain Z knew she would have to find it someday.
+The storyteller had been another pirate, the friendly Sammy Two Toes. Sammy had told such a tale that Captain Z knew she would have to find the treasure someday.
 
-Of course, at that time, Captain Z was no captain, as she had no boat of her own with which to search. She was just one of the crew of the Wind Breaker, charged with swabbing decks and polishing brass. But that didn't stop Sophia Zephyr from plotting and dreaming. All things change with the times and the tides, as they say.
+At that time, Captain Z was no captain at all, as she had no boat of her own. She was just one of the crew of the Wind Breaker, charged with swabbing the deck and polishing brass. But that didn't stop Sophia Zephyr from dreaming and plotting. All things change with the times and the tides, as they say.
 
-And by the time Sophia Zephyr became Captain Z and took control of Wind Drinker, with is a tale for another time, she had heard the story of Castle Island a hundred times or more. And each time, it ended with a different surprise. A different name to the treasure to be found.
+By and by, Sophia Zephyr became Captain Z and took control of Wind Drinker. But this is a tale for another time. By then, she had heard the story of Castle Island a hundred times or more. And each time, it ended with a different surprise. A different guess at the treasure to be found.
 
-Some, like Sammy Two Toes, said it to be a huge diamond. As large as your fist, and as heavy as your head. Sammy had said it shone like a star in the sun.
+Some, like Sammy Two Toes, said it to be a huge diamond. As large as your fist, and as heavy as your head. Sammy had said it shone brighter then the sun.
 
-But other folks had different ideas about what was hidden there. Some said gold or jewels. Others said magical bells, wands, or books. One old man even thought there to be a room full of the tastiest meats and pies ever to be found. Never mind how such a room could be kept stocked with such treats, or why this food would be on an island with no one on it.
+But other folks had different ideas about what was hidden there. Some said gold or jewels. Others said magical bells, wands, or books. One old man even thought there to be a room full of the tastiest meats and pies ever to be found. Never mind how such a room could be kept stocked with such treats, or why this food would be on an island with no one to eat it.
 
-Captain Z didn't know which of the stories to believe, but she knew Castle Island held something worth searching for. And that's why she kept searching for a way to find the island and a way to find the treasure hidden here.
+Captain Z didn't know which of the stories to believe, but she knew Castle Island held something worth searching for. And that's why she kept searching for a way to find the island and a way to find the treasure hidden there.
 
 #
 
-Captain Z was at the base of the cliffs, looking back and forth for a path. The cliffs were so steep at the bottom that no one would be able to climb them.
+Now Sophia had finally found the island, and was close to finding the treasure. But she had to move fast, else all might be lost.
 
-Though she looked all around, nothing resembled the start of a path to her.
+Captain Z was at the base of the cliffs, looking back and forth in the dark for a path. The cliffs were so steep at the bottom that no one would be able to climb them.
 
-_Well, it wouldn't be a very good hiding spot if I were able to find it so easily_, she thought.
+Though she looked all around, she could see nothing that resembled the start of a path.
+
+_Well, it wouldn't have been lost for so long if I were able to find it too easily_, she thought.
 
 She ducked behind one of the many big rocks about, and lit her lamp again to take a closer look at the map.
 
 On the map, there was a little arrow that pointed at the base of the cliffs. Next to the arrow, three triangles were drawn. Under them were the words _Demon's Hand_.
 
-Captain Z looked up again and walked further away from the beach. The trees and bushes here kept her lamp hidden.
+Captain Z looked up again and walked further away from the beach. She hoped the trees and bushes here kept her lamp hidden from watching eyes along the shore.
 
 She walked along the rocky steep side of the cliffs. It was slow going.
 
 Large rocks and boulders were everywhere. More then a few times, the way was blocked by one of these big rocks and she had to backtrack to find another way around.
 
-She was walking alongside one of these boulders when a root caught her foot and sent her sprawling to the ground.
+Walking alongside one of these boulders, a root caught her foot and sent her sprawling to the ground.
 
-She crawled to her knees and sat down. Her leg hurt now from the fall and her arms were sore from the rowing and scratched from the bushes and trees. She had the feeling of wanting to give up and row away. Maybe the treasure wasn't even here anymore. Maybe it was all just a made up story.
+She crawled to her knees and sat down. Her leg hurt now from the fall and her arms were still sore from the rowing and scratched from the bushes and trees. She had the feeling of wanting to just give up and row away. Maybe the treasure wasn't even here anymore. Maybe the whole story was made up.
 
-Sitting on the ground with these thoughts in her head, she finally looked up as the clouds parted for a few minutes to let the moon shine down. She saw something that made her heart skip a beat.
+Sitting on the ground with these thoughts in her head, she finally looked up to see what was around her. The moon shine down to light the cliff walls. Something there made her heart skip a beat.
 
 In fact it was three somethings. Three big rocks broke out of the ground, bent and pointed like claws. Here was the spot on the map that she had been looking for!
 
-She jumped up and ran as fast as she could in the dark to the three big stones.
+She jumped up and ran as fast as she could to the three big stones.
 
-At first, it didn't look like a path. But when she squeezed her head behind the claw closest to the cliffs she saw a crack in the rocks. You wouldn't see it if you didn't know where to look, but that was the start of the path to the treasure.
+At first, it didn't look like any path started here. The cliffs were just as high as anywhere else. But when she squeezed her head behind the claw closest to the cliffs she saw a crack in the rocks. You wouldn't see it if you didn't know where to look, but there it was, a path up the cliffs.
 
 Captain Z squeezed her arms in past the rock and then pulled the rest of herself into the crack.
 
 She could see the path heading up the cliffs, zig-zagging right up the side.
 
-Captain Z started walking quickly up the path, excited to be so close now, but on the look out for more roots and more pirates.
+Captain Z started walking quickly up the path, excited to be so close now, but on the look out for more roots on the ground and pirates behind.
 
 #
 
-Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where's and the whys of what she is doing.
+Now we find Captain Z in the same spot in the story as where we started. Though now we know a great deal more about the where and the why of what she is doing.
 
 Captain Spears and his men are rowing fast to reach the island and start the search for the pirate thief.
 
 Captain Z is well on her way to finding out what secrets Castle Island really hold.
 
-And now there is this mysterious note with its mysterious letters. It belonged to Captain Spears. Now it is in the pocket of Captain Zephyr. But as to what it said, or who it was from, we have no idea.
+And now there is this mysterious note with its jumble of letters. It belonged to Captain Spears. Now it is in the pocket of Captain Zephyr. But as to what it said, or who it was from, we have no idea.
 
 Will Captain Spears find our hero, Captain Z?
 
@@ -403,13 +405,13 @@ I don't know. All we can do is keep reading, and hope against hope that everythi
 
 #
 
-Captain Z was halfway up the giant of a hill by the time dawn started to break in the East. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
+Captain Z was halfway up the giant of a hill when dawn started to break in the Eastern sky. She was on the wrong side of the cliffs to see the water or the sun rising up from them, but a pink light started to glow around the cliffs.
 
 Daylight would make finding the treasure easier. It would make Captain Spears's job of finding her easier as well. Captain Z pressed onward and upward.
 
-At the fork in the path, the map showed that left was the direction to take. Then the trail should curve back to the right before more zig-zagging up a steeper part near the top. Captain Z had already run into more then a few dead-ends and wrong turns. It's hard work to read a treasure map, especially in the dark. But she was determined not to quit. She was close to that treasure. She knew it.
+At the fork in the path, the map showed that left was the direction to take. Then the trail should curve back to the right before more zig-zagging up a steeper part near the top. Captain Z had already run into more then a few dead-ends and wrong turns. It's hard work to read a treasure map, especially in the dark. But she was determined not to quit. She was too close to the treasure now.
 
-Captain Spears and his scoundrels were still nowhere to be seen. She figured they were close to the island now, perhaps even on shore. She hoped that there was not another way up the cliffs that wasn't shown on the map. It would be a terrible surprise to reach the X on the map and have Spears and his crew waiting there for her.
+Captain Spears and his scoundrels were still nowhere to be seen. She figured they should be on the island now. She hoped that there was not another way up the cliffs that wasn't shown on the map. It would be a terrible surprise to reach the X on the map and have Spears and his crew waiting there for her.
 
 With the pink light over the hill above her, she picked up the pace and started to jog up the path. _Even if he is there waiting,_ she thought, _I'll still be the one leaving this island with the treasure. Someway, somehow, I will be the one._
 
