@@ -1,3 +1,8 @@
+---
+layout: default
+title: Backstory
+count: 01
+---
 
 ## Captain Z
 
