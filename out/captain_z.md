@@ -87,7 +87,7 @@ The frightened captain grabbed her stolen chest and flew out of the door and on 
 
 Captain Z scrambled as fast as she could toward the front of the boat.
 
-The back and forth of the waves and the jumbles of rope nearly made her loose her balance as she looked for a place to hide. She had to get out of sight before the pirates found her and the stolen chest.
+The back and forth of the waves and the jumbles of rope nearly made her loose her balance as she looked for a place to hide. She had to get out of sight before the pirates found her with the stolen chest.
 
 Towards the side of the boat she found a loose tarp covering a few crates and barrels. She ducked under the tarp and squeezed herself between two of the barrels. Then she held her breath.
 
@@ -95,7 +95,7 @@ Almost immediately, a slew of pirates burst out of the doorway and onto the main
 
 Peeking out of her hiding spot, Captain Z had to cover her mouth to stop herself from laughing out loud at the way the sleepy pirates were dressed.
 
-They were wearing footie pajamas, like children! The feet on their pj's made them slip and slide around on the deck with each wave. The pajamas were blue, or green, or pink. And on each pirates head was a little sleeping cap with a long tail.
+They were wearing footie pajamas, like children! The feet on their pj's made them slip and slide around on the deck with each wave. The pajamas were blue, or green, or pink. And on each of their heads was a little sleeping cap with a long tail.
 
 They looked more like baby dolls then terrible pirates!
 
@@ -117,9 +117,9 @@ Though I have to hope he knows dolphins aren't fish at all. Sometimes pirates ar
 
 Of course this is to say nothing of Captain Spears's evil red eye.
 
-Some people said it was a magic eye, and could kill a man with only a glare. Others said that Spears was cursed by a foul witch, and the red eye was markings of that spell. Others said that he couldn't see a wink out of it at all, a blindness caused by a run in with a poisonous jellyfish when he was just a wee lad.
+Some people said it was a magic eye, and could kill a man with only a glare. Others said that Spears was cursed by a foul witch, and the eye was markings of that spell. Others said that he couldn't see a wink out of it at all, a blindness caused by a run in with a poisonous jellyfish when he was just a child.
 
-No one knew who was right or wrong about Captain Spears and his red eye. But it did seem to glow in the night, like the flame from a candle. And at times it changed color, from red to yellow, or even blue. 
+No one knew who was right or wrong about Captain Spears and his eye. But it did seem to glow in the night, like the flame from a candle. And at times it changed color, from red to yellow, or even blue. 
 
 The eye only added to the fearfulness other pirates felt when they spoke of Captain Spears.
 
@@ -131,21 +131,21 @@ Hissy also liked to grab seagulls out of the air as they circled the ship. It wo
 
 The only person that could pet the mean old cat was Captain Spears himself. Anyone else who tried would get a scratch and a hiss.
 
-There wasn't a more terrible pirate on the seven seas than the Dread Captain Spears. And there wasn't a more frightful cat aboard any ship on earth than Hissy his cat.
+There wasn't a more terrible pirate on the seven seas than the Dread Captain Spears. And there wasn't a more frightful cat aboard any ship on earth than Hissy.
 
-And both of these villains, as well as a whole crew of scoundrels, were looking for Captain Sophia Zephyr.
+And both of these villains, as well as a whole crew of scoundrels, were now looking for Captain Sophia Zephyr.
 
 #
 
-Captain Spears's eyes darted back and forth and all around the boat looking for something out of place. He had just woken up out of a wonderful dream, and his head was still muddled and confused. He certainly hadn't thought to check the map room to find out if anything was missing.
+Captain Spears's eyes darted back and forth and all around the boat looking for something out of place. He had just woken up out of a wonderful dream, and his head was still muddled and confused. He hadn't yet thought to check the map room to find out if anything was missing.
 
 When Captain Z saw Spears and his cat, she scooted back under the tarp as far as she could go. It would be an awful thing to be caught on board the Sea Breaker with something belonging to Captain Spears.
 
 She had to escape, but how?
 
-Suddenly, a great commotion broke out, and gave her a chance. One of the sleepy pirates had gotten all tangled up in some of the loose rope on the deck. While it was just rope wrapped around his legs and arms, this pirate thought it was the tentacle of a giant octopus up from the depths to drag him into the sea!
+Suddenly, a great commotion broke out. One of the sleepy pirates had gotten all tangled up in some of the loose ropes on the deck. While it was just rope wrapped around his legs and arms, this pirate thought it was the tentacle of a giant octopus up from the depths to drag him into the sea!
 
-"Oh Help! I'm done for! Tis a great Kraken come to swallow me whole!" The pirate shouted and flailed his arms about. His pirate companions were slow to help, fearing such a beast could grab them too and pull them under.
+"Oh Help! I'm done for! Tis a great Kraken come to swallow me whole!" The pirate shouted and flailed his free arm about. His pirate companions were slow to help, fearing such a beast could grab them and pull them under as well.
 
 When they found this screaming pirate was battling nothing more then a piece of rope, they all broke out in laughter (pirates are mean like that, always laughing at their mates).
 
@@ -155,9 +155,9 @@ With all this tomfoolery going on, now was the chance for Captain Z to escape un
 
 She crept out from under the tarp with the chest and headed for the side of the ship. Looking over the railing, she saw the little rowboat that carried her here still where she had left it, down below.
 
-As she turned back around to check that no one was watching her, she smacked face-to-face with that nastiest of cats, Hissy!
+As she turned back around to check that no one was watching her, she met face-to-face with that nastiest of cats, Hissy!
 
-Hissy had jumped up on the railing next to her and stuck its face out to scare her. Hissy started up a terrible fit of hissing and meowing. This startled Captain Z such that she stepped backward, tripped over the railing, and went falling head first over the side of the boat.
+Hissy had jumped up on the railing next to her and stuck its face out to scare her. The cat started up a terrible fit of hissing and meowing. This startled Captain Z such that she stepped backward, tripped over the railing, and went falling head first over the side of the boat.
 
 #
 
@@ -165,33 +165,33 @@ Captain Z would be dead and drown, her stolen chest lost for certain, if it were
 
 The same ropes that had allowed her to escape by tangling up the sleepy pirate, had now narrowly saved her life.
 
-As she fell off the side of the ship, some of the rope wrapped around her left foot. Now Captain Z was dangling by her leg twenty feet below where she started on the deck, and upside-down, but hanging right above her own little rowboat.
+As she fell off the side of the ship, some of the rope wrapped around her left foot. Now Captain Z was dangling upside-down by her leg twenty feet below where she started on the deck, but hanging right above her own little rowboat.
 
 What luck!
 
 But time stays still for no man, or woman, as it were. She had to move fast to take advantage of that lucky tangle.
 
-Captain Z dropped her stolen chest into the rowboat, which landed with a thud. She reached up and unloosed the rope coil around her ankle. Then, she dropped down and hit the rowboat with a thud herself.
+Captain Z dropped her stolen chest into the rowboat, which landed with a bang. She reached up and unloosed the rope coil around her ankle. Then, she dropped down and hit the rowboat with a thud herself.
 
-Sore, but with no bones broken, she put her oars in and started rowing fast.
+Sore, but with no bones broken, she put her oars in and started rowing as fast as she could.
 
-She had just started to slip away when a few of the pirate crew poked their heads over the railing above to look down at whatever it was that had just fallen off their boat.
+A few of the pirate crew poked their heads over the railing to look down at whatever it was that had just fallen off their boat.
 
 They shouted and waved their arms to bring over the rest of the crew.
 
-Captain Z looked up just in time to see the Dread Captain Spears glaring down at her. His red eye blazing like a bright fire - stoked by his anger.
+Captain Z looked up just in time to see the Dread Captain Spears glaring down at her. His red eye blazing like a bright fire, stoked by his anger.
 
-He stood there and scowled at her for a time, no doubt thinking and trying to figure out what to do next. Then he turned and started shouting commands at his crew. "Avast, ya sea dogs! To the aft, double time!" His crew all started running to the back of the ship, quickly disappearing from Captain Z's view.
+He stood there and scowled at her for a time, no doubt trying to figure out what to do next. Then he turned and started shouting commands at his crew. "Avast, ya sea dogs! To the aft, double time!" His crew all started running to the back of the ship, and disappeared from Captain Z's view.
 
 Captain Z focused on her rowing.
 
-The water was too shallow to allow that great giant of a boat, the Sea Breaker, to reach her. Instead, they would have to lower their own rowboats if they wanted to chase her. And that is most certainly what Captain Spears wanted.
+The water was too shallow to allow that great giant of a boat, the Sea Breaker, to reach her. Instead, they would have to lower their own rowboats if they wanted to chase her.
 
 Captain Z cursed her luck and her clumsy feet for such a disastrous get away. Still, she had the chest, which meant she had the map.
 
 She had the map, once she got the chest open, that is.
 
-Smiling, Captain Z rowed straight for shore. There's more then one way to open a chest, she thought again, and she had the perfect sort of key to do just that.
+Smiling, Captain Z rowed straight for shore. _There's more then one way to open a chest_, she thought again, _and I have the perfect key._
 
 #
 
