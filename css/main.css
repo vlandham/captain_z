@@ -134,6 +134,12 @@ body {
   line-height: 30px;
 }
 
+blockquote {
+  font-style: italic;
+  color: grey;
+}
+  
+
 
 
 /* ==========================================================================
