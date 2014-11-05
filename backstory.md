@@ -4,6 +4,12 @@ title: Backstory
 count: 01
 ---
 
+## Setting
+
+Story occurs in a fictionalized time and place, approximately equivalent to the year 1722. The differences being the location names, and the lack of sexism or racism (and if you notice any of either - please let me know!). 
+
+Pirates are plentiful in this land. The local governments have not been powerful enough to protect ships from their attacks.
+
 ## Captain Z
 
 Full name: Captain Sophia Zephyr
@@ -33,8 +39,6 @@ From the book:
 > Captain Z had rescued the crow when it was just a baby. Blown out to sea and tossed among the waves, Captain Z had found the little Muddle in an empty bread basket. She raised her on fish, clams, and shrimp, and had taught it all manner of tricks and skills.
 
 > The name Muddle came from the crows bad luck. It just as often messed things up as make them better, but Captain Z loved her just the same.
-
-
 
 ## The Dread Captain Spears
 
@@ -73,3 +77,7 @@ Golden George: younger man.
 Barnacle Bill: the dumb one.
 
 Hissy is his cat.
+
+## Dr. Star
+
+## Kids
