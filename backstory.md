@@ -76,6 +76,10 @@ Golden George: younger man.
 
 Barnacle Bill: the dumb one.
 
+Smelly Ned: smelly.
+
+Cinnamon: the cook.
+
 Hissy is his cat.
 
 ## Dr. Star
