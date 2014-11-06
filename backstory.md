@@ -40,6 +40,18 @@ From the book:
 
 > The name Muddle came from the crows bad luck. It just as often messed things up as make them better, but Captain Z loved her just the same.
 
+### Potential Inspiration
+
+![](/inspiration/Laughing Girl 1936 Etching Isabel Bishop.jpg)
+
+## Wind Drinker
+
+Captain Z's boat. She served as a shipmate aboard under the previous captain before inheriting it. When Captain Z took over, the rest of the crew mutinied. Captain Z kept the ship, but lost the crew.
+
+Afterwards, Captain Z had the boat retro fitted with pulley systems and gearing to allow her to setup and sail the boat singlehandedly.  
+
+### Potential Inspiration
+
 ## The Dread Captain Spears
 
 Captain of the ship the Sea Breaker.
@@ -81,6 +93,8 @@ Smelly Ned: smelly.
 Cinnamon: the cook.
 
 Hissy is his cat.
+
+### Potential Inspiration
 
 ## Dr. Star
 
