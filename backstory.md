@@ -30,6 +30,10 @@ Here is the description of her face, from the book:
 
 She also wears a feathered hat of some sort - something piratey.
 
+### Potential Inspiration
+
+![](./inspiration/Laughing Girl 1936 Etching Isabel Bishop.jpg)
+
 ### Muddle the Crow
 
 Her pet trained crow. 
@@ -40,9 +44,6 @@ From the book:
 
 > The name Muddle came from the crows bad luck. It just as often messed things up as make them better, but Captain Z loved her just the same.
 
-### Potential Inspiration
-
-![](./inspiration/Laughing Girl 1936 Etching Isabel Bishop.jpg)
 
 ## Wind Drinker
 
@@ -51,6 +52,11 @@ Captain Z's boat. She served as a shipmate aboard under the previous captain bef
 Afterwards, Captain Z had the boat retro fitted with pulley systems and gearing to allow her to setup and sail the boat singlehandedly.  
 
 ### Potential Inspiration
+
+![](./inspiration/wind_drinker.png)
+
+![](./inspiration/Floca Flying Cloud small.jpg)
+
 
 ## The Dread Captain Spears
 
@@ -95,6 +101,10 @@ Cinnamon: the cook.
 Hissy is his cat.
 
 ### Potential Inspiration
+
+![](./inspiration/spears.png)
+
+![](./inspiration/pirates.jpg)
 
 ## Dr. Star
 
