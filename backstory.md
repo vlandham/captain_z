@@ -42,7 +42,7 @@ From the book:
 
 ### Potential Inspiration
 
-![](/inspiration/Laughing Girl 1936 Etching Isabel Bishop.jpg)
+![](./inspiration/Laughing Girl 1936 Etching Isabel Bishop.jpg)
 
 ## Wind Drinker
 
