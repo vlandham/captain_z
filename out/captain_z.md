@@ -790,7 +790,7 @@ _If that were true,_ she thought, _my steed would be Wind Drinker._ That was an 
 
 #
 
-It was now very late in the evening. Both women were very tired. It had been a long day.
+Both women were very tired, it had been a long day. Dr. Star yawned and started to get out of her chair to go to bed. 
 
 "Let's get some shuteye" Dr. Star sighed. "We can tour the town tomorrow. See all the friendly faces."
 
@@ -804,17 +804,17 @@ Nova looked it up and down for a long time, holding it close to the lamp to see 
 
 Dr. Star paused a moment to yawn. Then she continued.
 
-"Anyone who needs to read the real words knows which way the letters were swapped, so its easy for them. To everybody else, the words don't make sense."
+"Anyone who needs to read the real words knows which way the letters were swapped, so its easy for them. To everybody else, the letters don't make sense."
 
-"Could _you_ read it?" Asked Captain Z hopefully. If Dr. Star could crack the code, then maybe it would lead to more treasure.
+"Could _you_ make sense of it?" Asked Captain Z hopefully. If Dr. Star could crack the code, then maybe it would lead to more treasure.
 
 "I've never been any good with words and puzzles like this," Dr. Star said shaking her head. "It would take me weeks, and I might not get anywhere."
 
 Captain Z took the paper back and looked at it a bit longer.
 
-She was pretty good with words, when she wanted to be. Maybe she had enough smarts to crack the code. But it would have to wait for a time when she wasn't so dang tired.
+She was pretty good with words, when she wanted to be. Maybe she had enough smarts to crack the code. But it would have to wait for a time when she wasn't so tired.
 
-The night ended with a hug. Captain Z found a cozy couch and a warm blanket and was soon deep asleep. Snoring, and dreaming of treasure.
+The night ended with a hug. Captain Z found a cozy couch and a warm blanket and was soon deep asleep. Snoring, and dreaming of hidden treasures to be found.
 
 #
 
@@ -822,31 +822,31 @@ The next morning, bright and early, Sophia was woken up by the banging of pots a
 
 Captain Z offered to help.
 
-By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries ready. Everyone thanked Lucy for a delicious way to start to the day.
+By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries on the table. Everyone thanked Lucy and Sophia, for the delicious start to the day.
 
 After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
 
 "Why don't you all go into town together," she said as she was packing up her things. "You can go see Walter and get some food at the market for supper tonight."
 
-While Captain Z wasn't too excited about taking three children around by herself, it would be nice to see her old classmate. She hadn't seen Walter since her last visit nearly two years ago when he helped her with rigging up Wind Drinker. So Captain Z agreed to watch the children while Dr. Star treated her patients.
+While Captain Z wasn't too excited about taking three children around by herself, it would be nice to see her old classmate. She hadn't seen Walter since her last visit when he helped her with the special riggings and cranks on Wind Drinker.
 
-It was a short walk down the hill and into the market. It was already crowded that morning. It seemed like everyone in town had come out to buy fish, fruit, and a new necklace or other such trinket. Captain Z pushed her way through the crowds, making sure that the children were not left behind.
+It was a short walk down the hill and into the market. The streets were already crowded that morning. It seemed like everyone in town had come out to buy fish, fruit, or trinkets. Captain Z pushed her way through the crowds, making sure that the children stayed close behind.
 
-Finally, they reached the quieter end of the market and ducked into a dark and smoky little building. There was Walter the blacksmith. Banging away on a piece of red hot metal. He was no doubt making a new type of spear for the town guard, as they were his best customers.
+Eventually, they reached the quieter end of the market and ducked into a dark and smoky little building. Inside was Walter, the blacksmith. He was banging away on a piece of red hot metal, sweating and scowling at it as he shaped it into a point. It looked to be some new type of spear, most likely made for the town guard, they were his best customers.
 
-Sophia had grown up with Walter in Dr. Star's school. They had both been part of the very first class. There were two boys and two girls in that class, and Walter and Sophia were one of each. They had been like brother and sister, always playing jokes, but also always watching out for one another. They were still a bit like siblings, even now that they were all grown up.
+Sophia had grown up with Walter in Dr. Star's school. They had both been part of the very first class when Dr. Star first opened the school. There were two boys and two girls in that class, and Walter and Sophia were one of each. They had been like brother and sister back then, always joking around, but also always watching out for one another. Even now that they were both grown up, they still acted a bit like siblings when they got together.
 
 Walter didn't even have to look up to know who had come into his shop. He could tell it was Sophia just by her walk.
 
 "Well, did you get another boat you need to rig with pulleys?" Walter asked. He looked up and smiled at Captain Z.
 
-"I'm still enjoying the first one too much to be needing another," was Captain Z's response.
+"I'm still enjoying the first one too much to be needing another," Captain Z responded.
 
 Walter put down his fired metal and gave Sophia a big bear of a hug. He was stronger than he looked, all that blacksmithing builds muscle.
 
-The children walked around the little shop to admire Walter's creations as the two grownups talked. There were even some little metal toys to play with, a knight and a wonderfully detailed little metal dragon. It looked as if it might come alive any second to fly about the room.
+The children walked around the little shop to admire Walter's creations as the two grownups talked. Walter liked making little figures when he wasn't working on weapons. On his shelves stood a little metal knight, complete with sword and shield, and a wonderfully detailed little metal dragon. It looked as if it might come alive any second to fly about the room.
 
-"It's good to see you, Little Z," Walter said. That was the name he had given Sophia while they were in school together. She had always been shorter and smaller then the others in school. After they left for their trades, she kept growing but the name stuck, even though now she was taller then he was.
+"It's good to see you, Little Z," Walter said. That was the name he had given Sophia while they were in school together. She had always been shorter and smaller then the others. Captain Z was now taller then Walter by a few inches, but the name stuck. 
 
 "It's good to see you too Walter," Captain Z said. "What's new in Goodnews?"
 
@@ -856,13 +856,13 @@ Captain Z asked about the others they had gone to school with when they were you
 
 Carlos was still missing. No one had heard from him in three years. Walter feared the worst.
 
-"Can't be nothing but trouble for Carlos, says I," he remarked.
+"Can't be nothing but trouble for Carlos, says I," Walter remarked.
 
-"I'm sure he will come back someday," Captain Z responded.
+"I'm sure he will come back someday," Captain Z said.
 
-Walter grunted. He didn't think she was right about that, but there was nothing to do about it.
+Walter grunted. He didn't think she was right about that, but there was no reason to argue the point.
 
-"One thing that has changed around here is the guards," Walter said, peering out the door before continuing. "Lately every one of them seems to be getting up on the wrong side of the bed. The prison's overflowing with all the people they've locked up. Just looking at them wrong will get you dragged off, it would seem."
+"One thing that has changed around here is the guards," Walter said, peering out the door before continuing. "Lately every one of them seems to be getting up on the wrong side of the bed. The prison's overflowing with all the people they've locked up. It would seem just looking at them wrong is enough reason for them to drag you away these days."
 
 "Any ideas as to what's keeping them in such mean spirits?" Captain Z asked.
 
@@ -876,53 +876,53 @@ They walked back out on to the street and down towards the market.
 
 "I'm hungry," Nova complained.
 
-"Let's get some grub at one of the stalls," Captain Z suggested. "Then I'll take you into the University before we head home."
+"Let's get some lunch at one of the market stalls," Captain Z suggested. "Then I'll take you into the University before we head home."
 
-Irene, the other girl in Dr. Star's first class would mostly likely be among the books and papers there. Perhaps she could help crack the code of the note Sophia had found on Captain Spears's boat. Irene had helped design the pulleys and mechanisms that Walter had made to allow Captain Z to sail Wind Drinker solo. She seemed to know something about everything. Uncovering the hidden message would be an easy task for her.
+Irene, the other girl in Dr. Star's first class would mostly likely be among the books and papers there. Perhaps she could help crack the note Sophia had found on Captain Spears's boat. Irene had helped design the pulleys and mechanisms that Walter had made to allow Captain Z to sail Wind Drinker solo. She seemed to know something about everything. Uncovering the hidden message might make for an easy task for her.
 
-They walked through the market stalls looking at all the food and wares for sale. Exotic spices filled one stall, their scents spilling out into the street and into their noses. Fresh fish were in another stall, some bigger than a man hanging from the rafters. Some sellers had huge wheels of cheese on their tables and sausages linked together strung up from the stall rafters. Others had silks and scarves and brightly colored cloth.
+They walked through the market stalls looking at all the food and wares for sale. Exotic spices filled one stall, their scents spilling out into the street and into their noses. Fresh fish were in another, some bigger than a man hung from the rafters. A few sellers had huge wheels of cheese on their tables and sausages linked together in long chains. Some stalls had silks and scarves and brightly colored cloth for sale.
 
-There were plenty of people out enjoying all these sights, smells, and tastes. Families were strolling through to buy groceries for dinner. Merchants were perusing the stalls hoping to find good deals on silks or spices that they could resell in the smaller towns on the nearby islands. Town guards were roaming about in packs of two or three. There seemed to be a lot of them, and most seemed to have a sour look on their faces, from what Captain Z could see.
+The crowds were filled with all sort of folks who were out enjoying the sights, smells, and tastes of the market. Families were strolling through to buy groceries for dinner. Merchants were perusing the stalls hoping to find good deals on silks or spices that they could resell in the smaller towns on the nearby islands. Town guards were roaming about in packs of two or three. There seemed to be a lot of them, and most seemed to have a sour look on their faces, from what Captain Z could see.
 
 _A bit unusual for such a nice day as this,_ she thought. _Most likely its all in my head, I'm seeing things because of Walter's words. But than Walter is always suspicious about something or somebody._
 
-As they walked, the bright colors of fresh fruit caught Lucy's eye and she went over to a large stand to admire them. The stand had dates and plums on their tables, along with lemons and oranges. Limes were in great big barrels, alongside large juicy looking apples.
+As they walked, the bright colors of fresh fruit caught Lucy's eye and she went over to a large stand to admire them. The stand had dates and plums on their tables, along with baskets of lemons and oranges. Limes were in great big barrels, alongside large juicy looking apples.
 
 Lucy reached into one of the barrels and pulled out the biggest apple she had ever seen. She could barely hold it in one of her hands. She held it up and looked at it. Fruit like that rarely made it to the Port of Goodnews. Most of it was sent directly to the big cities of the Eastern Coast, where prices were higher and tastes were fancier.
 
 "Look!" She said to the others.
 
-Captain Z saw Lucy holding the apple and smiled. But her smile faded as two big guards came up behind Lucy with anger in their eyes.
+Captain Z saw Lucy holding the apple and smiled. But her smile faded when she saw two guards came up behind Lucy with anger in their eyes.
 
 #
 
-One of the guards grabbed Lucy's wrist. The apple was thrown down and bounced on the ground, rolling under the stand.
+One of the guards grabbed Lucy's wrist. The apple dropped down to the ground, rolling under the fruit seller's market stand.
 
 "Gotcha!" The guard shouted. "Thought you'd be running off with a nice red apple, did you? Well think again! You're coming with us. Thieves like you get locked away in Goodnews."
 
-Captain Z ran up to the guards. Lucy twisted her wrist free and jumped behind Captain Z as she stopped the guards.
+Captain Z ran up to the guards. Lucy twisted her wrist free and jumped behind Captain Z as she stopped in front of them.
 
-"What are you doing?" She asked. "The girl's done nothing wrong. Where are you trying to take her?"
+"What are you doing?" She asked. "The girl's done nothing wrong, she's with me. Where are you trying to take her?"
 
-The second guard snorted. "That street urchin was fixing to steal fruit from one of our honest sellers here," he said. "It's a lucky thing we were here to stop her, isn't that right?"
+The second guard snorted. "That street urchin was fixing to steal fruit from one of our honest sellers here," he said. "It's a good thing we were here to stop her, isn't that right?"
 
-The guard was looking right at the fruit seller for a reply. The seller was an older man with a big belly and a balding head. Behind his glasses, his eyes shifted back and forth between Lucy, Captain Z, and the guards.
+The guard was looking at the fruit seller for a reply. The old man had a big belly and a balding head. Behind his glasses, his eyes shifted back and forth between Lucy, Captain Z, and the guards.
 
-"Listen now," he stammered. "I don't want no trouble."
+"Listen now," he stammered. "I don't want any trouble."
 
-"The thief is the one in trouble here not you," the first guard said with a mean looking smile. "She was trying to take that apple from you, right?"
+"This thief is the one in trouble here not you," the first guard said with a mean looking smile. "She was trying to take that apple from you, right?"
 
-The old man's eyes flicked back and forth even faster. His breaths were short and close together. "Well, well, well… I wasn't paying much attention," he said finally. "I'll trust your word officers."
+The old man's eyes flicked back and forth even faster. His breaths were short and close together. "Well, well, well… I wasn't paying much attention," he said finally. "But, if you say so. I'll trust your word officers."
 
 Captain Z interrupted before the guards could respond.
 
-"In any case, it's not stealing if you get paid. Here's the two coppers for that apple, and one more for your troubles." She plunked three coins down on the table and turned around. She grabbed Lucy's hand and started to walk back to the other children who were standing in the road looking very afraid.
+"In any case, it's not stealing if you get paid. Here's the two coppers for that apple, and one more for your troubles." She plunked three coins down on the table and turned around. She grabbed Lucy's hand and started to walk back to the other children who were standing in the road looking worried.
 
 "Say now!" Called out one of the guards. "Don't you want your apple?"
 
-Captain Z turned around. One of the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily. The other picked up a mushy looking apple off the ground and gave it a look.
+Captain Z turned around. One of the guards were moving slowly around the stand towards her and the children. She had a hunch that they weren't going to let them get away easily. The other picked up a mushy looking apple off the ground, not the one Lucy had picked, one that had been rotting there for some time.
 
-"That money bag of yours looks full of coppers and silvers. Maybe even a bit of gold," he said. "One little apple must not mean much to you."
+"That money bag of yours looks full of silvers. Maybe even a bit of gold," he said. "One little apple must not mean much to you."
 
 He tossed the apple to Captain Z who caught it with one hand.
 
@@ -930,15 +930,15 @@ He tossed the apple to Captain Z who caught it with one hand.
 
 #
 
-Hearing that word made all other people around them in the market stop and stare at the captain. Pirates were forbidden to enter Port Goodnews. Any pirate caught in town could be locked up for a very long time.
+Hearing that word made all other people around them in the market stop and stare at the captain. As Captain Z knew, pirates were forbidden to enter Port Goodnews. Any pirate caught in town could be locked up for a very long time.
 
 Even if you weren't really a pirate, just being called one could get you into a lot of trouble. Captain Z had learned these lessons the hard way.
 
-_He would have branded me a pirate no matter what I did,_ Captain Z realized. _They're just unlucky that it happens to be true._
+_He would have branded me a pirate no matter what I did,_ Captain Z realized. _But unlucky for them, it happens to be true._
 
 The guards inched closer.
 
-Captain Z felt the apple in her hand. She threw it underhanded from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head.
+Captain Z felt the apple in her hand. She threw it hard underhanded straight from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head, apple mush all over his face.
 
 Captain Z took off.
 
@@ -946,11 +946,11 @@ Grabbing Lucy's hand again, she started running away from the fruit stand.
 
 "Let's go!" She ordered the other two children. Nova and Orion followed, running as fast as they could.
 
-People in the crowd watching the ordeal jumped back as the guards pulled out their swords and started following. The first guard was still rubbing the spot where the apple hit him.
+People in the crowd watching the ordeal jumped back as the guards pulled out their swords and started following. The first guard was still wiping the mush off as he ran.
 
-The apple had slowed the guards a bit, but not by much. Captain Z tried to loose them in the crowds by running zip-zag through the stalls and people. Still the guards followed. They were closing in.
+The apple had slowed the guards a bit, but not by much. Captain Z tried to loose them in the crowds by running zip-zag through the stalls and people. Still the guards followed. They were getting closer.
 
-Captain Z led the children out of the market and into a little alleyway between the nearby stores. They ducked under low hanging wires crowded with drying clothes. They sped left, then right, down through a maze of alleys and side streets, trying to loose the guards.
+Captain Z led the children out of the market and into a little alleyway between the nearby stores. They ducked under low hanging wires crowded with drying clothes. They sped left, then right, down through a maze of side streets, trying to loose the guards.
 
 She hoped to find a way back out to the main street where they could try to get lost in the crowds. Instead, she found a dead end.
 
@@ -958,7 +958,7 @@ The shop buildings all crowded around the little road. There was no way to squee
 
 Sophia looked up for a way out. There, halfway up the last building at the end of the alley was a little metal ladder that led to the rooftop.
 
-_Maybe we will be able to loose them up there,_ she thought. At least it was a chance.
+_Maybe we will be able to loose them up there,_ she thought. At least there was a chance.
 
 She hurried over to the ladder with the children following close behind. Captain Z lifted Lucy to the first rung and watched her start to climb. Then she helped Nova and Orion up.
 
@@ -968,7 +968,7 @@ She heard shouts from the alley. The guards had seen them. Quickly, she jumped u
 
 The wind was strong up above the buildings. It whipped around the children's hair as they waited for their captain to reach them. The first guard was already on the ladder by the time Captain Z made it all the way up.
 
-The group jogged down the length of the building, looking for a way down or a place to hide. The rooftop of the building next door to the one they were on was close enough to reach. Orion and Nova stepped across the gap between the two buildings. They grabbed Lucy's hands to help her across.
+The group jogged down the length of the building, looking for a way down or a place to hide. The rooftop of the next building over was close enough to reach. Orion and Nova stepped across the gap between the two buildings. They grabbed Lucy's hands to help her across.
 
 Captain Z jumped the gap and kept running.
 
@@ -984,7 +984,7 @@ The first guard was standing at the edge between the two roofs, watching them. A
 
 "End of the line," the guard sneered.
 
-He twirled a length of rope as he crossed over to the roof Captain Z and the children were now trapped on, still smiling a mean looking smile.
+He twirled a length of rope as he crossed over to the roof Captain Z and the children were now trapped on, laughing more as he got closer.
 
 Frantically, Captain Z patted her pockets to find something she could use to defend herself with.
 
@@ -992,7 +992,7 @@ All she pulled out were the four feathers.
 
 _Well, here is my chance to see if they really work,_ she thought.
 
-The guard slowly stepped towards them, making sure there was no room to run around him and escape.
+The guard slowly stepped towards them, making sure there was no room to run around him.
 
 Hurriedly, Captain Z shoved a feather into each of the children's hands, keeping one for herself.
 
@@ -1008,11 +1008,11 @@ The guards were frozen as they watched. Everyone expected her to disappear over 
 
 But that is not what happened.
 
-They all watched in awe as the captain floated gracefully through the air like a cloud in the breeze.
+They all watched in awe as the captain floated through the air like a cloud in the breeze.
 
-She landed gently on the next rooftop, grabbing a stovepipe to slow her down.
+She landed gently on the next rooftop, jogging to a stop.
 
-She looked back, just as surprised as the rest of them, then motioned for the children to follow her. Lucy looked down past the edge of the building. She didn't budge.
+Looking back, she was just as surprised as the rest of them, but motioned for the children to follow her. Lucy looked down past the edge of the building but didn't budge.
 
 It was one thing to watch an impossible jump like that and quite another to try the jump yourself.
 
@@ -1020,15 +1020,15 @@ Orion shot forward and leapt, keeping his eyes closed through the entire jump. H
 
 Nova and Lucy still didn't move. Then they heard the guards running towards them.
 
-Lucy turned to see both guards right behind her. Arms outstretched, their shocked faces had been replaced with angry ones. Lucy screamed, grabbed Nova's empty hand, and they both jumped away together.
+Lucy turned back around to see both guards right behind her. Arms outstretched, their shocked faces had been replaced with angry ones. Lucy screamed, grabbed Nova's empty hand, and they both jumped away together.
 
 Up into the air the two girls went, but instead of falling back down, they hung there weightless. It felt as if they were in the ocean, coasting along on a strong current.
 
-Lucy had butterflies in her stomach as they slowly drifted towards Orion and Captain Z who were waiting for them. She had time to look back to see the two guards teetering on the edge of the building they had just jumped from. They were still reaching out over the edge towards the two girls even though they were now too far away to catch. The guards were more confused then angry, completely astonished by what they had seen.
+Lucy had butterflies in her stomach as they slowly drifted towards Orion and Captain Z who were waiting for them. She had time to look back to see the two guards teetering on the edge of the building they had just jumped from. They were still reaching out over the edge towards the two girls even though they were now too far away to catch. The guards were more confused then angry, completely astonished by what they were watching.
 
 The girls reached the other rooftop, but were still high in the air. Captain Z grabbed Nova's leg to pull them both down to the ground. All three children looked at the captain, their eyes full of questions.
 
-"This was the treasure from Castle Island," Captain Z tried to explain. "These feathers are from the Pegasus."
+"This was the treasure from Castle Island," Captain Z tried to explain. "These feathers are magical somehow."
 
 The guards started shouting to one another. They were too afraid to attempt the jump, but they hadn't given up the chase. They were running back to the ladder to follow the crew through the alley.
 
@@ -1044,11 +1044,11 @@ Captain Z woke up in a sweat, breathing heavy from a terrible nightmare.
 
 In the dream, Captain Spears had pushed her off the cliff himself. His bright red eye followed her down over the edge. She fell backwards, on and on through the darkness.
 
-It was still dark outside. Everyone in the school was still asleep.
+It was still dark outside. Everyone else in the school was still asleep.
 
-Captain Z rubbed her eyes and lit a lamp to clear her head.
+Captain Z rubbed her eyes and sat up. She lit a lamp to clear her head and pulled on her vest for warmth.
 
-Fiddling with her pockets, she happened to bring out the envelope with the secret message in it. She opened it up and looked at the jumbled letters again.
+Fiddling with her pockets, she happened to bring out the envelope with the secret message in it. She opened it up and looked again at the jumbled letters.
 
 _No time like the present,_ she thought. The bad dream made her want to stay awake. Besides, she was typically an early riser.
 
@@ -1168,31 +1168,31 @@ Captain Z stared at the decoded message, trying to grasp its full meaning.
 
 A war? A battle, with pirates? That couldn't be right. She must have made a mistake.
 
-The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the Eastern cities, but had more guards and galleys than many of them. Certainly no pirate would be dumb enough to attack the city outright.
+The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the Eastern cities, but still had more guards and galleys than many of them. Certainly no pirate would be dumb enough to attack the city outright.
 
 Still, the message filled Captain Z with dread. It was now Friday morning. In an hour or so, the sun would begin to rise on a new day.
 
-She listened for any strange sounds outside. If pirates were planning an attack, they would have been spotted by now. Guards would be running to their stations. Alarms would be going off. Captain Z listened, but heard none of that kind of commotion. Everything outside was quiet and peaceful, as you would expect from such an early hour.
+She listened for any strange sounds outside. If pirates were planning an attack, they would have been spotted by now. Guards would be running to their stations. Alarms would be going off. Captain Z listened, but heard nothing. Everything outside was quiet and peaceful, to be expected at this early hour.
 
-To appease her own worry, the captain decided to make sure there was nothing amiss. She needed to get a good look at the harbor from above.
+Just to make sure, the captain decided to take a quick look around outside. She wanted to get a good look at the harbor from above.
 
-She crept out of the school and up the alley. She turned the corner and started up the bumpy hill to Lookout Point. Street after street, she looked down as she jogged past and saw nothing but dark homes. A few times she turned around to try to see the harbor, but trees and smaller hills blocked the view.
+Captain Z crept out of the school and up the alley. She turned the corner and started up the bumpy hill to Lookout Point. Street after street, she looked down as she jogged past and saw nothing but dark homes. A few times she turned around to try to see the harbor, but trees and smaller hills blocked the view.
 
 The sky was starting to light up just a bit when she found the path to the viewing spot. She ran down the path and onto the lookout's little platform. There she could see all the harbor at once.
 
 What she saw took her breath away.
 
-There wasn't just one ship out in the water, so early in the morning. There was an entire fleet of ships, and they were all flying the black flag of the Jolly Roger. Pirates had come into the port.
+In the dim light, Captain Z could see what looked to be an entire fleet of ships filling the harbor. Many of them looked to be flying the black flag of the Jolly Roger. Pirates had invaded the port.
 
-Most were floating out in the open waters, in a loose formation. A few were docking near the center of town. From where she stood, high up on the hill, Captain Z could barely make out pirate crews coming off these docked ships. They were coming into the city, and looked to be carrying swords, knives, and guns.
+Most were floating out in the open waters, in a loose formation. A few were docking near the center of town. From where she stood, high up on the hill, Captain Z could barely make out pirate crews coming off these docked ships. They were coming into the city and moving between the docked boats on the piers.
 
-Worse still, the towns guard and its fleet where nowhere to be seen. _Something bad must have happened,_ she thought. A force like that would not simply sleep through such an invasion.
+Amazingly, the town guard and its fleet where nowhere to be seen. _Something bad must have happened,_ she thought. _The guards would not simply sleep through such an invasion._
 
 She thought back to the market chase and Walter's warning about the guards. _Perhaps the guards aren't guarding these people anymore,_ she considered.
 
-Captain Z could just make out Wind Drinker in the dark. It sat where she had docked, on the far end of of the harbor. From what she could see, none of the other pirates had tied up over there. At least, not yet.
+Captain Z could just make out Wind Drinker in the dark. It sat where she had docked, on the far end of of the harbor. From what she could see, none of the pirates had tied up over there. At least, not yet.
 
-She couldn't tell if Muddle was still on the ship or not.
+She couldn't see Muddle, but guessed she was still on the ship.
 
 Captain Z started running as fast as she could back down the hill. She had to warn Dr. Star. And after that, she had to escape from Port Goodnews before the pirates started attacking. She loved a good fight, but was in no mood for a battle that she couldn't win. A pirate army against a sleeping town didn't sound like a fun time to her.
 
@@ -1202,7 +1202,7 @@ She made it back down to the school and slammed through the door. Captain Z ran 
 
 Dr. Star had heard Captain Z, as she came banging through the hall, and was sitting up in her bed when Sophia burst in.
 
-"I've decoded the message," Captain Z said. She was out of breath from the long run. "Pirates are going to attack Port Goodnews this morning while everyone is asleep."
+"I've decoded the message," Captain Z said. She was out of breath from the long run. "Pirates are going to attack Port Goodnews this morning. Its a war."
 
 Dr. Star checked her watch. "Attack Goodnews? Are you sure the message is right?" She asked.
 
@@ -1214,7 +1214,7 @@ Dr. Star's face became more serious with each word.
 
 "I wouldn't be able to make it out of here before they attacked, even if I left now," Dr. Star respond, shaking her head. "Plus, if a battle is coming, I need to be here to help the hurt and wounded."
 
-It was true that there weren't many healers in the Port of Goodnews, and none was as skilled as Dr. Star. _But that didn't mean she should stay and risk her life,_ thought Captain Z.
+It was true that there were few healers in the Port of Goodnews, and none were as skilled as Dr. Star. _But that doesn't mean she should stay and risk her life,_ thought Captain Z.
 
 "If you take them now," Dr. Star suggested, "you could make it out fast enough to escape."
 
@@ -1222,11 +1222,11 @@ Captain Z was definitely planning on leaving now, or as close to now as possible
 
 She was about to argue about the idea, when she remembered the poem that came with the Pegasus feathers. She remembered the part about a hero being born. Perhaps she could be a pirate and a hero at the same time.
 
-Before she could speak up again, there was a knock at the bedroom door. Nova, Orion, and Lucy shuffled in.
+Before she could respond, there was a knock at the bedroom door. Nova, Orion, and Lucy shuffled in.
 
 "What's going on?" Asked Nova.
 
-Captain Z didn't have time to explain. "two minutes to change your clothes and pack your bag," she answered. "You are leaving the city one way or another right now."
+Captain Z didn't have time to explain. "You've got two minutes to change your clothes and pack your bag," she answered. "You are leaving the city now, one way or another."
 
 The children knew better then to ask questions of a pirate. They all ran out back out of the hallway to their room.
 
@@ -1246,31 +1246,31 @@ They went slow, peeking around corners and crouching as they passed the homes an
 
 Closer to the water, they started catching glimpses of groups of pirates heading this way and that. They all looked to be on a mission and not one was looking about to see Captain Z or her soon-to-be shipmates.
 
-Once they made it to the center, they crept down toward the far end of the piers where Wind Drinker should still be docked. They kept behind buildings and dry docked ships, so that no one on the piers would see them.
+Once they made it to the center of town, they crept down toward the far end of the piers where Wind Drinker was docked. They kept behind buildings and dry docked ships, so the pirates wouldn't see them coming.
 
-As they moved through the buildings, they saw glimpses of the boats docked along the piers. Small bands of pirates were surrounding some of the larger ships. Captain Z couldn't tell what those pirates were up to, but she knew it couldn't be something good.
+As they moved through the buildings, they saw glimpses of the boats docked along the piers. Pirates were surrounding some of the larger ships. Captain Z couldn't tell what those pirates were up to, but she knew it couldn't be something good.
 
-Finally, they made it to the far end of the pier. They were hidden behind a boat house in front of the docks. The sky was getting lighter. The captain was surprised that the pirates hadn't started their attack yet. _They must be waiting for some sort of signal,_ she thought.
+Finally, they made it to the far end of the harbor. They were hidden behind a boat house in front of the docks. The sky was getting lighter. The captain was surprised that the pirates hadn't started their attack yet. _They must be waiting for some sort of signal,_ she thought.
 
-From the pier, she begin to hear a familiar sound that put her on edge. Muddle was cawing wildly. Someone unwanted must have come to the ship and awoken the bird.
+From the pier, she begin to hear a familiar sound that put her on edge. Muddle was cawing wildly.
 
-The crew ran to the corner of the building to get a look at the ship.
+The crew ran to the other side of the boat house to get closer to the ship.
 
-Peaking around the edge they looked down the pier toward Wind Drinker. Two pirates had united the boat and were pulling it away from the dock. It looked as if they meant to drag it out to the bay so no one could use it. And they probably would have finished their job by the time Captain Z made it there, if it weren't for Muddle.
+Peaking around the corner of the building, they looked down the pier toward Wind Drinker. Two pirates had untied the boat and were pulling it away from the dock. It looked as if they meant to drag it out to the bay so no one could board it. They would have finished their job by now if it weren't for Muddle.
 
-The crow was cawing and diving down at the pirates. With each swoop, she tried to peck at their heads. The two pirates were ducking down and waving their arms, trying to scare off their attacker. Captain Z jumped out from behind the boathouse, charging down the dock toward her boat.
+The crow was cawing and diving down at the pirates. With each swoop, she tried to peck at their hands or heads. The two pirates were ducking down and waving their arms, trying to scare off their attacker. Captain Z jumped out from behind the boathouse, charging down the dock toward her boat.
 
 The first pirate stood up as the captain met her. Before he could react, she had smashed into him with her shoulder. He flew backwards and off the dock, splashing into the water.
 
-The other pirate stood up and started shouting, "Zephyr is here! Zephyr is on the dock!" Pirates from the other piers heard him calling and started running toward them.
+The other pirate stood up and started shouting, "Zephyr's here! Zephyr's here!" Pirates from the other piers heard him calling and started running toward them.
 
 As he shouted, Muddle swooped again and beaked him hard on the top of his head. The pirate raised both hands to cover his head and shouted out in pain.
 
-Captain Z took advantage of the situation. She ran into the pirate as he held held his head. She gave him a hard shove, and he stumbled and fell back into the cold water.
+Captain Z took advantage of the situation. She ran into the pirate as he held held his head. Giving him a hard shove, he stumbled and fell back into the cold water.
 
-She motioned for the children to join her on the boat. They ran up the pier and jumped aboard Wind Drinker. The other pirates reached the same pier as well. Their boots pounded on the wooden planks as they ran.
+The children ran down the pier to join Captain Z on the ship. More pirates reached the pier. Their boots pounded on the wooden planks as they ran.
 
-The captain pushed hard to get the boat away from the dock and then jumped aboard herself. She was loosing the main sail as the pirates neared.
+The captain pushed hard to get the boat away from the dock and then jumped aboard herself. She was loosing the main sail as the pirates reached them.
 
 #
 
@@ -1278,27 +1278,27 @@ They were lucky to have a small boat. And lucky Captain Z had the riggings on cr
 
 They were luckier still to have a steady wind blowing away from the town out toward the bay.
 
-With the main sail out, and the wind up, the ship shifted away from the dock at a good pace.
+With the main sail out, and the wind up, the ship quickly shifted away from the dock.
 
-It was ten feet away from the dock when the pirates finally made it to the end of the pier. One of the first tried to jump aboard, but missed. It was further away then he expected, and he splashed into the water. He started to swim back to shore, spitting up water as he went.
+It was ten feet away when the pirates made it to the end of the pier. One of the first tried to jump aboard, but came up short. It was further away then he expected, and he splashed into the water. He bobbed up and down in the water, spitting up water as he went.
 
 Other pirates ran to the edge but could only watch as the ship drifted further out. They shouted a few choice words but could do nothing from the land.
 
-The pirate ships in the bay were a different story though. Captain Z and her band would need even more luck to get around them to escape the port.
+The pirate ships in the bay were a different story though. Captain Z would need even more luck to get around them to escape the port.
 
-All of Wind Drinker's sails were out now. They picked up speed and cut through the calm waters, making an arc out toward the bay's entrance. The land formed a sharp crescent around the water, with a narrow opening out to the ocean. On either side of the opening stood a guard tower, one for each peninsula.
+All of Wind Drinker's sails were out now. They picked up speed and cut through the calm waters, making an arc out toward the bay's entrance. The land formed a crescent around the water, with a narrow opening out to the ocean. On either side of the opening stood a guard tower, one for each peninsula.
 
 _If the guards were turn coats,_ the captain thought, _we could get blown out of the water from the cannons in those towers._
 
-Even if the towers were empty, the waterway between the two strips of land could be easily blocked by a handful of ships. If the pirates moved to trap them in, Wind Drinker would be stuck in a very small bit of water with a lot of angry pirates.
+Even if the towers were empty, the waterway between the two strips of land could be easily blocked by a ship or two. If the pirates moved to trap them in, Wind Drinker would be stuck in a very small bit of water with all these angry pirates.
 
-But at first, none of the other ships moved to stop them. The pirates seemed as if they didn't want to break formation, like they were afraid to get off track.
+But at first, none of the other ships moved to stop them. The pirates didn't want to break formation, they seemed afraid to get off track.
 
 _Perhaps they are afraid any noise might wake the town and spoil their surprise,_ Captain Z thought.
 
 Commotion or no, the town would be awake soon anyways. The sky was brighter now. The day was coming.
 
-Wind Drinker steered around two small pirate ships that were floating close to the piers. The captain and the children stared into the faces of the pirates aboard the nearest one. They were all glaring at the runaway ship, but weren't moving to stop it. Every few seconds they would look back toward the entrance to the port, as if they were watching for a signal of some sort.
+Wind Drinker steered around two small pirate ships that were floating close to the piers. The captain and the children stared into the faces of the pirates aboard the nearest one. They were all glaring at the runaway ship, but weren't moving to stop it. Every few seconds they would look back toward the entrance to the port, as if expecting a signal of some sort.
 
 Wind Drinker was half way to freedom when that signal came.
 
@@ -1310,7 +1310,7 @@ The sleeping townspeople didn't know it, but the war had begun.
 
 #
 
-As Captain Zephyr was sneaking towards her boat, Captain Spears was already on his. Waiting for the signal like all the other pirates in the bay who had made a pact with the leader behind this sinister plan.
+As Captain Zephyr had been sneaking towards her boat, Captain Spears was already on his. Waiting for the signal like all the other pirates in the bay who had made a pact with the leader behind this sinister plan.
 
 He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped he would avoid most of the action.
 
