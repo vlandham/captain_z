@@ -108,4 +108,10 @@ Hissy is his cat.
 
 ## Dr. Star
 
+Older lady. Similar age as Captain Spears. Captain Z's teacher and mentor as she grew up in Port Goodnews. Dr. Star started the school for orphans that Captain Z attended and returns to in the book. Patient, kind. 
+
 ## Kids
+
+Current residents of Dr. Star's school. 3 of them: Orion, Nova, and Lucy (stars!). Lucy is the youngest at 5.
+
+Nova and Orion are brother and sister. Nova is older, I think 9. Orion is 8. Something like that. 

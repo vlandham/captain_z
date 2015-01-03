@@ -1,0 +1,39 @@
+
+body, input, textarea {
+  font-family: Arial, sans-serif;
+}
+
+#main p {
+  font-size: 30px;
+  line-height: 50px;
+}
+
+.axis {
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 18px sans-serif;
+  fill: #777;
+}
+
+.x.axis line {
+  stroke: #ddd;
+  stroke-opacity: 0.6;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.title {
+  font-size: 11px;
+  /* stroke: black; */
+  /* stroke-width:3px; */
+}
+
+.line {
+  stroke: #777;
+  fill:none;
+  stroke-width: 1.2
+}
