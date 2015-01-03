@@ -1168,7 +1168,7 @@ Captain Z stared at the decoded message, trying to grasp its full meaning.
 
 A war? A battle, with pirates? That couldn't be right. She must have made a mistake.
 
-The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the Eastern cities, but still had more guards and galleys than many of them. Certainly no pirate would be dumb enough to attack the city outright.
+The Port of Goodnews was one of the most guarded cities in all the Western Waters. It was small, compared to some of the cities of the Eastern Coast, but still had more guards and galleys than many of them. Certainly no pirate would be dumb enough to attack the city outright.
 
 Still, the message filled Captain Z with dread. It was now Friday morning. In an hour or so, the sun would begin to rise on a new day.
 
@@ -1312,7 +1312,7 @@ The sleeping townspeople didn't know it, but the war had begun.
 
 As Captain Zephyr had been sneaking towards her boat, Captain Spears was already on his. Waiting for the signal like all the other pirates in the bay who had made a pact with the leader behind this sinister plan.
 
-He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped he would avoid most of the action.
+He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped to avoid most of the action.
 
 Spears had agreed to join the battle against the Port of Goodnews, not because he wanted to capture the city, but because he feared what would happen to him if he refused. The whole ordeal left a sour taste in his mouth. _Waiting in the water like eels in the dark,_ he thought, _it doesn't seem right._
 
@@ -1320,41 +1320,45 @@ As they say, a fight is no fun if your match doesn't know they are fighting.
 
 Still, he was there waiting in the dark, just the same.
 
-As he was thinking about this, he heard strange noises coming from far off on the shore. He turned to gaze out with his red eye to see what was going on. The eye focused on a big black bird. The same big black bird he had watched on Castle Island! It was cawing and diving at a few pirates on the pier who were messing about with a boat.
+As he was thinking about this, he heard strange noises coming from far off on the shore. He turned to gaze out with his red eye to see what was going on. The eye focused on a big black bird, a crow. The same crow he had seen on Castle Island! It was screeching and diving at pirates on the pier near a familar looking boat.
 
-His eye lit up at the sight of the bird. _What is that thing doing in Goodnews?_ Spears wondered. _It should be still mourning its long lost captain out on Castle Island._
+His eye lit up at the sight of the bird. _What is that thing doing in Goodnews?_ Spears wondered. _It should be still mourning the loss of its poor little captain out on Castle Island._
 
-Then, he saw Captain Zephyr running down the pier toward the boat.
+Then, he saw Captain Zephyr herself running down the pier toward her ship. Captain Spears nearly fell overboard from the sight. She was alive!
 
-"Well I'll be a talkin' gator," he muttered.
+"Well I'll be a talkin' gator," he said to himself.
 
 She was far off, but his red eye made sure it was her. The eye was glowing hot now, like an iron just out of the fire.
 
-She should be dead, but wasn't. Which meant that perhaps the lost treasure wasn't really lost either.
+She should be dead, but wasn't. Which meant that perhaps the lost treasure of Castle Island wasn't really lost either.
 
-The flare caught his eye as it shot out from the leader's ship. Captain Spears watched it as it lit the sky red over the water. He saw the other captains dutifully follow their orders to start the attack. But Captain Spears now had another reason not to join in the battle. If he could block Wind Drinker from leaving the bay, perhaps he could get his hands on the treasure Captain Zephyr had stolen.
+Then the flare shot up from the leaders boat. The signal to start the invasion.
 
-He spoke in a whisper to his crew to explain the plan. Then he gave the order and the Sea Breaker started slowly making its way toward the entrance to the bay.
+Captain Spears watched it as it lit the sky red over the water. He saw the other captains dutifully follow their orders to start the attack. But Captain Spears now had another reason not to join in the battle. If he could block Wind Drinker from leaving the bay, perhaps he could get his hands on the treasure Captain Zephyr had stolen.
 
-If Captain Zephyr wanted out, she would have to get through Spears and his crew.
+He spoke in a hushed voice to his crew to explain the plan. Then he gave the order and the Sea Breaker started slowly making its way toward the entrance to the bay.
+
+If Captain Zephyr wanted out, she would have to get through Spears and the Sea Breaker.
 
 #
 
-Almost all of the attackers were focused on the town and didn't even notice Wind Drinker sprinting out of the port. But one of the two ships Captain Z passed before the signal was given had started to give chase. They had pulled their sails about to turn around to follow Captain Z and her crew of children.
+With all the commotion, most of the attackers didn't even notice Wind Drinker sprinting out of the port. But one of the two ships Captain Z passed started to give chase. They pulled their sails around to turn and follow Captain Z as she steered away from the pier.
 
-It was Captain Pete Moss who gave the order to pursue Wind Drinker. Captain Z recognized him as they pulled in behind. Captain Moss had a slow ship and a slower crew. They were weighted down with a slew of cannons he was itching to use. And he would have used them on Wind Drinker if the port hadn't been so crowded with other pirate ships. One missed shot and he could sink a fellow attack boat. Even Captain Moss was bright enough to know the trouble he would be in if he was responsible for such a mishap.
+It was Captain Pete Moss on the ship following Wind Drinker. Captain Z recognized him as they pulled in behind. 
 
-So, Captain Moss trailed behind Captain Z's ship as it weaved to and fro between the other ships in the harbor. Captain Z took her ship wide around the pirate swarm to stay clear of their cannons firing into the city.
+Captain Moss had a slow ship and a slower crew. They were weighted down with a slew of cannons he was itching to use. And he would have used them on Wind Drinker if the port hadn't been so crowded with other pirate ships. One missed shot and he could sink an attacking ship.
 
-Though even from their distance, the cannon blasts were loud and scary. Lucy hid at the back of the boat and covered her ears. Orion and Nova kept their heads up, but ducked down at every nearby blast.
+So, Captain Moss trailed behind Captain Z's ship as it weaved to and fro between the other ships in the harbor. Captain Z took her ship wide around the pirate swarm to stay clear of the cannons firing into the city.
+
+Even from a distance, the cannon blasts were loud and scary. Lucy hid at the back of the boat and covered her ears. Orion and Nova kept their heads up, but ducked down with every nearby blast.
 
 Captain Moss was not a skilled sailor, nor was his crew accustom to taking orders. They all had spent the last year living the land lovers life in Bodega. Now out in the water again, the crew had lost their sea legs.
 
-So when Zephyr cut sharply through the water around a big galley of a ship, Pete Moss didn't follow. He tried though, shouting to the crew to tack in the sails and turning the wheel as hard as he could. But the ropes on the sails were tangled and twisted up and his big boat couldn't turn sharp enough.
+So when Zephyr cut sharply through the water around a big galley, Pete Moss didn't follow, though he tried. Shouting to the crew to tack in the sails and turning the wheel as hard as he could, his barge started into the turn. But the ropes on the sails were tangled and twisted up and his big boat couldn't turn sharp enough.
 
-The front side of his ship smashed into the back half of the galley with a deafening screech. Moss's ship took all the damage. It lurched to a stop, sending the Captain and his crew flying to the deck floor. Planks and other bits of wood were thrown across the water from where the boats hit. Moss got up to look at the front of his boat to find a huge gash where the sea water was already starting to flood in.
+The front side of his ship smashed into the back half of the galley with a deafening screech. Moss's ship took all the damage. It lurched to a stop, sending the Captain and his crew flying to the deck floor. Planks and other bits of wood were thrown across the water. Moss got up to look at the front of his boat to find a huge gash where sea water was flooding in.
 
-Moss started shouting to abandon ship, and within seconds he and his crew were lowering their rowboats into the water. The pirates swung down to the rowboats and started rowing as fast as they could while their ship tipped sideways into the water.
+Moss started shouting to abandon ship, and within seconds he and his crew were lowering their rowboats into the water. The pirates started rowing as fast as they could while their ship tipped sideways into the water.
 
 The ship sank completely into the water a few minutes later. Captain Moss and his crew watched it go down, then sadly rowed for shore.
 
@@ -1362,23 +1366,25 @@ The crew on the galley that had been hit watched them from their deck, making su
 
 Zephyr sailed on.
 
-With all the other pirates focused on the town, it looked like the way was clear for them to escape.
+With all the other pirates focused on the town, or the crash, it looked like the way was clear for them to escape.
 
-Captain Z pulled Wind Drinker around to point directly at the entrance to the bay. It was still open, and clear of any ships. Despite the cannon fire and the commotion all around, Captain Z smiled at her luck. _We made it,_ she thought.
+Captain Z pulled Wind Drinker around to point directly at the entrance to the bay. It was still open, and free of ships. Despite the cannon fire and the commotion all around, Captain Z smiled at her luck. _We made it,_ she thought.
 
-That's when she saw the Sea Breaker slowly maneuvering through the waters towards the entrance. Captain Z's hear was gripped with fear. Spears was going to cut them off before they made it out!
+That's when she saw the Sea Breaker slowly maneuvering through the waters towards the entrance. Captain Z's hear was gripped with fear. Spears had seen her, and was going to cut them off before they made it out!
 
 #
 
-Captain Z panicked. The Sea Breaker was big enough to block much of their way out. Wind Drinker could probably dodge around the big ship, but then they would be in open water. Out there, with no other ships around, Captain Spears would be free to blast away with his cannons. Captain Z knew her ship couldn't stand up to that kind of fire power. They would be helpless if Spears attacked. The game would be up.
+Captain Z panicked. The Sea Breaker was big enough to block much of their way out. Wind Drinker could probably dodge around it, but then they would be in open water. Out there, with no other ships around, Captain Spears would be free to blast away with his cannons. Captain Z knew her ship couldn't stand up to that kind of fire power. They would be helpless if Spears attacked. The game would be up.
 
-If Spears and his crew boarded the ship, Captain Z would most likely be held captive. The children would be prisoners in the Port of Goodnews, with no one to protect them. And the feathers would certainly be stolen.
+If Spears and his crew boarded the ship, Captain Z would most likely be held captive. The children would be prisoners in the Port of Goodnews, with no one to protect them. And the feathers would be stolen.
 
 The feathers!
 
-Captain Z had forgotten her treasure, but now she wondered if they might work on her steed of a ship, Wind Drinker. There was only one way to find out.
+Captain Z had forgotten her treasure, but now she wondered if they might be her one chance out. 
 
-She roped the wheel steady so that it stayed on course. They were still headed right for the entrance to the bay. But the Sea Breaker was reaching the entrance already. It slowed near the western edge of the entrance.
+_What if Wind Drinker is my steed?_ She wondered. There was only one way to find out.
+
+She roped the wheel steady so that it stayed on course. They were still headed right for the entrance to the bay. The Sea Breaker was reaching the entrance already. It slowed near the western edge of the entrance.
 
 Captain Z pulled the feathers out of her pocket and looked them over. Then she slowly touched them to the ship's wheel.
 
@@ -1386,9 +1392,9 @@ Nothing happened.
 
 She didn't loose hope. Moving to the front deck, she tried the floor, the railing, and even the main mast. She touched the feather to each spot hoping for some magic to happen. But the feathers did nothing, and the ship remained in the water.
 
-Lucy, Orion, and Nova watched Captain Z frantically move about the ship, jamming the feathers here and there. They could feel the fear rising in their bellies. Even Muddle above started to caw frantically.
+Lucy, Orion, and Nova watched Captain Z frantically move about the ship, jamming the feathers here and there. They could feel the fear rising in their bellies. Even Muddle above started to caw with fear.
 
-Captain Spears had positioned his ship along the edge of the entrance. The crew started loading grape shot and mast breakers into the cannon. As Wind Drinker passed by, they would fire the shots and blast down the sails. Captain Z's ship would have no way to move and the treasure would be easy to get.
+Captain Spears had positioned his ship along the edge of the entrance to the port. The crew started loading grape shot and mast breakers into their cannons. As Wind Drinker passed by, they would fire the shots and blast down the sails. Captain Z's ship would have no way to move and the treasure would be as good as gotten.
 
 Captain Z, now desperate, ran around the whole ship from front to back with two of the feathers in each hand, trying to get her steed up in the air. Finally, she stopped and cried out in frustration.
 
@@ -1398,43 +1404,43 @@ Lucy looked up and uncovered her ears. She had an idea. In her loudest voice, sh
 
 Captain Z was confused until she saw that Lucy was pointing up. Captain Z looked up as well to see the sails of her ship blowing in the wind. _The sails,_ she thought, _of course!_
 
-Filled out and full of air, the sails did look a bit like wings. Just like the Pegasus of legend, perhaps the feathers could only work on the wings of the steed.
+Filled out and full of air, the sails did look a bit like wings. Just like the Pegasus of legend, perhaps the feathers would work as part of the wings of the steed.
 
 #
 
-It was their last chance. Wind Drinker was almost alongside the Sea Breaker as it neared the entrance. As soon as they were in range, Captain Spears would open fire.
+It was their last chance. Wind Drinker was almost alongside the Sea Breaker as it sped toward the entrance to the port. As soon as they were in range, Captain Spears would open fire.
 
 Captain Z ran to the mast and started climbing up the rope ladder to the sail. As she held on with one hand, she took two of the feathers in the other hand and jammed them into the sail cloth. The quill of one of the feathers stuck.
 
-Instantly, the boat jolted. The hull creaked loudly as it lifted up partway out of the water.
+Instantly, the boat jolted. The hull creaked loudly and lifted up partway out of the water.
 
-They were starting to float, but it wasn't enough.
+It worked! They were starting to float, but it wasn't enough. They were only a few feet out of the water.
 
-With the jolt, Captain Z was thrown back and swung wide on the ladder. She swung herself back to the sail and jabbed the second feather into the sail.
+The jolt threw Captain Z back and she swung away holding on to the ladder. She swung herself back toward the sail and jabbed in the second feather.
 
 The ship creaked again as it lifted up completely out of the water. Now they were skimming across the surface of the sea, and they were moving at a breakneck speed.
 
-In two seconds, they would skim right in front of the Sea Breaker. Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up to jab them both into the sail.
+In two seconds, they would skim right in front of the Sea Breaker. Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up into the sail. Both feathers stuck to the sail as Captain Z fell down to the ground.
 
 Wind Drinker lurched into the air like a wind powered rocket.
 
-Captain Spears and his crew stood slack-jawed and silent. Their necks craned up as Captain Z sailed her ship over their heads and out towards the sea. No one could speak. Spears's eye changed to a brilliant yellow as he watched the flying vessel in awe and wonder.
+Captain Spears and his crew stood slack-jawed and silent. Their necks craned up as Captain Z's ship sailed over their heads and out towards the sea. No one could speak. Spears's eye changed to a brilliant yellow as he watched the flying vessel, not believing what he was seeing.
 
-Wind Drinker flew steadily up and up until finally leveling off high in the sky. Muddle flew right along next to Captain Z and weaved back and forth among the masts deck as they went. The children realized they had escaped and were now flying and they began to cheer.
+Wind Drinker flew steadily up and up until finally leveling off high in the sky. Muddle flew along next to Captain Z and weaved back and forth among the masts deck as they went. The children began to cheer when they realized they had somehow escaped.
 
-Captain Z lashed the feathers to the sail with a bit of rope and jumped down to join in the celebration.
+Captain Z lashed the feathers to the sail with a bit of string and jumped down to join in the celebration.
 
-With no water to slow it down, the ship flew as fast as the wind. Captain Spears and his crew were soon just a small dot on the horizon. _But how do I steer?_ Captain Z wondered. Without water to push around, a rudder should be of no use. She decided to try the wheel anyways, just to be sure. She untied the ropes that were keeping the wheel from moving and slowly started to turn it.
+With no water to slow it down, the ship flew as fast as the wind. The Sea Breaker was soon just a small dot on the horizon. _But how do I steer?_ Captain Z wondered. Without water to push around, a rudder should be of no use. She decided to try the wheel anyways, just to be sure. She untied the ropes that were keeping it steady and slowly started to turn it.
 
-Magically, the ship started to turn as well! The movement was faster than what you would expect in the water, but that was no problem for Captain Z. She would learn to fly this ship just as well as she could sail it.
+Magically, the ship started to turn as well! The movement was faster than what you would expect in the water, but that was no problem for Captain Z. She would learn to fly the ship just as well as she could sail it.
 
 #
 
-The cheering stopped as the children turned to look back to see a glimpse of the destruction of the Port of Goodnews. It was far off in the distance now, but they could still make out smoke and fire coming from the buildings near the bay. The pirates were taking the city for themselves.
+The cheering stopped as the children turned to look back to see a glimpse of the destruction of the Port of Goodnews. It was far off now in the distance now, but they could still make out smoke and fire coming from the buildings near the bay. The pirates were no doubt taking the city for themselves.
 
 "The people need our help," Nova said.
 
-"They need help, Aye," Captain Z said. "But one ship won't do a lick of good, even if it can fly." She turned to look at Nova and the other two children that she had sworn to protect. "We can't save Goodnews, least not by ourselves."
+"They need help, Aye," Captain Z said. "But one ship won't do a lick of good, even one that flys." She turned to look at Nova and the other two children that she had sworn to protect. "We can't save Goodnews, least not by ourselves."
 
 Nova looked sad. "Then where do we go to get help?" She asked.
 
@@ -1444,17 +1450,17 @@ Captain Z looked out over the water at the breathtaking sunrise. The sky glowed 
 
 No one in the Western Waters was strong enough to fight back a pirate crew that could take Port Goodnews. If what the note said was true, that this was a war and not just one fight, then this morning's attack was only the beginning of something much bigger.
 
-The Eastern Coast would be their only hope for finding help. The armies there could march down and put a quick end to the pirate war. _If they believe us,_ Captain Z thought, _and if they come._
+The Eastern Coast would be their only hope for finding help. The armies there could march down and put a quick end to any pirate uprising. _If they believe us,_ Captain Z thought, _and if they agree to help._
 
-The Eastern Coast was a long trip by sea, but to fly there would be a different story. _As long as the wind blows strong, we might get there in time,_ Captain Z thought. It would still be a tough trek, certainly one Captain Z had never tried before, though she knew the way. They would have to make it over the Porter mountains and then through the desert of Casper.
+Getting there was a long trip by sea, but to fly would be a different story. _As long as the wind blows strong, we might get there in time,_ Captain Z thought. It would still be a tough trek, one Captain Z had never tried before, though she knew the way. They would have to make it over the Porter mountains and then through the Casperian desert.
 
-Orion, Nova, and Lucy walked over next to their captain to squint into the sunrise and look out. They would all need to learn quickly and work together if the plan was to be a success.
+Orion, Nova, and Lucy walked over next to their captain to squint into the sunrise and look out. They would need to learn quickly how to help aboard Wind Drinker and work together if the plan was to be a success.
 
 Lucy was thinking about something and frowned as she looked up at Captain Z.
 
-"Are we pirates now too?" She asked. She knew Captain Z called herself a pirate, and that was fine, but otherwise, she wasn't very fond of any other that she knew of. She didn't want to have to be a pirate, if she didn't have to.
+"So, are we pirates now?" She asked. She knew Captain Z called herself a pirate, and that was fine, but otherwise, she wasn't very fond of any pirates that she knew of. She didn't want to have to be a pirate, if she didn't have to.
 
-"Not pirates," Captain Z said. "The name's a bad fit."
+"Not pirates," Captain Z said. "That name's a bad fit."
 
 _But then what are we?_ The captain thought.
 
@@ -1464,7 +1470,7 @@ Captain Z thought the name over in her head, then nodded her head yes. _Adventur
 
 "Captain Z and the Adventurers," Nova said again, and smiled.
 
-As Captain Z returned to the ship's wheel, her mind turned to all those pirates in the Port of Goodnews, and who could be leading such a plan. _Who's cruel enough and powerful enough to make that many pirates fight together?_ She wondered. Certainly not Captain Spears. He was greedy, to be certain, but he would never want a whole town to call his own. And he certainly didn't have enough smarts to make a plan like that work.
+As Captain Z returned to the ship's wheel, her mind turned to all those pirates in the Port of Goodnews, and who could be the leader of such a crew. _Who's cruel enough and powerful enough to make that many pirates fight together?_ She wondered. Certainly not Captain Spears. He was greedy, to be certain, but he would never want a whole town to call his own. And he certainly didn't have enough smarts to make a plan like that work.
 
 No. Someone far more cruel was behind this war. Controlling the pirates like pieces on a chessboard. It made Sophia's skin crawl just to think about someone that terrible.
 
@@ -1472,14 +1478,15 @@ _Whoever it is, we'll make him pay,_ she decided.
 
 #
 
-So our hero, no longer a pirate, but part of a crew of adventurers, sailed through the blue skies of the Western Waters, headed east as fast as they could fly.
+So our hero, no longer a pirate, but part of a crew of adventurers, sailed through the blue skies of the Western Waters, heading east as fast as they could fly.
 
 Over the mountains and through the desert, they would find an army to fight for the people of Goodnews and others in the Western Waters. At least that was the plan.
 
-The Port of Goodnews would be captured no doubt by the pirates, probably even before the sun set on the day. And then whoever was leading those scoundrels would most likely turn their eyes to other nearby towns. Captain Z hoped that few people would be hurt in the attacks, and that someone in the eastern cities would listen to their story. The quicker they could find help and come back to fight, the better.
+The Port of Goodnews would be captured no doubt by the pirates, probably even before the sun set on the day. And then whoever was leading those scoundrels would most likely turn their eyes to other nearby towns. Captain Z hoped that there would be few people hurt in the attacks. She hoped someone in the cities of the Eastern Coast would listen to their story and come to stop the invasion. The quicker they could find help and come back to fight, the better.
 
-Muddle swooped down to land on her perch near the captain's wheel. She kept her wings outstretched, letting the wind blow through them as she held on to the stand with her feet. She was plesently surprised to have company up here in the air.
+Muddle swooped down to land on her perch near the captain's wheel. She kept her wings outstretched, letting the wind blow through them as she held on to the stand with her feet.
 
 Nova, Orion, and Lucy continued to stare out into the wide ocean they were travelling above. Soon enough they would need to get to work, learning the ins and outs of the ship and how to manage it. They would also need to chart the course they would take out to the Eastern Coast. But for now, Captain Z let them enjoy the view.
 
 This would be the beginning of their adventures.
+
