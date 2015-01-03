@@ -114,4 +114,4 @@ Older lady. Similar age as Captain Spears. Captain Z's teacher and mentor as she
 
 Current residents of Dr. Star's school. 3 of them: Orion, Nova, and Lucy (stars!). Lucy is the youngest at 5.
 
-Nova and Orion are brother and sister. Nova is older, I think 9. Orion is 8. Something like that. 
+Nova and Orion are brother and sister. Nova is older, I think 9. Orion is 8. Something like that. They end up going with Captain Z to become adventurer sailors at the end of the book.

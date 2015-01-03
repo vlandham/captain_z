@@ -109,7 +109,7 @@ Plot = () ->
       .attr("cy", yScale.rangeBand() / 2 )
       .attr("r", (d) -> if d.type == "story" then 8 else 5)
       .attr("fill", "#777")
-      .on("mouseover", mouseover)
+      # .on("mouseover", mouseover)
 
     eventsG
       .append("line")
@@ -133,9 +133,11 @@ Plot = () ->
       html:true
       title: () ->
         d = this.__data__
-        person = d3.select(this.parentNode).datum()
+        person = d3.select(this.parentNode.parentNode).datum()
+        console.log(person)
         age = getAge(person.events[0].date, d.date)
-        "<strong>#{d.title}</strong><br/>#{datePrint(d.date)}<br/>age: #{age}"
+        desc = if d.desc then d.desc else ""
+        "<strong>#{d.title}</strong><br/>#{datePrint(d.date)}<br/>#{desc}<br/>age: #{age}"
     })
     
 

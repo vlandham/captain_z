@@ -17,17 +17,17 @@
   ]},
   {"name":"Nova", "events":[
     {"title":"Birth", "date":"03/13/1713"},
-    {"title":"Start Star School", "date":"08/01/1720", "type":"story"},
-    {"title":"Steals Map", "date":"07/11/1722", "desc":"The start of the story", "show":false}
+    {"title":"Start Star School", "desc":"Enter in to Dr. Star's school", "date":"08/01/1720", "type":"story"},
+    {"title":"Book Begins", "date":"07/11/1722", "show":true}
   ]},
   {"name":"Orion", "events":[
     {"title":"Birth", "date":"07/02/1714"},
     {"title":"Start Star School", "date":"08/01/1720", "type":"story"},
-    {"title":"Steals Map", "date":"07/11/1722", "desc":"The start of the story","show":false}
+    {"title":"Book Begins", "date":"07/11/1722", "show":true}
   ]},
   {"name":"Lucy", "events":[
     {"title":"Birth", "date":"01/01/1717"},
     {"title":"Start Star School", "date":"08/01/1721", "type":"story"},
-    {"title":"Steals Map", "date":"07/11/1722", "desc":"The start of the story", "show":false}
+    {"title":"Book Begins", "date":"07/11/1722", "show":true}
   ]}
 ]
