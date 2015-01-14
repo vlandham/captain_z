@@ -1,6 +1,8 @@
 
 #
 
+![](img/captain_z.png)
+
 Our story begins, as most pirate stories do, in the dark.
 
 The low glow of a lamp, running out of oil, was nearly the only light about. The glow of the stars and moon up above helped a bit, but its always darkest, as they say, just before the dawn.
@@ -258,6 +260,8 @@ There was a chance she would never crack the code, leaving the plans a secret. Y
 Captain Spears needed that letter and the map before everything was ruined. He couldn't bear to think of the trouble he'd be in if it was found he let it all get stolen. Just the idea sent shivers down his back.
 
 #
+
+![](img/muddle.png)
 
 The rowboat skidded into the shallow water near the beach. Jumping out into the shallows, Captain Z pulled the little boat up on the shore.
 
@@ -662,6 +666,8 @@ Captain Z had been rowing for an hour and was getting close to a tiny cove behin
 Captain Spears and his crew hadn't seen the spot, as they came down from the North and had stayed anchored in plain sight. They weren't looking for a place to hide, as they didn't expect to find anyone here.
 
 But Captain Z had done things differently. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant monster of a boat, Captain Spears's Sea Breaker, probably wouldn't have fit anyway.
+
+![](img/wind_drinker.png)
 
 Wind Drinker was different. Captain Z was the entire captain and crew of the whole ship. It was tricky, but with her custom riggings, cranks, and cables, the boat could be managed by a crew of one. Captain Z had made it all the way to Castle Island by herself.
 
