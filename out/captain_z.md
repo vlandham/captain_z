@@ -111,6 +111,8 @@ Now, there are a pages and pages of stories I could tell of the terrible Captain
 
 Everyone and their grandmother knows the story of how Spears, in a rage, threw two of his own men overboard just for playing cards. When the were dragged back on board, still spitting and sputtering, Captain Spears just snarled and said, "Ye can play when the workin's done."
 
+![](img/capt_spears.png)
+
 Then, there was the time he poked a hole in another pirates brand new hat, just because Spears thought the other pirate looked at him funny.
 
 Or, the time he captured ten dolphins and tied their tails together. Then he spent a whole day skiing behind them as they pulled him through the water, shouting "Look at me! King o' the fishes! King o' the sea!"
@@ -355,6 +357,8 @@ Captain Z didn't know which of the stories to believe, but she knew Castle Islan
 
 #
 
+![](img/castle_island.png)
+
 Now Sophia had finally found the island, and was close to finding the treasure. But she had to move fast, else all might be lost.
 
 Captain Z was at the base of the cliffs, looking back and forth in the dark for a path. The cliffs were so steep at the bottom that no one would be able to climb them.
@@ -573,6 +577,8 @@ She didn't even have time to scream as she fell backwards, down to the rocks and
 
 #
 
+![](img/fall_from_castle_island.png)
+
 The captain's eyes were shut tight while she braced for the crash. She expected the end to be terrible.
 
 But the end never came.
@@ -695,6 +701,8 @@ Captain Z set course for the Port of Goodnews, the biggest town in the West Wate
 
 #
 
+![](img/port_of_goodnews.png)
+
 The fast sails of Wind Drinker brought Captain Z to the Port of Goodnews as night fell on the city.
 
 The harbor master was paid extra to keep his mouth shut about the ship, but Captain Z knew it hardly mattered. If someone wanted to find out she was there, it would happen. She would be gone soon anyways. Since she had turned to pirating, Goodnews wasn't the kind of town she liked to stay in long.
@@ -716,8 +724,6 @@ It was well past closing time, but Captain Z knocked just the same. After a few 
 The two walked into the boarding school and closed the door behind them.
 
 #
-
-![](img/dr_star_n_kids.png)
 
 Sophia Zephyr still knew her way around all the odd twists and turns to get to the main room. Although it had been a year since she last visited, it was still all very familiar. As a child, Sophia had grown up inside this school.
 
@@ -834,6 +840,8 @@ Captain Z offered to help.
 
 By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries on the table. Everyone thanked Lucy and Sophia, for the delicious start to the day.
 
+![](img/dr_star_n_kids.png)
+
 After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
 
 "Why don't you all go into town together," she said as she was packing up her things. "You can go see Walter and get some food at the market for supper tonight."
@@ -943,6 +951,8 @@ He tossed the apple to Captain Z who caught it with one hand.
 Hearing that word made all other people around them in the market stop and stare at the captain. As Captain Z knew, pirates were forbidden to enter Port Goodnews. Any pirate caught in town could be locked up for a very long time.
 
 Even if you weren't really a pirate, just being called one could get you into a lot of trouble. Captain Z had learned these lessons the hard way.
+
+![](img/running.png)
 
 _He would have branded me a pirate no matter what I did,_ Captain Z realized. _But unlucky for them, it happens to be true._
 
@@ -1324,6 +1334,8 @@ As Captain Zephyr had been sneaking towards her boat, Captain Spears was already
 
 He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped to avoid most of the action.
 
+![](img/battle_of_the_port.png)
+
 Spears had agreed to join the battle against the Port of Goodnews, not because he wanted to capture the city, but because he feared what would happen to him if he refused. The whole ordeal left a sour taste in his mouth. _Waiting in the water like eels in the dark,_ he thought, _it doesn't seem right._
 
 As they say, a fight is no fun if your match doesn't know they are fighting.
@@ -1418,8 +1430,6 @@ Filled out and full of air, the sails did look a bit like wings. Just like the P
 
 #
 
-![](img/flying_ship.png)
-
 It was their last chance. Wind Drinker was almost alongside the Sea Breaker as it sped toward the entrance to the port. As soon as they were in range, Captain Spears would open fire.
 
 Captain Z ran to the mast and started climbing up the rope ladder to the sail. As she held on with one hand, she took two of the feathers in the other hand and jammed them into the sail cloth. The quill of one of the feathers stuck.
@@ -1432,7 +1442,11 @@ The jolt threw Captain Z back and she swung away holding on to the ladder. She s
 
 The ship creaked again as it lifted up completely out of the water. Now they were skimming across the surface of the sea, and they were moving at a breakneck speed.
 
-In two seconds, they would skim right in front of the Sea Breaker. Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up into the sail. Both feathers stuck to the sail as Captain Z fell down to the ground.
+In two seconds, they would skim right in front of the Sea Breaker. 
+
+![](img/flying_ship.png)
+
+Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up into the sail. Both feathers stuck to the sail as Captain Z fell down to the ground.
 
 Wind Drinker lurched into the air like a wind powered rocket.
 
