@@ -701,8 +701,6 @@ Captain Z set course for the Port of Goodnews, the biggest town in the West Wate
 
 #
 
-![](img/port_of_goodnews.png)
-
 The fast sails of Wind Drinker brought Captain Z to the Port of Goodnews as night fell on the city.
 
 The harbor master was paid extra to keep his mouth shut about the ship, but Captain Z knew it hardly mattered. If someone wanted to find out she was there, it would happen. She would be gone soon anyways. Since she had turned to pirating, Goodnews wasn't the kind of town she liked to stay in long.
@@ -834,13 +832,13 @@ The night ended with a hug. Captain Z found a cozy couch and a warm blanket and 
 
 #
 
+![](img/dr_star_n_kids.png)
+
 The next morning, bright and early, Sophia was woken up by the banging of pots and pans in the kitchen. When she staggered in to see what was making all the commotion, she found Lucy. Lucy had decided she wanted to make everyone breakfast, and was trying her best to figure out how.
 
 Captain Z offered to help.
 
 By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries on the table. Everyone thanked Lucy and Sophia, for the delicious start to the day.
-
-![](img/dr_star_n_kids.png)
 
 After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
 
@@ -952,11 +950,11 @@ Hearing that word made all other people around them in the market stop and stare
 
 Even if you weren't really a pirate, just being called one could get you into a lot of trouble. Captain Z had learned these lessons the hard way.
 
-![](img/running.png)
-
 _He would have branded me a pirate no matter what I did,_ Captain Z realized. _But unlucky for them, it happens to be true._
 
 The guards inched closer.
+
+![](img/running.png)
 
 Captain Z felt the apple in her hand. She threw it hard underhanded straight from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head, apple mush all over his face.
 
@@ -1183,6 +1181,8 @@ CAPTAINS AND PIRATES
 ```
 
 #
+
+![](img/port_of_goodnews.png)
 
 Captain Z stared at the decoded message, trying to grasp its full meaning.
 
