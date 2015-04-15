@@ -6,7 +6,7 @@ count: 01
 
 ## Setting
 
-Story occurs in a fictionalized time and place, approximately equivalent to the year 1722. The differences being the location names, and the lack of sexism or racism (and if you notice any of either - please let me know!). 
+Story occurs in a fictionalized time and place, approximately equivalent to the year 1722. The differences being the location names, and the lack of sexism or racism (and if you notice any of either - please let me know!).
 
 Pirates are plentiful in this land. The local governments have not been powerful enough to protect ships from their attacks.
 
@@ -19,6 +19,23 @@ Captain of the ship the Wind Drinker.
 ### Backstory
 
 Captain Z is 22 years old. An orphan. She was born in the Port of Goodnews, and was cared for by Dr. Star at her orphanage/school since the age of 3.
+
+Potential history:
+
+ - Was part of Dr. Star's first class at the boarding school
+ - 3 other kids were part of this first class, making 2 boys and 2 girls
+ - stays nearly 3 years with Dr. Star
+ - Age 10, goes to work on a merchant ship
+ - Switches to pirate ship when merchant ship is attacked
+ - 15 years old when she joins the crew of the Wind Drinker
+ - Wind Drinker's original captain is a woman - "Captain Crown" ? (from Zia)
+ - Captain and Sophia become close friends in a short amount of time
+ - Original captain retires and leaves ship to Sophia - making her Captain Z.
+ - Rest of the crew mutinies and attempts to take control of the ship
+ - Captain Z wins the ship but looses the crew.
+ - Goes back to Port of Goodnews to fix up ship
+ - blacksmith friend - who was also part of original Dr Star class - mechanizes ship to make it runnable by single person
+ - captain z goes out to pursue castle island treasure
 
 ### Description
 
@@ -36,7 +53,7 @@ She also wears a feathered hat of some sort - something piratey.
 
 ### Muddle the Crow
 
-Her pet trained crow. 
+Her pet trained crow.
 
 From the book:
 
@@ -49,7 +66,7 @@ From the book:
 
 Captain Z's boat. She served as a shipmate aboard under the previous captain before inheriting it. When Captain Z took over, the rest of the crew mutinied. Captain Z kept the ship, but lost the crew.
 
-Afterwards, Captain Z had the boat retro fitted with pulley systems and gearing to allow her to setup and sail the boat singlehandedly.  
+Afterwards, Captain Z had the boat retro fitted with pulley systems and gearing to allow her to setup and sail the boat singlehandedly.
 
 ### Potential Inspiration
 
@@ -76,7 +93,7 @@ From the book:
 
 > Some people said it was a magic eye, and could kill a man with only a glare. Others said that Spears was cursed by a foul witch, and the eye was markings of that spell. Others said that he couldn't see a wink out of it at all, a blindness caused by a run in with a poisonous jellyfish when he was just a child.
 
-> No one knew who was right or wrong about Captain Spears and his eye. But it did seem to glow in the night, like the flame from a candle. And at times it changed color, from red to yellow, or even blue. 
+> No one knew who was right or wrong about Captain Spears and his eye. But it did seem to glow in the night, like the flame from a candle. And at times it changed color, from red to yellow, or even blue.
 
 > The eye only added to the fearfulness other pirates felt when they spoke of Captain Spears.
 
@@ -90,7 +107,7 @@ Old Jon Thumb: older man. Missing one of his thumbs.
 
 Sally Snake Eye: middle aged woman. Only one eye.
 
-Golden George: younger man. 
+Golden George: younger man.
 
 Barnacle Bill: the dumb one.
 
@@ -108,7 +125,7 @@ Hissy is his cat.
 
 ## Dr. Star
 
-Older lady. Similar age as Captain Spears. Captain Z's teacher and mentor as she grew up in Port Goodnews. Dr. Star started the school for orphans that Captain Z attended and returns to in the book. Patient, kind. 
+Older lady. Similar age as Captain Spears. Captain Z's teacher and mentor as she grew up in Port Goodnews. Dr. Star started the school for orphans that Captain Z attended and returns to in the book. Patient, kind.
 
 ## Kids
 
