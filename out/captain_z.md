@@ -675,11 +675,11 @@ Captain Spears and his crew hadn't seen the spot, as they came down from the Nor
 
 But Captain Z had done things differently. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant monster of a boat, Captain Spears's Sea Breaker, probably wouldn't have fit anyway.
 
-![](img/wind_drinker.png)
-
 Wind Drinker was different. Captain Z was the entire captain and crew of the whole ship. It was tricky, but with her custom riggings, cranks, and cables, the boat could be managed by a crew of one. Captain Z had made it all the way to Castle Island by herself.
 
 Captain Z rowed around the bend at the southern tail of the island and slipped into the little cove. Wind Drinker was there waiting for her. Muddle cawed from above and landed on the ship's front mast.
+
+![](img/wind_drinker.png)
 
 There was a ladder and a hook attached to a rope on the back end of the ship. Captain Z fixed the hook on the front of the rowboat, then used the ladder to get on deck.
 
@@ -832,8 +832,6 @@ The night ended with a hug. Captain Z found a cozy couch and a warm blanket and 
 
 #
 
-![](img/dr_star_n_kids.png)
-
 The next morning, bright and early, Sophia was woken up by the banging of pots and pans in the kitchen. When she staggered in to see what was making all the commotion, she found Lucy. Lucy had decided she wanted to make everyone breakfast, and was trying her best to figure out how.
 
 Captain Z offered to help.
@@ -841,6 +839,8 @@ Captain Z offered to help.
 By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries on the table. Everyone thanked Lucy and Sophia, for the delicious start to the day.
 
 After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
+
+![](img/dr_star_n_kids.png)
 
 "Why don't you all go into town together," she said as she was packing up her things. "You can go see Walter and get some food at the market for supper tonight."
 
@@ -954,8 +954,6 @@ _He would have branded me a pirate no matter what I did,_ Captain Z realized. _B
 
 The guards inched closer.
 
-![](img/running.png)
-
 Captain Z felt the apple in her hand. She threw it hard underhanded straight from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head, apple mush all over his face.
 
 Captain Z took off.
@@ -965,6 +963,8 @@ Grabbing Lucy's hand again, she started running away from the fruit stand.
 "Let's go!" She ordered the other two children. Nova and Orion followed, running as fast as they could.
 
 People in the crowd watching the ordeal jumped back as the guards pulled out their swords and started following. The first guard was still wiping the mush off as he ran.
+
+![](img/running.png)
 
 The apple had slowed the guards a bit, but not by much. Captain Z tried to loose them in the crowds by running zip-zag through the stalls and people. Still the guards followed. They were getting closer.
 
@@ -1334,13 +1334,13 @@ As Captain Zephyr had been sneaking towards her boat, Captain Spears was already
 
 He had put his boat, the Sea Breaker, far out in the waters, near the port's entrance. He hoped to avoid most of the action.
 
-![](img/battle_of_the_port.png)
-
 Spears had agreed to join the battle against the Port of Goodnews, not because he wanted to capture the city, but because he feared what would happen to him if he refused. The whole ordeal left a sour taste in his mouth. _Waiting in the water like eels in the dark,_ he thought, _it doesn't seem right._
 
 As they say, a fight is no fun if your match doesn't know they are fighting.
 
 Still, he was there waiting in the dark, just the same.
+
+![](img/battle_of_the_port.png)
 
 As he was thinking about this, he heard strange noises coming from far off on the shore. He turned to gaze out with his red eye to see what was going on. The eye focused on a big black bird, a crow. The same crow he had seen on Castle Island! It was screeching and diving at pirates on the pier near a familar looking boat.
 

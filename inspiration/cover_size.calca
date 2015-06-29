@@ -1,0 +1,16 @@
+@precision = 5
+page_mult = 0.002252
+bleed = 0.125
+page_num = 111
+
+spine_width = page_mult * page_num => 0.24997
+
+
+page_width = 5.5
+page_height = 8.5
+
+width = bleed + page_width + spine_width + page_width + bleed => 11.49997
+
+height = bleed + page_height + bleed => 8.75
+
+
