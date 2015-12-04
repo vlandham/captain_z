@@ -263,13 +263,13 @@ Captain Spears needed that letter and the map before everything was ruined. He c
 
 #
 
-![](img/muddle.png)
-
 The rowboat skidded into the shallow water near the beach. Jumping out into the shallows, Captain Z pulled the little boat up on the shore.
 
 Her arms were tired and sore from all that rowing. She grabbed the chest from the boat and dragged it up the beach.
 
 She made it to the first palm tree that was growing out on the beach, then she turned around and gave a little whistle and two clicks.
+
+![](img/muddle.png)
 
 Out of the black sky swooped a big black bird. It cawed as it flew up to the palm tree. It perched in the tree and peered down at the chest in Captain Z's hands.
 
@@ -671,13 +671,14 @@ Meanwhile Captain Z was on her way to getting off the empty bit of land known as
 
 #
 
-![](img/wind_drinker.png)
 
 Captain Z had been rowing for an hour and was getting close to a tiny cove behind a jagged little mountain, on the south end of the island. This was the place she had hidden her boat, Wind Drinker.
 
 Captain Spears and his crew hadn't seen the spot, as they came down from the North and had stayed anchored in plain sight. They weren't looking for a place to hide, as they didn't expect to find anyone here.
 
 But Captain Z had done things differently. When she had sailed for Castle Island, she had come around wide during the night. The little cove was a lucky find, and the perfect spot for her boat. That giant monster of a boat, Captain Spears's Sea Breaker, probably wouldn't have fit anyway.
+
+![](img/wind_drinker.png)
 
 Wind Drinker was different. Captain Z was the entire captain and crew of the whole ship. It was tricky, but with her custom riggings, cranks, and cables, the boat could be managed by a crew of one. Captain Z had made it all the way to Castle Island by herself.
 
@@ -834,6 +835,8 @@ The night ended with a hug. Captain Z found a cozy couch and a warm blanket and 
 
 #
 
+![](img/dr_star_n_kids.png)
+
 The next morning, bright and early, Sophia was woken up by the banging of pots and pans in the kitchen. When she staggered in to see what was making all the commotion, she found Lucy. Lucy had decided she wanted to make everyone breakfast, and was trying her best to figure out how.
 
 Captain Z offered to help.
@@ -841,8 +844,6 @@ Captain Z offered to help.
 By the time the rest of the group was awake, they had coffee, eggs, pancakes, and fresh strawberries on the table. Everyone thanked Lucy and Sophia, for the delicious start to the day.
 
 After they had cleaned up, it was time for Dr. Star to get to work. She had some patients to see and didn't want to keep them waiting.
-
-![](img/dr_star_n_kids.png)
 
 "Why don't you all go into town together," she said as she was packing up her things. "You can go see Walter and get some food at the market for supper tonight."
 
@@ -954,6 +955,8 @@ Even if you weren't really a pirate, just being called one could get you into a 
 
 _He would have branded me a pirate no matter what I did,_ Captain Z realized. _But unlucky for them, it happens to be true._
 
+![](img/running.png)
+
 The guards inched closer.
 
 Captain Z felt the apple in her hand. She threw it hard underhanded straight from her hip. It caught the nearest guard square in the forehead, hitting him hard with a thump. He nearly fell over from the blow and stood there holding his head, apple mush all over his face.
@@ -965,8 +968,6 @@ Grabbing Lucy's hand again, she started running away from the fruit stand.
 "Let's go!" She ordered the other two children. Nova and Orion followed, running as fast as they could.
 
 People in the crowd watching the ordeal jumped back as the guards pulled out their swords and started following. The first guard was still wiping the mush off as he ran.
-
-![](img/running.png)
 
 The apple had slowed the guards a bit, but not by much. Captain Z tried to loose them in the crowds by running zig-zag through the stalls and people. Still the guards followed. They were getting closer.
 
@@ -1059,6 +1060,8 @@ Captain Z didn't make it to the University, but they did make it home. Three mor
 The two guards never saw the captain or the children again.
 
 #
+
+![](img/port_of_goodnews.png)
 
 Captain Z woke up in a sweat, breathing heavy from a terrible nightmare.
 
@@ -1183,8 +1186,6 @@ CAPTAINS AND PIRATES
 ```
 
 #
-
-![](img/port_of_goodnews.png)
 
 Captain Z stared at the decoded message, trying to grasp its full meaning.
 
@@ -1342,13 +1343,13 @@ As they say, a fight is no fun if your match doesn't know they are fighting.
 
 Still, he was there waiting in the dark, just the same.
 
-![](img/battle_of_the_port.png)
-
 As he was thinking about this, he heard strange noises coming from far off on the shore. He turned to gaze out with his red eye to see what was going on. The eye focused on a big black bird, a crow. The same crow he had seen on Castle Island! It was screeching and diving at pirates on the pier near a familar looking boat.
 
 His eye lit up at the sight of the bird. _What is that thing doing in Goodnews?_ Spears wondered. _It should still be mourning the loss of its poor little captain out on Castle Island._
 
 Then, he saw Captain Zephyr herself running down the pier toward her ship. Captain Spears nearly fell overboard from the sight. She was alive!
+
+![](img/battle_of_the_port.png)
 
 "Well I'll be a talkin' gator," he said to himself.
 
@@ -1446,13 +1447,13 @@ The ship creaked again as it lifted up completely out of the water. Now they wer
 
 In two seconds, they would skim right in front of the Sea Breaker.
 
-![](img/flying_ship.png)
-
 Desperately, Captain Z grabbed the last two feathers in her free hand and jumped up into the sail. Both feathers stuck to the sail as Captain Z fell down to the ground.
 
 Wind Drinker lurched into the air like a wind powered rocket.
 
 Captain Spears and his crew stood slack-jawed and silent. Their necks craned up as Captain Z's ship sailed over their heads and out towards the sea. No one could speak. Spears's eye changed to a brilliant yellow as he watched the flying vessel, not believing what he was seeing.
+
+![](img/flying_ship.png)
 
 Wind Drinker flew steadily up and up until finally leveling off high in the sky. Muddle flew along next to Captain Z and weaved back and forth among the masts as they went. The children began to cheer when they realized they had somehow escaped.
 
