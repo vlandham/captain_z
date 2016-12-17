@@ -14,3 +14,6 @@ width = bleed + page_width + spine_width + page_width + bleed => 11.49997
 height = bleed + page_height + bleed => 8.75
 
 
+bleed + page_width + spine_width  + page_width => 11.37497
+
+bleed + page_height => 8.625
